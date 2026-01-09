@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TVIP GHZ - Sistema Descentralizado</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            overflow-x: hidden;
+            overflow-y: auto;
+            min-height: 100vh;
+            width: 100vw;
+        }
+
+        #vanta-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+        }
+
+        .container {
+            position: relative;
+            z-index: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .logo-container {
+            margin-bottom: 30px;
+            animation: float 3s ease-in-out infinite;
+        }
+
+        .logo-container img {
+            max-width: 300px;
+            width: 100%;
+            height: auto;
+            filter: drop-shadow(0 0 20px rgba(0, 212, 255, 0.5)) 
+                    drop-shadow(0 0 40px rgba(0, 212, 255, 0.3));
+            animation: glow 2s ease-in-out infinite alternate;
+        }
+
+        @keyframes float {
+            0%, 100% {
+                transform: translateY(0px);
+            }
+            50% {
+                transform: translateY(-20px);
+            }
+        }
+
+        @keyframes glow {
+            from {
+                filter: drop-shadow(0 0 20px rgba(0, 212, 255, 0.5)) 
+                        drop-shadow(0 0 40px rgba(0, 212, 255, 0.3));
+            }
+            to {
+                filter: drop-shadow(0 0 30px rgba(0, 212, 255, 0.8)) 
+                        drop-shadow(0 0 60px rgba(0, 212, 255, 0.5));
+            }
+        }
+
+        .title {
+            font-size: 4rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, #00d4ff 0%, #0099ff 30%, #0066ff 60%, #00d4ff 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            background-size: 200% auto;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+            animation: textShine 3s ease-in-out infinite, gradientShift 5s ease infinite;
+            text-shadow: 0 0 40px rgba(0, 212, 255, 0.6);
+            position: relative;
+            word-wrap: break-word;
+            line-height: 1.2;
+        }
+
+        @keyframes textShine {
+            0%, 100% {
+                opacity: 1;
+                filter: brightness(1);
+            }
+            50% {
+                opacity: 0.9;
+                filter: brightness(1.2);
+            }
+        }
+
+        @keyframes gradientShift {
+            0%, 100% {
+                background-position: 0% 50%;
+            }
+            50% {
+                background-position: 100% 50%;
+            }
+        }
+
+        .subtitle {
+            font-size: 1.5rem;
+            color: #00d4ff;
+            margin-bottom: 25px;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            font-weight: 400;
+            animation: pulse 2s ease-in-out infinite;
+            text-shadow: 0 0 20px rgba(0, 212, 255, 0.8),
+                          0 0 40px rgba(0, 212, 255, 0.4);
+            word-wrap: break-word;
+        }
+
+        @keyframes pulse {
+            0%, 100% {
+                opacity: 1;
+            }
+            50% {
+                opacity: 0.6;
+            }
+        }
+
+        .decentralized-text {
+            font-size: 1.2rem;
+            color: #e0f7ff;
+            margin-bottom: 40px;
+            max-width: 600px;
+            line-height: 1.8;
+            text-shadow: 0 0 15px rgba(224, 247, 255, 0.4);
+            padding: 0 20px;
+            font-weight: 400;
+            letter-spacing: 0.5px;
+            word-wrap: break-word;
+        }
+
+        .decentralized-text strong {
+            color: #00d4ff;
+            text-shadow: 0 0 20px rgba(0, 212, 255, 1),
+                          0 0 40px rgba(0, 212, 255, 0.6);
+            font-weight: 600;
+            letter-spacing: 1px;
+        }
+
+        .connect-button {
+            padding: 18px 50px;
+            font-size: 1.3rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            background: linear-gradient(135deg, rgba(0, 212, 255, 0.15) 0%, rgba(0, 153, 255, 0.15) 100%);
+            border: 2px solid #00d4ff;
+            color: #00d4ff;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-block;
+            box-shadow: 0 0 25px rgba(0, 212, 255, 0.4),
+                        inset 0 0 25px rgba(0, 212, 255, 0.1),
+                        0 0 0 1px rgba(0, 212, 255, 0.2);
+        }
+
+        .connect-button::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(0, 212, 255, 0.4), transparent);
+            transition: left 0.6s;
+        }
+
+        .connect-button:hover::before {
+            left: 100%;
+        }
+
+        .connect-button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 0 40px rgba(0, 212, 255, 0.7),
+                        inset 0 0 35px rgba(0, 212, 255, 0.25),
+                        0 0 0 2px rgba(0, 212, 255, 0.4);
+            border-color: #00d4ff;
+            color: #ffffff;
+            background: linear-gradient(135deg, rgba(0, 212, 255, 0.25) 0%, rgba(0, 153, 255, 0.25) 100%);
+        }
+
+        .connect-button:active {
+            transform: translateY(-1px);
+        }
+
+        /* Efeito de partículas de fundo */
+        .particles {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+            pointer-events: none;
+        }
+
+        /* Responsividade */
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px;
+                justify-content: flex-start;
+                padding-top: 40px;
+                padding-bottom: 40px;
+            }
+
+            .logo-container {
+                margin-bottom: 25px;
+            }
+
+            .logo-container img {
+                max-width: 200px;
+            }
+
+            .title {
+                font-size: 2rem;
+                letter-spacing: 2px;
+                margin-bottom: 15px;
+                line-height: 1.1;
+            }
+
+            .subtitle {
+                font-size: 1rem;
+                letter-spacing: 2px;
+                margin-bottom: 20px;
+            }
+
+            .decentralized-text {
+                font-size: 0.95rem;
+                line-height: 1.6;
+                margin-bottom: 30px;
+                padding: 0 15px;
+            }
+
+            .connect-button {
+                padding: 14px 35px;
+                font-size: 1rem;
+                letter-spacing: 1.5px;
+                width: auto;
+                max-width: 90%;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 10px;
+                padding-top: 30px;
+                padding-bottom: 30px;
+            }
+
+            .logo-container {
+                margin-bottom: 20px;
+            }
+
+            .logo-container img {
+                max-width: 150px;
+            }
+
+            .title {
+                font-size: 1.5rem;
+                letter-spacing: 1px;
+                margin-bottom: 12px;
+            }
+
+            .subtitle {
+                font-size: 0.9rem;
+                letter-spacing: 1.5px;
+                margin-bottom: 18px;
+            }
+
+            .decentralized-text {
+                font-size: 0.85rem;
+                line-height: 1.5;
+                margin-bottom: 25px;
+                padding: 0 10px;
+            }
+
+            .connect-button {
+                padding: 12px 30px;
+                font-size: 0.9rem;
+                letter-spacing: 1px;
+                width: auto;
+                max-width: 85%;
+            }
+        }
+
+        @media (max-width: 360px) {
+            .title {
+                font-size: 1.3rem;
+            }
+
+            .subtitle {
+                font-size: 0.8rem;
+            }
+
+            .decentralized-text {
+                font-size: 0.8rem;
+            }
+
+            .logo-container img {
+                max-width: 120px;
+            }
+
+            .connect-button {
+                padding: 10px 25px;
+                font-size: 0.85rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Fundo com animação Vanta Waves -->
+    <div id="vanta-bg"></div>
+
+    <div class="container">
+        <div class="logo-container">
+            <img src="resources/logo.png" alt="TVIP GHZ Logo">
+        </div>
+
+        <h1 class="title">Construindo EM BREVE</h1>
+
+        <p class="subtitle">TVIP.GHZ</p>
+
+        <p class="decentralized-text">
+            O <strong>sistema descentralizado de streaming ao vivo</strong> do futuro. <strong>Segurança</strong>, <strong>privacidade</strong> e <strong>descentralização hiperconectada</strong> para transformar sua experiência de assistir TV.
+        </p>
+
+        <a href="#" class="connect-button" id="connectBtn">Conectar</a>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanta/dist/vanta.waves.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    <script src="js/vanta.js"></script>
+    <script>
+        // Adicionar funcionalidade ao botão conectar
+        document.getElementById('connectBtn').addEventListener('click', function(e) {
+            e.preventDefault();
+            alert('Construindo!');
+        });
+    </script>
+</body>
+</html>
