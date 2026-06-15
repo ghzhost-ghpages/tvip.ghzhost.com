@@ -7,7 +7,6 @@
     <!-- Google Fonts Outfit & Inter -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
     <!-- FontAwesome para ícones premium -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-size/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
     <style>
@@ -600,9 +599,8 @@
     <!-- Scripts -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vanta/dist/vanta.waves.min.js"></script>
-    <!-- Hlsjs P2P Engine CDN -->
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-    <script src="https://cdn.jsdelivr.net/npm/cdnbye-hlsjs-p2p-engine@latest"></script>
+    <!-- Hlsjs com P2P Engine CDN (CDNBye/SwarmCloud) -->
+    <script src="https://cdn.jsdelivr.net/npm/cdnbye@latest/dist/hls.min.js"></script>
     <script src="js/vanta.js"></script>
 
     <script>
@@ -705,34 +703,30 @@
                     "wss://tracker.openwebtorrent.com",
                     "wss://tracker.novage.com.ua",
                     "wss://tracker.bj388.top"
-                ]
+                ],
+                // No CDNBye integrado, passamos a escuta de estatísticas diretamente no callback do p2pConfig
+                getStats: function (totalP2PDownloaded, totalP2PUploaded, totalHTTPDownloaded) {
+                    p2pStats.httpDownloaded = totalHTTPDownloaded || 0;
+                    p2pStats.p2pDownloaded = totalP2PDownloaded || 0;
+                    p2pStats.p2pUploaded = totalP2PUploaded || 0;
+                    updateP2PStatsUI();
+                }
             };
 
-            // HLS.js Player com P2P
+            // HLS.js Player com P2P integrado (CDNBye)
             if (Hls.isSupported()) {
-                const p2pEngine = new P2PEngine(p2pConfig);
-                
                 hlsInstance = new Hls({
                     maxBufferSize: 0,
                     maxBufferLength: 30,
                     liveSyncDurationCount: 7,
-                    loader: p2pEngine.createLoaderClass()
+                    p2pConfig: p2pConfig // Injeta a config P2P na inicialização do Hls
                 });
 
                 hlsInstance.loadSource(channel.url);
                 hlsInstance.attachMedia(videoElement);
 
-                p2pEngine.initHlsjsPlayer(hlsInstance);
-
-                // Escutar estatísticas da rede descentralizada
-                p2pEngine.on('stats', function (stats) {
-                    p2pStats.httpDownloaded += stats.httpDownloaded || 0;
-                    p2pStats.p2pDownloaded += stats.p2pDownloaded || 0;
-                    p2pStats.p2pUploaded += stats.p2pUploaded || 0;
-                    updateP2PStatsUI();
-                });
-
-                p2pEngine.on('peers', function (peers) {
+                // Escuta eventos de peers conectados
+                hlsInstance.on('peers', function (peers) {
                     document.getElementById('p2pPeers').innerText = peers.length;
                 });
 
