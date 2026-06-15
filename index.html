@@ -1155,6 +1155,32 @@
             box-shadow: var(--neon-glow);
         }
 
+        /* Mobile Header Top Row (Hamburguer + Brand) */
+        .main-header-top {
+            display: contents;
+        }
+
+        .main-header-brand {
+            display: none;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .main-header-brand img {
+            height: 32px;
+            filter: drop-shadow(0 0 8px var(--neon-cyan));
+        }
+
+        .main-header-brand span {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1.15rem;
+            font-weight: 900;
+            letter-spacing: 2px;
+            background: linear-gradient(135deg, var(--neon-cyan), #ffffff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
         /* Sidebar Overlay Backdrop */
         .sidebar-backdrop {
             display: none;
@@ -1215,6 +1241,16 @@
                 display: flex;
             }
 
+            .main-header-top {
+                display: flex;
+                align-items: center;
+                gap: 12px;
+            }
+
+            .main-header-brand {
+                display: flex;
+            }
+
             .sidebar-backdrop {
                 display: block;
             }
@@ -1256,13 +1292,12 @@
             .sidebar-header {
                 flex-direction: row;
                 align-items: center;
-                justify-content: space-between;
                 padding: 12px 20px;
                 gap: 15px;
                 border-bottom: 1px solid rgba(0, 173, 229, 0.1);
             }
-            .brand {
-                flex-shrink: 0;
+            .sidebar-header .brand {
+                display: none;
             }
             .brand img {
                 height: 32px;
@@ -1380,15 +1415,20 @@
         }
 
         @media (max-width: 768px) {
-            .sidebar {
-                height: auto;
-                max-height: 235px;
-            }
             .main-header {
                 flex-direction: column;
-                gap: 15px;
+                gap: 12px;
                 align-items: stretch;
                 padding: 15px;
+            }
+            .main-header-top {
+                align-items: center;
+            }
+            .main-header-brand span {
+                font-size: 1rem;
+            }
+            .main-header-brand img {
+                height: 26px;
             }
             .header-actions {
                 flex-direction: column;
@@ -1521,14 +1561,20 @@
         <div class="main-content">
             <!-- Header do Player -->
             <div class="main-header">
+                <div class="main-header-top">
+                    <button class="hamburger-btn" id="hamburgerBtn" aria-label="Abrir menu de canais">
+                        <i class="fa-solid fa-bars"></i>
+                    </button>
+                    <div class="main-header-brand">
+                        <img src="resources/logo.png" alt="TVIP GHZ Logo">
+                        <span>GHZ TVIP</span>
+                    </div>
+                </div>
                 <div class="active-channel-details">
                     <h2 id="currentChannelName">Sinal Não Sintonizado</h2>
                     <p id="currentChannelInfo">Aguardando Conexão de Fluxo P2P</p>
                 </div>
                 <div class="header-actions">
-                    <button class="hamburger-btn" id="hamburgerBtn" aria-label="Abrir menu de canais">
-                        <i class="fa-solid fa-bars"></i>
-                    </button>
                     <div class="cors-toggle-container">
                         <label class="switch">
                             <input type="checkbox" id="corsProxyToggle">
