@@ -11,15 +11,15 @@
     
     <style>
         :root {
-            --neon-cyan: #00f0ff;
-            --neon-pink: #ff007f;
-            --neon-blue: #0066ff;
-            --bg-dark: #03030c;
-            --panel-bg: rgba(6, 6, 20, 0.75);
-            --panel-border: rgba(0, 240, 255, 0.18);
-            --text-glow: 0 0 8px rgba(0, 240, 255, 0.6);
-            --neon-glow: 0 0 15px rgba(0, 240, 255, 0.4);
-            --pink-glow: 0 0 15px rgba(255, 0, 127, 0.4);
+            --neon-cyan: #ffbf0b; /* Amarelo ouro GhzHost */
+            --neon-pink: #005f89; /* Azul médio GhzHost */
+            --neon-blue: #01233f; /* Azul escuro GhzHost */
+            --bg-dark: #01233f;   /* Fundo oficial GhzHost */
+            --panel-bg: rgba(1, 35, 63, 0.75);
+            --panel-border: rgba(255, 191, 11, 0.22);
+            --text-glow: 0 0 8px rgba(255, 191, 11, 0.6);
+            --neon-glow: 0 0 15px rgba(255, 191, 11, 0.4);
+            --pink-glow: 0 0 15px rgba(0, 95, 137, 0.4);
         }
 
         * {
@@ -46,7 +46,7 @@
             width: 100%;
             height: 100%;
             z-index: 0;
-            opacity: 0.35;
+            opacity: 0.55;
         }
 
         /* Grade perspectiva 3D cibernética 2150 deslizando */
@@ -57,13 +57,13 @@
             width: 100%;
             height: 100%;
             background-image: 
-                linear-gradient(rgba(0, 240, 255, 0.05) 1px, transparent 1px),
-                linear-gradient(90deg, rgba(0, 240, 255, 0.05) 1px, transparent 1px);
-            background-size: 50px 50px;
+                linear-gradient(rgba(255, 191, 11, 0.04) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(255, 191, 11, 0.04) 1px, transparent 1px);
+            background-size: 55px 55px;
             background-position: center;
             transform: perspective(500px) rotateX(60deg) translateY(-30%) translateZ(0);
             transform-origin: top center;
-            opacity: 0.15;
+            opacity: 0.25;
             z-index: 1;
             pointer-events: none;
             animation: grid-scroll 25s linear infinite;
@@ -71,7 +71,7 @@
 
         @keyframes grid-scroll {
             0% { background-position-y: 0; }
-            100% { background-position-y: 1000px; }
+            100% { background-position-y: 1100px; }
         }
 
         /* Linhas de scan sci-fi para textura futurista */
@@ -86,9 +86,9 @@
                 rgba(0, 0, 0, 0.25) 50%
             ), linear-gradient(
                 90deg,
-                rgba(255, 0, 0, 0.06),
-                rgba(0, 255, 0, 0.02),
-                rgba(0, 0, 255, 0.06)
+                rgba(255, 0, 0, 0.03),
+                rgba(0, 255, 0, 0.01),
+                rgba(0, 0, 255, 0.03)
             );
             background-size: 100% 4px, 6px 100%;
             z-index: 2;
@@ -105,7 +105,7 @@
             height: 100vh;
             width: 100vw;
             backdrop-filter: blur(15px);
-            background: rgba(2, 2, 8, 0.65);
+            background: rgba(1, 35, 63, 0.65);
         }
 
         /* Sidebar Lateral (Canais) */
@@ -133,7 +133,7 @@
 
         .sidebar-header {
             padding: 25px 20px;
-            border-bottom: 1px solid rgba(0, 240, 255, 0.1);
+            border-bottom: 1px solid rgba(255, 191, 11, 0.1);
             display: flex;
             flex-direction: column;
             gap: 20px;
@@ -166,20 +166,21 @@
             font-size: 1.5rem;
             font-weight: 900;
             letter-spacing: 2px;
-            background: linear-gradient(135deg, var(--neon-cyan), var(--neon-blue));
+            background: linear-gradient(135deg, var(--neon-cyan), #ffffff);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
-            text-shadow: 0 0 20px rgba(0, 240, 255, 0.2);
+            text-shadow: 0 0 20px rgba(255, 191, 11, 0.2);
         }
 
         .brand .tagline {
             font-size: 0.65rem;
-            color: var(--neon-pink);
+            color: #ffffff;
             text-transform: uppercase;
             letter-spacing: 3px;
             font-weight: 700;
             margin-top: 2px;
-            text-shadow: 0 0 5px var(--neon-pink);
+            text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+            opacity: 0.85;
         }
 
         /* Barra de Busca */
@@ -191,8 +192,8 @@
         .search-box input {
             width: 100%;
             padding: 12px 15px 12px 45px;
-            background: rgba(5, 5, 15, 0.8);
-            border: 1px solid rgba(0, 240, 255, 0.2);
+            background: rgba(1, 15, 30, 0.8);
+            border: 1px solid rgba(255, 191, 11, 0.2);
             border-radius: 8px;
             color: #fff;
             font-size: 0.9rem;
@@ -204,7 +205,7 @@
         .search-box input:focus {
             border-color: var(--neon-cyan);
             box-shadow: var(--neon-glow);
-            background: rgba(10, 10, 30, 0.9);
+            background: rgba(1, 20, 45, 0.9);
         }
 
         .search-box i {
@@ -222,7 +223,7 @@
             display: flex;
             gap: 10px;
             overflow-x: auto;
-            border-bottom: 1px solid rgba(0, 240, 255, 0.08);
+            border-bottom: 1px solid rgba(255, 191, 11, 0.08);
             scrollbar-width: none;
         }
 
@@ -236,7 +237,7 @@
             border: 1px solid rgba(255, 255, 255, 0.05);
             border-radius: 20px;
             font-size: 0.75rem;
-            color: #9ca3af;
+            color: #a3a9b6;
             cursor: pointer;
             white-space: nowrap;
             transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
@@ -245,15 +246,15 @@
 
         .filter-btn:hover {
             color: #fff;
-            border-color: rgba(0, 240, 255, 0.3);
-            background: rgba(0, 240, 255, 0.05);
+            border-color: rgba(255, 191, 11, 0.3);
+            background: rgba(255, 191, 11, 0.05);
         }
 
         .filter-btn.active {
-            background: linear-gradient(135deg, rgba(0, 240, 255, 0.15), rgba(0, 102, 255, 0.15));
+            background: linear-gradient(135deg, rgba(255, 191, 11, 0.15), rgba(0, 95, 137, 0.15));
             border-color: var(--neon-cyan);
             color: var(--neon-cyan);
-            box-shadow: 0 0 12px rgba(0, 240, 255, 0.25);
+            box-shadow: 0 0 12px rgba(255, 191, 11, 0.25);
             text-shadow: var(--text-glow);
         }
 
@@ -272,7 +273,7 @@
         }
 
         .channel-list::-webkit-scrollbar-thumb {
-            background: rgba(0, 240, 255, 0.25);
+            background: rgba(255, 191, 11, 0.25);
             border-radius: 4px;
         }
 
@@ -281,7 +282,7 @@
             align-items: center;
             gap: 15px;
             padding: 12px 15px;
-            background: rgba(5, 5, 20, 0.4);
+            background: rgba(1, 25, 48, 0.4);
             border: 1px solid rgba(255, 255, 255, 0.03);
             border-radius: 10px;
             cursor: pointer;
@@ -304,8 +305,8 @@
         }
 
         .channel-item:hover {
-            background: rgba(10, 10, 30, 0.7);
-            border-color: rgba(0, 240, 255, 0.25);
+            background: rgba(1, 28, 55, 0.7);
+            border-color: rgba(255, 191, 11, 0.25);
             transform: translateX(5px);
         }
 
@@ -314,9 +315,9 @@
         }
 
         .channel-item.active {
-            background: linear-gradient(135deg, rgba(0, 240, 255, 0.08), rgba(255, 0, 127, 0.05));
+            background: linear-gradient(135deg, rgba(255, 191, 11, 0.08), rgba(0, 95, 137, 0.08));
             border-color: var(--neon-cyan);
-            box-shadow: 0 0 15px rgba(0, 240, 255, 0.1);
+            box-shadow: 0 0 15px rgba(255, 191, 11, 0.1);
         }
 
         .channel-item.active::before {
@@ -327,8 +328,8 @@
         .channel-logo {
             width: 48px;
             height: 48px;
-            background: rgba(2, 2, 8, 0.9);
-            border: 1px solid rgba(0, 240, 255, 0.15);
+            background: rgba(1, 15, 30, 0.9);
+            border: 1px solid rgba(255, 191, 11, 0.15);
             border-radius: 8px;
             display: flex;
             align-items: center;
@@ -345,7 +346,7 @@
 
         .channel-logo i {
             font-size: 1.3rem;
-            color: rgba(0, 240, 255, 0.4);
+            color: rgba(255, 191, 11, 0.4);
         }
 
         .channel-info {
@@ -376,8 +377,8 @@
         .channel-flag {
             font-size: 0.65rem;
             padding: 3px 8px;
-            background: rgba(0, 240, 255, 0.1);
-            border: 1px solid rgba(0, 240, 255, 0.2);
+            background: rgba(255, 191, 11, 0.1);
+            border: 1px solid rgba(255, 191, 11, 0.2);
             border-radius: 6px;
             color: var(--neon-cyan);
             font-family: 'Orbitron', sans-serif;
@@ -385,9 +386,9 @@
         }
 
         .channel-item.active .channel-flag {
-            background: rgba(255, 0, 127, 0.1);
-            border-color: var(--neon-pink);
-            color: var(--neon-pink);
+            background: rgba(255, 255, 255, 0.1);
+            border-color: #ffffff;
+            color: #ffffff;
         }
 
         /* Área do Player (Main Content) */
@@ -447,8 +448,8 @@
 
         .btn-action {
             padding: 10px 20px;
-            background: rgba(5, 5, 20, 0.8);
-            border: 1px solid rgba(0, 240, 255, 0.3);
+            background: rgba(1, 20, 40, 0.8);
+            border: 1px solid rgba(255, 191, 11, 0.3);
             border-radius: 8px;
             color: var(--neon-cyan);
             font-size: 0.8rem;
@@ -469,6 +470,7 @@
             color: var(--bg-dark);
             box-shadow: var(--neon-glow);
             transform: translateY(-2px);
+            font-weight: bold;
         }
 
         /* Container do Player de Vídeo */
@@ -517,8 +519,8 @@
             display: flex;
             align-items: center;
             gap: 8px;
-            background: rgba(2, 2, 8, 0.6);
-            border: 1px solid rgba(0, 240, 255, 0.3);
+            background: rgba(1, 20, 40, 0.65);
+            border: 1px solid rgba(255, 191, 11, 0.3);
             padding: 6px 12px;
             border-radius: 6px;
             color: var(--neon-cyan);
@@ -529,7 +531,7 @@
             z-index: 10;
             pointer-events: none;
             backdrop-filter: blur(5px);
-            opacity: 0.7;
+            opacity: 0.85;
             text-shadow: var(--text-glow);
         }
 
@@ -549,7 +551,7 @@
             flex-direction: column;
             align-items: center;
             gap: 20px;
-            color: rgba(0, 240, 255, 0.4);
+            color: rgba(255, 191, 11, 0.4);
             z-index: 3;
             text-align: center;
         }
@@ -557,14 +559,14 @@
         .player-placeholder i {
             font-size: 5rem;
             color: var(--neon-cyan);
-            filter: drop-shadow(0 0 20px rgba(0, 240, 255, 0.6));
+            filter: drop-shadow(0 0 20px rgba(255, 191, 11, 0.6));
             animation: pulse-ring 2s ease-in-out infinite;
         }
 
         @keyframes pulse-ring {
-            0% { transform: scale(1); filter: drop-shadow(0 0 10px rgba(0, 240, 255, 0.4)); }
-            50% { transform: scale(1.05); filter: drop-shadow(0 0 25px rgba(0, 240, 255, 0.8)); }
-            100% { transform: scale(1); filter: drop-shadow(0 0 10px rgba(0, 240, 255, 0.4)); }
+            0% { transform: scale(1); filter: drop-shadow(0 0 10px rgba(255, 191, 11, 0.4)); }
+            50% { transform: scale(1.05); filter: drop-shadow(0 0 25px rgba(255, 191, 11, 0.8)); }
+            100% { transform: scale(1); filter: drop-shadow(0 0 10px rgba(255, 191, 11, 0.4)); }
         }
 
         .player-placeholder p {
@@ -582,7 +584,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: rgba(2, 2, 8, 0.96);
+            background: rgba(1, 23, 43, 0.97);
             display: none;
             flex-direction: column;
             align-items: center;
@@ -594,7 +596,7 @@
         .loader-radar {
             width: 130px;
             height: 130px;
-            border: 2px solid rgba(0, 240, 255, 0.15);
+            border: 2px solid rgba(255, 191, 11, 0.15);
             border-radius: 50%;
             position: relative;
             display: flex;
@@ -611,7 +613,7 @@
             border-right: 2px solid transparent;
             border-radius: 50%;
             animation: spin 1s linear infinite;
-            box-shadow: 0 0 20px rgba(0, 240, 255, 0.4);
+            box-shadow: 0 0 20px rgba(255, 191, 11, 0.4);
         }
 
         .loader-radar::after {
@@ -623,7 +625,7 @@
             border-left: 2px solid transparent;
             border-radius: 50%;
             animation: spin-reverse 1.5s linear infinite;
-            box-shadow: 0 0 15px rgba(255, 0, 127, 0.3);
+            box-shadow: 0 0 15px rgba(0, 95, 137, 0.3);
         }
 
         /* Efeito de laser scanner horizontal no loader */
@@ -680,10 +682,10 @@
         .loader-msg {
             font-family: 'Share Tech Mono', monospace;
             font-size: 0.85rem;
-            color: #9ca3af;
+            color: #a3a9b6;
             letter-spacing: 1.5px;
             min-height: 24px;
-            text-shadow: 0 0 4px rgba(0, 240, 255, 0.2);
+            text-shadow: 0 0 4px rgba(255, 191, 11, 0.2);
         }
 
         .loader-progress-bar-container {
@@ -692,14 +694,14 @@
             background: rgba(255, 255, 255, 0.05);
             border-radius: 10px;
             overflow: hidden;
-            border: 1px solid rgba(0, 240, 255, 0.15);
+            border: 1px solid rgba(255, 191, 11, 0.15);
             margin-top: 5px;
         }
 
         .loader-progress-fill {
             height: 100%;
             width: 0%;
-            background: linear-gradient(90deg, var(--neon-cyan), var(--neon-pink));
+            background: linear-gradient(90deg, var(--neon-pink), var(--neon-cyan));
             box-shadow: 0 0 10px var(--neon-cyan);
             transition: width 0.3s ease;
         }
@@ -710,8 +712,8 @@
             bottom: 0;
             left: 0;
             width: 100%;
-            background: linear-gradient(to top, rgba(2, 2, 8, 0.95) 0%, rgba(2, 2, 8, 0.75) 75%, transparent 100%);
-            border-top: 1px solid rgba(0, 240, 255, 0.15);
+            background: linear-gradient(to top, rgba(1, 20, 40, 0.95) 0%, rgba(1, 20, 40, 0.75) 75%, transparent 100%);
+            border-top: 1px solid rgba(255, 191, 11, 0.15);
             display: flex;
             flex-direction: column;
             padding: 15px 25px;
@@ -751,7 +753,7 @@
             top: 0;
             left: 0;
             height: 100%;
-            background: rgba(255, 0, 127, 0.3); /* Neon Pink Buffer */
+            background: rgba(255, 191, 11, 0.2); /* Neon Yellow transparent Buffer */
             width: 0%;
             transition: width 0.3s ease;
         }
@@ -761,7 +763,7 @@
             top: 0;
             left: 0;
             height: 100%;
-            background: linear-gradient(90deg, var(--neon-cyan), var(--neon-blue));
+            background: linear-gradient(90deg, var(--neon-cyan), var(--neon-pink));
             width: 0%;
             box-shadow: 0 0 8px var(--neon-cyan);
         }
@@ -796,10 +798,10 @@
 
         .ghz-ctrl-btn:hover {
             color: var(--neon-cyan);
-            border-color: rgba(0, 240, 255, 0.25);
-            background: rgba(0, 240, 255, 0.06);
+            border-color: rgba(255, 191, 11, 0.25);
+            background: rgba(255, 191, 11, 0.06);
             text-shadow: var(--text-glow);
-            box-shadow: 0 0 10px rgba(0, 240, 255, 0.15);
+            box-shadow: 0 0 10px rgba(255, 191, 11, 0.15);
         }
 
         /* Volume slider style */
@@ -881,15 +883,15 @@
             gap: 12px;
             font-family: 'Orbitron', sans-serif;
             font-size: 0.65rem;
-            color: #9ca3af;
+            color: #a3a9b6;
         }
 
         .ghz-hud-item {
             display: flex;
             align-items: center;
             gap: 6px;
-            background: rgba(0, 240, 255, 0.04);
-            border: 1px solid rgba(0, 240, 255, 0.1);
+            background: rgba(255, 191, 11, 0.04);
+            border: 1px solid rgba(255, 191, 11, 0.1);
             padding: 4px 8px;
             border-radius: 4px;
         }
@@ -909,7 +911,7 @@
             bottom: 75px;
             right: 25px;
             width: 260px;
-            background: rgba(5, 5, 20, 0.95);
+            background: rgba(1, 20, 40, 0.95);
             border: 1px solid var(--neon-cyan);
             border-radius: 10px;
             padding: 15px;
@@ -930,7 +932,7 @@
             font-size: 0.75rem;
             color: var(--neon-cyan);
             font-weight: 700;
-            border-bottom: 1px solid rgba(0, 240, 255, 0.2);
+            border-bottom: 1px solid rgba(255, 191, 11, 0.2);
             padding-bottom: 8px;
             letter-spacing: 1.5px;
         }
@@ -945,7 +947,7 @@
 
         .settings-option select {
             background: rgba(0, 0, 0, 0.5);
-            border: 1px solid rgba(0, 240, 255, 0.3);
+            border: 1px solid rgba(255, 191, 11, 0.3);
             color: #fff;
             border-radius: 4px;
             padding: 2px 6px;
@@ -960,12 +962,11 @@
             font-family: 'Orbitron', sans-serif;
         }
 
-        /* Painel Inferior de Redes & P2P */
+        /* Painel Inferior de Redes & P2P (Largura Completa) */
         .bottom-grid {
-            display: grid;
-            grid-template-columns: 2.2fr 1fr;
-            gap: 25px;
-            height: 160px;
+            display: block;
+            width: 100%;
+            height: auto;
         }
 
         .p2p-stats-panel {
@@ -974,36 +975,37 @@
             border-radius: 12px;
             padding: 20px;
             display: grid;
-            grid-template-columns: repeat(4, 1fr) 1.5fr; /* 4 stats + 1 canvas chart */
-            gap: 15px;
+            grid-template-columns: repeat(4, 1fr) 2fr; /* 4 stats + 1 canvas de espectro largo */
+            gap: 20px;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
             position: relative;
             align-items: center;
+            width: 100%;
         }
 
         .stat-card {
             display: flex;
             align-items: center;
             gap: 15px;
-            border-right: 1px solid rgba(0, 240, 255, 0.1);
+            border-right: 1px solid rgba(255, 191, 11, 0.1);
             height: 100%;
         }
 
         .stat-card:nth-child(4) {
-            border-right: 1px solid rgba(0, 240, 255, 0.1);
+            border-right: 1px solid rgba(255, 191, 11, 0.1);
         }
 
         .stat-icon {
             font-size: 1.3rem;
             color: var(--neon-cyan);
-            background: rgba(0, 240, 255, 0.08);
+            background: rgba(255, 191, 11, 0.08);
             width: 44px;
             height: 44px;
             border-radius: 10px;
             display: flex;
             align-items: center;
             justify-content: center;
-            border: 1px solid rgba(0, 240, 255, 0.2);
+            border: 1px solid rgba(255, 191, 11, 0.2);
             box-shadow: var(--text-glow);
         }
 
@@ -1014,7 +1016,7 @@
         }
 
         .stat-value {
-            font-size: 1.25rem;
+            font-size: 1.3rem;
             font-weight: 700;
             color: #fff;
             font-family: 'Orbitron', sans-serif;
@@ -1023,7 +1025,7 @@
 
         .stat-label {
             font-size: 0.65rem;
-            color: #9ca3af;
+            color: #a3a9b6;
             text-transform: uppercase;
             margin-top: 4px;
             letter-spacing: 0.5px;
@@ -1036,6 +1038,7 @@
             height: 100%;
             min-width: 0;
             gap: 6px;
+            padding-left: 10px;
         }
 
         .telemetry-header {
@@ -1044,14 +1047,14 @@
             align-items: center;
             font-family: 'Orbitron', sans-serif;
             font-size: 0.65rem;
-            color: var(--neon-pink);
+            color: var(--neon-cyan);
             font-weight: 700;
-            text-shadow: var(--pink-glow);
+            text-shadow: var(--text-glow);
         }
 
         .telemetry-rate {
-            color: var(--neon-cyan) !important;
-            text-shadow: var(--text-glow);
+            color: #ffffff !important;
+            text-shadow: 0 0 5px rgba(255,255,255,0.3);
             font-family: monospace;
         }
 
@@ -1059,91 +1062,9 @@
             flex: 1;
             width: 100%;
             height: 70px;
-            background: rgba(2, 2, 8, 0.6);
-            border: 1px solid rgba(0, 240, 255, 0.12);
+            background: rgba(1, 15, 30, 0.6);
+            border: 1px solid rgba(255, 191, 11, 0.12);
             border-radius: 6px;
-        }
-
-        /* Painel de Nós do Cluster GHZ */
-        .cluster-panel {
-            background: var(--panel-bg);
-            border: 1px solid var(--panel-border);
-            border-radius: 12px;
-            padding: 15px 20px;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
-        }
-
-        .cluster-title {
-            font-family: 'Orbitron', sans-serif;
-            font-size: 0.75rem;
-            color: var(--neon-pink);
-            text-transform: uppercase;
-            letter-spacing: 2px;
-            font-weight: 700;
-            text-shadow: var(--pink-glow);
-            margin-bottom: 8px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .cluster-title span {
-            display: inline-block;
-            width: 6px;
-            height: 6px;
-            border-radius: 50%;
-            background-color: var(--neon-pink);
-            animation: pulse-glow-pink 1.5s infinite;
-        }
-
-        @keyframes pulse-glow-pink {
-            0%, 100% { opacity: 0.3; transform: scale(0.9); }
-            50% { opacity: 1; transform: scale(1.3); }
-        }
-
-        .nodes-container {
-            display: flex;
-            flex-direction: column;
-            gap: 6px;
-        }
-
-        .node-row {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            font-family: 'Orbitron', sans-serif;
-            font-size: 0.65rem;
-            color: #9ca3af;
-        }
-
-        .node-name {
-            font-weight: bold;
-            color: #d1d5db;
-        }
-
-        .node-status {
-            display: flex;
-            align-items: center;
-            gap: 6px;
-            color: #10b981; /* green */
-        }
-
-        .node-status::before {
-            content: '';
-            width: 5px;
-            height: 5px;
-            background-color: #10b981;
-            border-radius: 50%;
-            display: inline-block;
-            box-shadow: 0 0 6px #10b981;
-        }
-
-        .node-ping {
-            color: var(--neon-cyan);
-            font-family: monospace;
         }
 
         /* Switch do CORS Proxy */
@@ -1151,8 +1072,8 @@
             display: flex;
             align-items: center;
             gap: 12px;
-            background: rgba(5, 5, 20, 0.8);
-            border: 1px solid rgba(0, 240, 255, 0.2);
+            background: rgba(1, 15, 30, 0.8);
+            border: 1px solid rgba(255, 191, 11, 0.2);
             border-radius: 8px;
             padding: 8px 16px;
         }
@@ -1160,7 +1081,7 @@
         .toggle-label {
             font-size: 0.75rem;
             font-weight: 600;
-            color: #9ca3af;
+            color: #a3a9b6;
             user-select: none;
             font-family: 'Orbitron', sans-serif;
             text-transform: uppercase;
@@ -1189,7 +1110,7 @@
             bottom: 0;
             background-color: rgba(255, 255, 255, 0.08);
             transition: .3s;
-            border: 1px solid rgba(0, 240, 255, 0.15);
+            border: 1px solid rgba(255, 191, 11, 0.15);
         }
 
         .slider:before {
@@ -1204,9 +1125,9 @@
         }
 
         input:checked + .slider {
-            background-color: rgba(0, 240, 255, 0.15);
+            background-color: rgba(255, 191, 11, 0.15);
             border-color: var(--neon-cyan);
-            box-shadow: 0 0 10px rgba(0, 240, 255, 0.1);
+            box-shadow: 0 0 10px rgba(255, 191, 11, 0.1);
         }
 
         input:checked + .slider:before {
@@ -1228,7 +1149,7 @@
             position: fixed;
             bottom: 30px;
             right: 30px;
-            background: rgba(2, 2, 12, 0.95);
+            background: rgba(1, 20, 40, 0.95);
             border: 1px solid var(--neon-cyan);
             border-radius: 8px;
             padding: 15px 25px;
@@ -1267,9 +1188,7 @@
                 overflow-y: auto;
             }
             .bottom-grid {
-                grid-template-columns: 1fr;
                 height: auto;
-                gap: 15px;
             }
             .p2p-stats-panel {
                 grid-template-columns: repeat(2, 1fr);
@@ -1277,16 +1196,15 @@
             }
             .stat-card {
                 border-right: none;
-                border-bottom: 1px solid rgba(0, 240, 255, 0.08);
+                border-bottom: 1px solid rgba(255, 191, 11, 0.08);
                 padding-bottom: 10px;
                 height: auto;
             }
             .mesh-telemetry-container {
                 grid-column: span 2;
                 height: 100px;
-            }
-            .cluster-panel {
-                padding: 15px;
+                padding-left: 0;
+                margin-top: 10px;
             }
         }
 
@@ -1304,7 +1222,7 @@
                 grid-template-columns: 1fr;
             }
             .stat-card {
-                border-bottom: 1px solid rgba(0, 240, 255, 0.08);
+                border-bottom: 1px solid rgba(255, 191, 11, 0.08);
                 padding-bottom: 10px;
             }
             .stat-card:last-child {
@@ -1482,7 +1400,7 @@
                 </div>
             </div>
 
-            <!-- Painel Inferior Duplo -->
+            <!-- Painel Inferior Duplo (Largura Completa) -->
             <div class="bottom-grid">
                 <!-- Estatísticas P2P -->
                 <div class="p2p-stats-panel">
@@ -1523,30 +1441,6 @@
                         <canvas id="meshChart" class="mesh-canvas"></canvas>
                     </div>
                 </div>
-
-                <!-- Painel de Servidores do Cluster GHZ -->
-                <div class="cluster-panel">
-                    <div class="cluster-title">
-                        CLUSTER INFRA <span></span>
-                    </div>
-                    <div class="nodes-container">
-                        <div class="node-row">
-                            <span class="node-name">BR1-Master</span>
-                            <span class="node-status" id="status-br1">Online</span>
-                            <span class="node-ping" id="ping-br1">15ms</span>
-                        </div>
-                        <div class="node-row">
-                            <span class="node-name">BR2-Worker</span>
-                            <span class="node-status" id="status-br2">Online</span>
-                            <span class="node-ping" id="ping-br2">18ms</span>
-                        </div>
-                        <div class="node-row">
-                            <span class="node-name">BR3-Worker</span>
-                            <span class="node-status" id="status-br3">Online</span>
-                            <span class="node-ping" id="ping-br3">22ms</span>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
@@ -1562,9 +1456,26 @@
     <script src="https://cdn.jsdelivr.net/npm/vanta/dist/vanta.waves.min.js"></script>
     <!-- Hlsjs com P2P Engine CDN (CDNBye/SwarmCloud) -->
     <script src="https://cdn.jsdelivr.net/npm/cdnbye@latest/dist/hls.min.js"></script>
-    <script src="js/vanta.js"></script>
 
     <script>
+        // Inicializar Vanta Waves com cores oficiais GhzHost
+        VANTA.WAVES({
+            el: "#vanta-bg",
+            mouseControls: true,
+            touchControls: true,
+            gyroControls: false,
+            minHeight: 200.00,
+            minWidth: 200.00,
+            scale: 1.00,
+            scaleMobile: 1.00,
+            color: 0x005f89, // Azul médio GhzHost
+            shininess: 35,
+            waveHeight: 15.00,
+            waveSpeed: 0.80,
+            zoom: 1.30,
+            backgroundColor: 0x01233f // Azul escuro GhzHost
+        });
+
         let channelsData = [];
         let activeFilter = 'all';
         let searchQuery = '';
@@ -1643,14 +1554,7 @@
             loaderProgressFill.style.width = "100%";
         }
 
-        // Pings do Cluster Dinâmicos
-        setInterval(() => {
-            document.getElementById('ping-br1').innerText = `${Math.floor(Math.random() * 6) + 11}ms`;
-            document.getElementById('ping-br2').innerText = `${Math.floor(Math.random() * 8) + 14}ms`;
-            document.getElementById('ping-br3').innerText = `${Math.floor(Math.random() * 9) + 16}ms`;
-        }, 3000);
-
-        // Canvas de Telemetria
+        // Canvas de Telemetria (Mesh Spectrum)
         const canvas = document.getElementById('meshChart');
         const ctx = canvas.getContext('2d');
 
@@ -1663,7 +1567,7 @@
         window.addEventListener('resize', resizeCanvas);
         setTimeout(resizeCanvas, 500);
 
-        // Loop de Render do Gráfico Canvas com Sombra Neon
+        // Loop de Render do Gráfico Canvas com Sombra Neon Amarela
         function drawTelemetryChart() {
             if (!canvas) return;
             ctx.clearRect(0, 0, canvas.width, canvas.height);
@@ -1674,7 +1578,7 @@
             const maxVal = Math.max(...points, 300); // Mínimo de escala a 300 KB/s
 
             // Grade do Gráfico
-            ctx.strokeStyle = 'rgba(0, 240, 255, 0.04)';
+            ctx.strokeStyle = 'rgba(255, 191, 11, 0.04)';
             ctx.lineWidth = 1;
             for (let i = 1; i < 4; i++) {
                 const y = (h / 4) * i;
@@ -1684,7 +1588,7 @@
                 ctx.stroke();
             }
 
-            // Desenhar Linha Neon
+            // Desenhar Linha Neon Amarela
             ctx.beginPath();
             const sliceWidth = w / (points.length - 1);
             
@@ -1699,9 +1603,9 @@
                 }
             }
 
-            ctx.strokeStyle = '#00f0ff';
+            ctx.strokeStyle = '#ffbf0b';
             ctx.lineWidth = 2.5;
-            ctx.shadowColor = '#00f0ff';
+            ctx.shadowColor = '#ffbf0b';
             ctx.shadowBlur = 10;
             ctx.stroke();
             ctx.shadowBlur = 0; // Reset para o preenchimento
@@ -1712,8 +1616,8 @@
             ctx.closePath();
 
             const gradient = ctx.createLinearGradient(0, 0, 0, h);
-            gradient.addColorStop(0, 'rgba(0, 240, 255, 0.22)');
-            gradient.addColorStop(1, 'rgba(255, 0, 127, 0.01)');
+            gradient.addColorStop(0, 'rgba(255, 191, 11, 0.22)');
+            gradient.addColorStop(1, 'rgba(0, 95, 137, 0.01)');
             ctx.fillStyle = gradient;
             ctx.fill();
         }
@@ -1725,16 +1629,13 @@
                 let currentRate = 0;
                 
                 if (!videoElement.paused && hlsInstance) {
-                    // Calcula a taxa de tráfego baseada no player
-                    // Hls.js ou simulação ativa
                     const noise = (Math.random() - 0.5) * 80;
                     if (videoElement.buffered.length > 0) {
                         currentRate = Math.max(250 + noise + (Math.sin(Date.now() / 5000) * 150), 80);
                     } else {
-                        currentRate = Math.max(600 + noise, 300); // mais rápido no buffering inicial
+                        currentRate = Math.max(600 + noise, 300);
                     }
                 } else {
-                    // Sinal inativo / Pausado: ruído estático mínimo
                     currentRate = Math.max(Math.random() * 15, 2);
                 }
 
@@ -1742,10 +1643,7 @@
                 speedHistory.push(currentRate);
                 speedHistory.shift();
 
-                // Atualizar taxa de telemetria na UI
                 document.getElementById('telemetryRate').innerText = `${currentRate.toFixed(1)} KB/s`;
-                
-                // Redesenhar
                 drawTelemetryChart();
             }, 500);
         }
@@ -1775,7 +1673,7 @@
             });
 
             if (filtered.length === 0) {
-                container.innerHTML = `<div style="text-align:center;color:rgba(0,240,255,0.4);font-family:'Orbitron',sans-serif;font-size:0.8rem;padding:20px;text-shadow:var(--text-glow)">NENHUM NÓ ATIVO ENCONTRADO</div>`;
+                container.innerHTML = `<div style="text-align:center;color:rgba(255,191,11,0.4);font-family:'Orbitron',sans-serif;font-size:0.8rem;padding:20px;text-shadow:var(--text-glow)">NENHUM NÓ ATIVO ENCONTRADO</div>`;
                 return;
             }
 
@@ -1812,16 +1710,13 @@
             placeholder.style.display = 'none';
             loader.style.display = 'flex';
             
-            // Esconde botões do player até carregar
             document.getElementById('ghzControls').style.opacity = '0';
             
-            // Iniciar mensagens dinâmicas
             startLoadingAnimation();
 
             document.getElementById('currentChannelName').innerText = channel.name;
             document.getElementById('currentChannelInfo').innerText = `LOCALIZAÇÃO: ${channel.country} | NÓ: ${channel.group}`;
             
-            // Define o Edge CDN Node correspondente
             currentEdgeNode.innerText = channel.country === 'Brasil' ? 'BR2-Worker' : 'BR3-Worker';
 
             resetP2PStats();
@@ -1831,11 +1726,9 @@
                 hlsInstance = null;
             }
 
-            // Aplicar CORS Proxy se ativado
             const useCorsProxy = document.getElementById('corsProxyToggle').checked;
             const streamUrl = useCorsProxy ? `https://api.allorigins.win/raw?url=${encodeURIComponent(channel.url)}` : channel.url;
 
-            // Iniciar P2P Engine para o stream
             const p2pConfig = {
                 live: true,
                 getPeersId: true,
@@ -1852,7 +1745,6 @@
                 }
             };
 
-            // HLS.js Player com P2P
             if (Hls.isSupported()) {
                 hlsInstance = new Hls({
                     maxBufferSize: 0,
@@ -1864,11 +1756,9 @@
                 hlsInstance.loadSource(streamUrl);
                 hlsInstance.attachMedia(videoElement);
 
-                // Configurar eventos Hls
                 hlsInstance.on(Hls.Events.MANIFEST_PARSED, function() {
                     currentLoadPercent = 90;
                     videoElement.play().catch(() => {
-                        // Navegadores bloqueiam autoplay não-mudo às vezes
                         videoElement.muted = true;
                         updateVolumeIcon(0, true);
                         volumeSlider.value = 0;
@@ -1882,7 +1772,6 @@
                     stopLoadingAnimation();
                     document.getElementById('ghzControls').style.opacity = '';
                     
-                    // Detecção de resolução real
                     if (videoElement.videoWidth > 0) {
                         document.getElementById('hudResolution').innerText = `${videoElement.videoWidth}x${videoElement.videoHeight}`;
                     }
@@ -1892,7 +1781,6 @@
                     if (data.fatal) {
                         console.error("Erro fatal de reprodução HLS:", data);
                         
-                        // Sistema de Auto-Healing de Borda: Se falhar sem CORS proxy, ativa o CORS proxy e tenta novamente
                         if (!useCorsProxy) {
                             showToast("FALHA DE COMUNICAÇÃO DE BORDA. ATIVANDO BYPASS...");
                             document.getElementById('corsProxyToggle').checked = true;
@@ -1907,7 +1795,6 @@
                     }
                 });
 
-                // Registrar listeners na engine P2P de forma resiliente
                 setTimeout(() => {
                     if (hlsInstance && hlsInstance.p2pEngine) {
                         hlsInstance.p2pEngine.on('peers', function(peers) {
@@ -1923,7 +1810,6 @@
                 }, 1000);
 
             } else if (videoElement.canPlayType('application/vnd.apple.mpegurl')) {
-                // Fallback nativo Safari
                 videoElement.src = streamUrl;
                 videoElement.addEventListener('loadedmetadata', function() {
                     videoElement.play();
@@ -1933,35 +1819,26 @@
                 });
             }
 
-            // Inicializar Simulação P2P/Mesh Ativa para telemetria visual inteligente
             startP2PSimulator();
         }
 
-        // Simulação Dinâmica de Mesh & Tráfego de Apoio do Cluster
         function startP2PSimulator() {
             clearInterval(simulationInterval);
             
-            // Inicia com alguns peers da nossa infra BR1/BR2/BR3 se juntando à malha
             let peersCount = Math.floor(Math.random() * 3) + 3;
             updatePeersCount(peersCount);
 
             simulationInterval = setInterval(() => {
                 if (videoElement.paused || !hlsInstance) return;
 
-                // Oscilação realista de peers conectados
                 if (Math.random() > 0.7) {
                     peersCount += Math.random() > 0.5 ? 1 : -1;
-                    peersCount = Math.max(peersCount, 3); // Mínimo de 3 (nossos nós BR1-BR3 do cluster)
+                    peersCount = Math.max(peersCount, 3);
                     peersCount = Math.min(peersCount, 15);
                     updatePeersCount(peersCount);
                 }
 
-                // Incremento realista de download de segmentos a 3.5 Mbps médio
-                // ~0.45 MB por segundo
                 const chunkDownloaded = 0.35 + (Math.random() * 0.2);
-                
-                // Distribuição da malha (P2P Mesh vs HTTP)
-                // Se temos mais peers, a eficiência sobe!
                 const p2pRatio = 0.65 + (peersCount * 0.02) + (Math.random() * 0.05); 
                 const p2pPart = chunkDownloaded * Math.min(p2pRatio, 0.95);
                 const httpPart = chunkDownloaded - p2pPart;
@@ -1989,7 +1866,6 @@
         }
 
         function updateP2PStatsUI() {
-            // Soma reais e simulados
             const totalP2PDownload = (p2pStats.p2pDownloaded / 1024) + p2pStats.simulatedDownload;
             const totalP2PUpload = (p2pStats.p2pUploaded / 1024) + p2pStats.simulatedUpload;
             const totalHttpDownload = (p2pStats.httpDownloaded / 1024);
@@ -1997,7 +1873,6 @@
             document.getElementById('p2pDownloaded').innerText = `${totalP2PDownload.toFixed(1)} MB`;
             document.getElementById('p2pUploaded').innerText = `${totalP2PUpload.toFixed(1)} MB`;
 
-            // Eficiência de Mesh
             const totalDownloaded = totalHttpDownload + totalP2PDownload;
             if (totalDownloaded > 0) {
                 const efficiency = Math.round((totalP2PDownload / totalDownloaded) * 100);
@@ -2007,18 +1882,17 @@
             }
         }
 
-        // LÓGICA DE CONTROLES CUSTOMIZADOS DO PLAYER
         function togglePlay() {
             if (videoElement.paused) {
                 videoElement.play();
                 playPauseBtn.innerHTML = '<i class="fa-solid fa-pause"></i>';
-                playPauseBtn.style.color = 'var(--neon-pink)';
-                playPauseBtn.style.borderColor = 'rgba(255, 0, 127, 0.3)';
+                playPauseBtn.style.color = 'var(--neon-cyan)';
+                playPauseBtn.style.borderColor = 'rgba(255, 191, 11, 0.3)';
             } else {
                 videoElement.pause();
                 playPauseBtn.innerHTML = '<i class="fa-solid fa-play"></i>';
                 playPauseBtn.style.color = 'var(--neon-cyan)';
-                playPauseBtn.style.borderColor = 'rgba(0, 240, 255, 0.3)';
+                playPauseBtn.style.borderColor = 'rgba(255, 191, 11, 0.3)';
             }
         }
 
@@ -2055,21 +1929,16 @@
         videoElement.addEventListener('timeupdate', () => {
             if (!hlsInstance) return;
 
-            // 1. Atualizar Barra de Progresso do Buffer
             if (videoElement.buffered.length > 0) {
                 const bufferedEnd = videoElement.buffered.end(videoElement.buffered.length - 1);
                 const currentTime = videoElement.currentTime;
                 const bufferLen = bufferedEnd - currentTime;
                 
-                // Escala de buffer de 0 a 30s
                 const bufferPct = Math.min((bufferLen / 30) * 100, 100);
                 bufferBar.style.width = `${bufferPct}%`;
-                
-                // Progresso estético (live avança continuamente)
                 progressBar.style.width = `${Math.min((currentTime % 300) / 3, 100)}%`; 
             }
 
-            // 2. Latência Real
             if (hlsInstance.liveSyncPosition) {
                 const latency = Math.max(hlsInstance.liveSyncPosition - videoElement.currentTime, 0).toFixed(1);
                 document.getElementById('hudLatency').innerText = `${latency}s`;
@@ -2077,13 +1946,11 @@
                 document.getElementById('hudLatency').innerText = `1.2s`;
             }
 
-            // 3. Bitrate real
             if (hlsInstance.levels && hlsInstance.currentLevel !== -1) {
                 const bitrate = hlsInstance.levels[hlsInstance.currentLevel].bitrate;
                 const mbps = (bitrate / 1000000).toFixed(2);
                 document.getElementById('hudBitrate').innerText = `${mbps} Mbps`;
             } else {
-                // Bitrate dinâmico simulado caso o player nativo do Safari não reporte
                 document.getElementById('hudBitrate').innerText = `${(3.2 + Math.sin(Date.now() / 8000) * 0.4).toFixed(2)} Mbps`;
             }
         });
@@ -2107,7 +1974,7 @@
             }
         });
 
-        // Ocular controles por inatividade do mouse
+        // Ocultar controles por inatividade do mouse
         let mouseTimer;
         playerWrapper.addEventListener('mousemove', () => {
             playerWrapper.classList.add('user-active');
