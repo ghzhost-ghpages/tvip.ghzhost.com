@@ -495,6 +495,79 @@
                 font-size: 1.2rem;
             }
         }
+
+        /* CORS Proxy Toggle Switch Styles */
+        .cors-toggle-container {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            background: rgba(17, 24, 39, 0.6);
+            border: 1px solid rgba(0, 212, 255, 0.15);
+            border-radius: 8px;
+            padding: 8px 15px;
+        }
+
+        .toggle-label {
+            font-size: 0.8rem;
+            font-weight: 600;
+            color: #9ca3af;
+            user-select: none;
+        }
+
+        .switch {
+            position: relative;
+            display: inline-block;
+            width: 36px;
+            height: 20px;
+        }
+
+        .switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(255, 255, 255, 0.1);
+            transition: .3s;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 12px;
+            width: 12px;
+            left: 3px;
+            bottom: 3px;
+            background-color: #9ca3af;
+            transition: .3s;
+        }
+
+        input:checked + .slider {
+            background-color: rgba(0, 212, 255, 0.2);
+            border-color: #00d4ff;
+        }
+
+        input:checked + .slider:before {
+            transform: translateX(16px);
+            background-color: #00d4ff;
+            box-shadow: 0 0 8px #00d4ff;
+        }
+
+        .slider.round {
+            border-radius: 20px;
+        }
+
+        .slider.round:before {
+            border-radius: 50%;
+        }
     </style>
 </head>
 <body>
@@ -535,6 +608,13 @@
                     <p id="currentChannelInfo">Rede Descentralizada P2P WebRTC</p>
                 </div>
                 <div class="header-actions">
+                    <div class="cors-toggle-container">
+                        <label class="switch">
+                            <input type="checkbox" id="corsProxyToggle" checked>
+                            <span class="slider round"></span>
+                        </label>
+                        <span class="toggle-label">CORS Proxy (Bypass)</span>
+                    </div>
                     <a href="tvip.m3u" download class="btn-action">
                         <i class="fa-solid fa-download"></i>
                         <span>Baixar M3U</span>
@@ -694,6 +774,11 @@
                 hlsInstance = null;
             }
 
+            // Aplicar CORS Proxy se ativado
+            const useCorsProxy = document.getElementById('corsProxyToggle').checked;
+            // corsproxy.io é um proxy CORS público e robusto
+            const streamUrl = useCorsProxy ? `https://corsproxy.io/?url=${encodeURIComponent(channel.url)}` : channel.url;
+
             // Iniciar P2P Engine para o stream
             const p2pConfig = {
                 live: true,
@@ -722,7 +807,7 @@
                     p2pConfig: p2pConfig // Injeta a config P2P na inicialização do Hls
                 });
 
-                hlsInstance.loadSource(channel.url);
+                hlsInstance.loadSource(streamUrl);
                 hlsInstance.attachMedia(videoElement);
 
                 // Escuta eventos de peers conectados
@@ -744,7 +829,7 @@
 
             } else if (videoElement.canPlayType('application/vnd.apple.mpegurl')) {
                 // Fallback para Safari / iOS nativo
-                videoElement.src = channel.url;
+                videoElement.src = streamUrl;
                 videoElement.addEventListener('loadedmetadata', function() {
                     videoElement.play();
                     loader.style.display = 'none';
