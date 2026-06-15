@@ -1268,16 +1268,22 @@
             
             .main-content {
                 padding: 15px;
-                overflow-y: auto;
+                overflow: hidden;
+                display: flex;
+                flex-direction: column;
+                height: 100%;
                 gap: 15px;
             }
             .player-wrapper {
                 width: 100%;
-                height: auto;
+                flex: 1;
+                min-height: 220px;
                 aspect-ratio: 16 / 9;
                 max-height: 45vh;
             }
             .bottom-grid {
+                flex: 1;
+                overflow-y: auto;
                 height: auto;
             }
             .p2p-stats-panel {
