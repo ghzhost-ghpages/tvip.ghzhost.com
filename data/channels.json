@@ -826,13 +826,6 @@
     "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8"
   },
   {
-    "name": "TV Arapuan (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
-  },
-  {
     "name": "like Gecko) Chrome/129.0.0.0 Safari/537.36\" group-title=\"Undefined\",TV Bahia (1080i)",
     "logo": "",
     "group": "Geral",
@@ -845,6 +838,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://tvbrasil-stream.ebc.com.br/index.m3u8"
+  },
+  {
+    "name": "TV Brasil Oeste (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
   },
   {
     "name": "TV BRICS Portuguese (1080p)",
@@ -908,13 +908,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8"
-  },
-  {
-    "name": "TV Fronteira (480i)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
   },
   {
     "name": "TV Futuro (1080p)",
@@ -1134,13 +1127,6 @@
     "url": "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8"
   },
   {
-    "name": "TVE RS (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8"
-  },
-  {
     "name": "TVídeoNews (720p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
@@ -1160,13 +1146,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8"
-  },
-  {
-    "name": "UMA TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://umatv.nuvemplay.live/hls/stream.m3u8"
   },
   {
     "name": "UNISUL TV (720p)",
@@ -1195,13 +1174,6 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8"
-  },
-  {
-    "name": "Famatv (1080p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8"
   },
   {
     "name": "Kuriakos Cine (1080p)",
