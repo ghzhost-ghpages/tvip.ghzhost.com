@@ -610,7 +610,7 @@
                 <div class="header-actions">
                     <div class="cors-toggle-container">
                         <label class="switch">
-                            <input type="checkbox" id="corsProxyToggle" checked>
+                            <input type="checkbox" id="corsProxyToggle">
                             <span class="slider round"></span>
                         </label>
                         <span class="toggle-label">CORS Proxy (Bypass)</span>
@@ -776,8 +776,8 @@
 
             // Aplicar CORS Proxy se ativado
             const useCorsProxy = document.getElementById('corsProxyToggle').checked;
-            // corsproxy.io é um proxy CORS público e robusto
-            const streamUrl = useCorsProxy ? `https://corsproxy.io/?url=${encodeURIComponent(channel.url)}` : channel.url;
+            // allorigins.win é um proxy CORS público e aberto
+            const streamUrl = useCorsProxy ? `https://api.allorigins.win/raw?url=${encodeURIComponent(channel.url)}` : channel.url;
 
             // Iniciar P2P Engine para o stream
             const p2pConfig = {
