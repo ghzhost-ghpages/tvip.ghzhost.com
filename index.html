@@ -1132,6 +1132,50 @@
             border-radius: 50%;
         }
 
+        /* Hamburguer Menu Button */
+        .hamburger-btn {
+            display: none;
+            align-items: center;
+            justify-content: center;
+            width: 42px;
+            height: 42px;
+            background: rgba(0, 12, 24, 0.9);
+            border: 1px solid rgba(0, 173, 229, 0.45);
+            border-radius: 8px;
+            color: var(--neon-cyan);
+            cursor: pointer;
+            font-size: 1.2rem;
+            transition: all 0.3s ease;
+            flex-shrink: 0;
+        }
+
+        .hamburger-btn:hover {
+            background: var(--neon-cyan);
+            color: var(--bg-dark);
+            box-shadow: var(--neon-glow);
+        }
+
+        /* Sidebar Overlay Backdrop */
+        .sidebar-backdrop {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.7);
+            z-index: 97;
+            opacity: 0;
+            transition: opacity 0.35s ease;
+            pointer-events: none;
+        }
+
+        .sidebar-backdrop.active {
+            display: block;
+            opacity: 1;
+            pointer-events: all;
+        }
+
         /* Notificação Toast */
         /* Notificação Toast Flutuante no Topo */
         .toast {
@@ -1167,6 +1211,14 @@
 
         /* Responsividade e Otimização para Celular / Mobile */
         @media (max-width: 1100px) {
+            .hamburger-btn {
+                display: flex;
+            }
+
+            .sidebar-backdrop {
+                display: block;
+            }
+
             body {
                 overflow-y: auto !important;
                 height: auto !important;
@@ -1179,12 +1231,27 @@
                 overflow-y: visible;
             }
             .sidebar {
-                height: auto;
-                max-height: 235px;
-                border-right: none;
-                border-bottom: 1px solid var(--panel-border);
-                display: flex;
-                flex-direction: column;
+                position: fixed;
+                top: 0;
+                left: 0;
+                z-index: 99;
+                height: 100vh !important;
+                max-height: 100vh !important;
+                width: 360px;
+                max-width: 85vw;
+                transform: translateX(-100%);
+                transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+                border-right: 1px solid var(--panel-border);
+                border-bottom: none !important;
+            }
+            .sidebar.open {
+                transform: translateX(0);
+            }
+            .sidebar.open .channel-list {
+                flex-direction: column !important;
+                overflow-y: auto !important;
+                overflow-x: hidden !important;
+                flex: 1;
             }
             .sidebar-header {
                 flex-direction: row;
@@ -1447,6 +1514,9 @@
             </div>
         </div>
 
+        <!-- Sidebar Backdrop (Mobile Overlay) -->
+        <div class="sidebar-backdrop" id="sidebarBackdrop"></div>
+
         <!-- Conteúdo do Player -->
         <div class="main-content">
             <!-- Header do Player -->
@@ -1456,6 +1526,9 @@
                     <p id="currentChannelInfo">Aguardando Conexão de Fluxo P2P</p>
                 </div>
                 <div class="header-actions">
+                    <button class="hamburger-btn" id="hamburgerBtn" aria-label="Abrir menu de canais">
+                        <i class="fa-solid fa-bars"></i>
+                    </button>
                     <div class="cors-toggle-container">
                         <label class="switch">
                             <input type="checkbox" id="corsProxyToggle">
@@ -2272,6 +2345,41 @@
                 toast.classList.remove('show');
             }, 3000);
         }
+
+        // Hamburguer Menu Toggle
+        const hamburgerBtn = document.getElementById('hamburgerBtn');
+        const sidebar = document.querySelector('.sidebar');
+        const sidebarBackdrop = document.getElementById('sidebarBackdrop');
+
+        function toggleSidebar() {
+            sidebar.classList.toggle('open');
+            sidebarBackdrop.classList.toggle('active');
+            const icon = hamburgerBtn.querySelector('i');
+            if (sidebar.classList.contains('open')) {
+                icon.className = 'fa-solid fa-times';
+                hamburgerBtn.setAttribute('aria-label', 'Fechar menu de canais');
+            } else {
+                icon.className = 'fa-solid fa-bars';
+                hamburgerBtn.setAttribute('aria-label', 'Abrir menu de canais');
+            }
+        }
+
+        function closeSidebar() {
+            sidebar.classList.remove('open');
+            sidebarBackdrop.classList.remove('active');
+            const icon = hamburgerBtn.querySelector('i');
+            icon.className = 'fa-solid fa-bars';
+            hamburgerBtn.setAttribute('aria-label', 'Abrir menu de canais');
+        }
+
+        hamburgerBtn.addEventListener('click', toggleSidebar);
+        sidebarBackdrop.addEventListener('click', closeSidebar);
+
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && sidebar.classList.contains('open')) {
+                closeSidebar();
+            }
+        });
 
         // Inicializar
         fetchChannels();
