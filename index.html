@@ -13,13 +13,13 @@
         :root {
             --neon-cyan: #00ade5; /* Neon Azul GhzHost */
             --neon-pink: #006a94; /* Azul médio GhzHost */
-            --neon-blue: #081729; /* Azul escuro estilo cPanel */
-            --bg-dark: #081729;   /* Fundo oficial GhzHost */
-            --panel-bg: rgba(14, 34, 61, 0.9); /* Opaque cPanel Panel Blue */
-            --panel-border: rgba(0, 173, 229, 0.25);
-            --text-glow: 0 0 8px rgba(0, 173, 229, 0.6);
-            --neon-glow: 0 0 15px rgba(0, 173, 229, 0.4);
-            --pink-glow: 0 0 15px rgba(0, 106, 148, 0.4);
+            --neon-blue: #00233f; /* Azul escuro oficial GhzHost */
+            --bg-dark: #001222;   /* Fundo ultra escuro de contraste GhzHost */
+            --panel-bg: rgba(0, 35, 63, 0.96); /* Azul escuro cPanel oficial da GhzHost */
+            --panel-border: rgba(0, 173, 229, 0.3);
+            --text-glow: 0 0 8px rgba(0, 173, 229, 0.65);
+            --neon-glow: 0 0 15px rgba(0, 173, 229, 0.45);
+            --pink-glow: 0 0 15px rgba(0, 106, 148, 0.45);
         }
 
         * {
@@ -46,10 +46,11 @@
             width: 100%;
             height: 100%;
             z-index: 0;
-            opacity: 0.5;
+            opacity: 0.6;
+            background: radial-gradient(circle at 50% 50%, #00233f 0%, #001222 100%);
         }
 
-        /* Grade perspectiva 3D cibernética 2150 deslizando */
+        /* Grade 2D sutil e leve que desliza continuamente (evita bugs visuais 3D) */
         .cyber-grid {
             position: fixed;
             top: 0;
@@ -57,21 +58,18 @@
             width: 100%;
             height: 100%;
             background-image: 
-                linear-gradient(rgba(0, 173, 229, 0.05) 1px, transparent 1px),
-                linear-gradient(90deg, rgba(0, 173, 229, 0.05) 1px, transparent 1px);
-            background-size: 55px 55px;
-            background-position: center;
-            transform: perspective(500px) rotateX(60deg) translateY(-30%) translateZ(0);
-            transform-origin: top center;
-            opacity: 0.25;
+                linear-gradient(rgba(0, 173, 229, 0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(0, 173, 229, 0.03) 1px, transparent 1px);
+            background-size: 60px 60px;
             z-index: 1;
             pointer-events: none;
-            animation: grid-scroll 25s linear infinite;
+            opacity: 0.35;
+            animation: grid-scroll-2d 40s linear infinite;
         }
 
-        @keyframes grid-scroll {
-            0% { background-position-y: 0; }
-            100% { background-position-y: 1100px; }
+        @keyframes grid-scroll-2d {
+            0% { background-position: 0 0; }
+            100% { background-position: 0 1000px; }
         }
 
         /* Linhas de scan sci-fi para textura futurista */
@@ -82,18 +80,13 @@
             width: 100%;
             height: 100%;
             background: linear-gradient(
-                rgba(18, 16, 16, 0) 50%, 
-                rgba(0, 0, 0, 0.25) 50%
-            ), linear-gradient(
-                90deg,
-                rgba(255, 0, 0, 0.02),
-                rgba(0, 255, 0, 0.01),
-                rgba(0, 0, 255, 0.02)
+                rgba(0, 35, 63, 0) 50%, 
+                rgba(0, 0, 0, 0.15) 50%
             );
-            background-size: 100% 4px, 6px 100%;
+            background-size: 100% 4px;
             z-index: 2;
             pointer-events: none;
-            opacity: 0.3;
+            opacity: 0.25;
         }
 
         /* Layout Principal Grid */
@@ -104,8 +97,7 @@
             grid-template-columns: 360px 1fr;
             height: 100vh;
             width: 100vw;
-            backdrop-filter: blur(15px);
-            background: rgba(8, 23, 41, 0.7);
+            background: rgba(0, 18, 34, 0.45);
         }
 
         /* Sidebar Lateral (Canais) */
@@ -133,7 +125,7 @@
 
         .sidebar-header {
             padding: 25px 20px;
-            border-bottom: 1px solid rgba(0, 173, 229, 0.15);
+            border-bottom: 1px solid rgba(0, 173, 229, 0.18);
             display: flex;
             flex-direction: column;
             gap: 20px;
@@ -169,17 +161,17 @@
             background: linear-gradient(135deg, var(--neon-cyan), #ffffff);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
-            text-shadow: 0 0 20px rgba(0, 173, 229, 0.2);
+            text-shadow: 0 0 20px rgba(0, 173, 229, 0.25);
         }
 
         .brand .tagline {
             font-size: 0.65rem;
-            color: #e2e8f0;
+            color: #ffffff;
             text-transform: uppercase;
-            letter-spacing: 2px;
+            letter-spacing: 1.5px;
             font-weight: 700;
             margin-top: 4px;
-            text-shadow: 0 0 5px rgba(0, 173, 229, 0.3);
+            text-shadow: 0 0 5px rgba(0, 173, 229, 0.35);
             opacity: 0.95;
         }
 
@@ -192,8 +184,8 @@
         .search-box input {
             width: 100%;
             padding: 12px 15px 12px 45px;
-            background: rgba(4, 15, 31, 0.9);
-            border: 1px solid rgba(0, 173, 229, 0.35);
+            background: rgba(0, 12, 24, 0.92);
+            border: 1px solid rgba(0, 173, 229, 0.4);
             border-radius: 8px;
             color: #fff;
             font-size: 0.9rem;
@@ -205,7 +197,7 @@
         .search-box input:focus {
             border-color: var(--neon-cyan);
             box-shadow: var(--neon-glow);
-            background: rgba(8, 28, 56, 0.95);
+            background: rgba(0, 20, 38, 0.95);
         }
 
         .search-box i {
@@ -223,7 +215,7 @@
             display: flex;
             gap: 10px;
             overflow-x: auto;
-            border-bottom: 1px solid rgba(0, 173, 229, 0.12);
+            border-bottom: 1px solid rgba(0, 173, 229, 0.15);
             scrollbar-width: none;
         }
 
@@ -251,7 +243,7 @@
         }
 
         .filter-btn.active {
-            background: linear-gradient(135deg, rgba(0, 173, 229, 0.22), rgba(0, 106, 148, 0.22));
+            background: linear-gradient(135deg, rgba(0, 173, 229, 0.25), rgba(0, 106, 148, 0.25));
             border-color: var(--neon-cyan);
             color: #ffffff;
             box-shadow: 0 0 12px rgba(0, 173, 229, 0.35);
@@ -282,13 +274,14 @@
             align-items: center;
             gap: 15px;
             padding: 12px 15px;
-            background: rgba(4, 20, 40, 0.6);
-            border: 1px solid rgba(0, 173, 229, 0.12);
+            background: rgba(0, 12, 24, 0.5);
+            border: 1px solid rgba(0, 173, 229, 0.15);
             border-radius: 10px;
             cursor: pointer;
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
             position: relative;
             overflow: hidden;
+            min-height: 72px; /* Garante altura mínima para evitar cortes verticais */
         }
 
         .channel-item::before {
@@ -305,8 +298,8 @@
         }
 
         .channel-item:hover {
-            background: rgba(6, 26, 52, 0.95);
-            border-color: rgba(0, 173, 229, 0.35);
+            background: rgba(0, 28, 55, 0.85);
+            border-color: rgba(0, 173, 229, 0.4);
             transform: translateX(5px);
         }
 
@@ -315,7 +308,7 @@
         }
 
         .channel-item.active {
-            background: linear-gradient(135deg, rgba(0, 173, 229, 0.12), rgba(0, 106, 148, 0.12));
+            background: linear-gradient(135deg, rgba(0, 173, 229, 0.15), rgba(0, 106, 148, 0.15));
             border-color: var(--neon-cyan);
             box-shadow: 0 0 15px rgba(0, 173, 229, 0.15);
         }
@@ -328,7 +321,7 @@
         .channel-logo {
             width: 48px;
             height: 48px;
-            background: rgba(2, 12, 24, 0.95);
+            background: rgba(0, 10, 20, 0.95);
             border: 1px solid rgba(0, 173, 229, 0.25);
             border-radius: 8px;
             display: flex;
@@ -336,6 +329,7 @@
             justify-content: center;
             overflow: hidden;
             position: relative;
+            flex-shrink: 0; /* Impede compressão da logo */
         }
 
         .channel-logo img {
@@ -352,17 +346,25 @@
         .channel-info {
             flex: 1;
             min-width: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
         }
 
         .channel-name {
-            font-size: 0.9rem;
+            font-size: 0.95rem;
             font-weight: 700;
             color: #ffffff; /* Contraste máximo */
-            margin-bottom: 4px;
-            white-space: nowrap;
+            line-height: 1.45;
+            margin-bottom: 3px;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
             overflow: hidden;
             text-overflow: ellipsis;
+            white-space: normal; /* Permite quebra de linha sutil */
             font-family: 'Inter', sans-serif;
+            padding-bottom: 2px; /* Garante espaço para acentos e letras descendentes */
         }
 
         .channel-group {
@@ -383,6 +385,7 @@
             color: #ffffff;
             font-family: 'Orbitron', sans-serif;
             font-weight: bold;
+            flex-shrink: 0;
         }
 
         .channel-item.active .channel-flag {
@@ -449,7 +452,7 @@
 
         .btn-action {
             padding: 10px 20px;
-            background: rgba(4, 20, 42, 0.9);
+            background: rgba(0, 12, 24, 0.9);
             border: 1px solid rgba(0, 173, 229, 0.45);
             border-radius: 8px;
             color: var(--neon-cyan);
@@ -519,7 +522,7 @@
             display: flex;
             align-items: center;
             gap: 8px;
-            background: rgba(4, 20, 42, 0.8);
+            background: rgba(0, 12, 24, 0.85);
             border: 1px solid rgba(0, 173, 229, 0.45);
             padding: 6px 12px;
             border-radius: 6px;
@@ -537,11 +540,6 @@
 
         .ghz-watermark i {
             animation: pulse-glow 2s infinite;
-        }
-
-        @keyframes pulse-glow {
-            0%, 100% { opacity: 0.4; filter: drop-shadow(0 0 2px var(--neon-cyan)); }
-            50% { opacity: 1; filter: drop-shadow(0 0 8px var(--neon-cyan)); }
         }
 
         /* Placeholder Holográfico */
@@ -570,7 +568,7 @@
             letter-spacing: 2px;
             text-transform: uppercase;
             text-shadow: var(--text-glow);
-            color: #ffffff; /* Contraste */
+            color: #ffffff;
         }
 
         /* Tela de Carregamento Sci-Fi */
@@ -580,13 +578,14 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: rgba(4, 15, 30, 0.98);
+            background: rgba(0, 12, 24, 0.98);
             display: none;
             flex-direction: column;
             align-items: center;
             justify-content: center;
             z-index: 99;
             gap: 25px;
+            overflow: hidden; /* Garante que o laser não vaze */
         }
 
         .loader-radar {
@@ -693,7 +692,7 @@
             bottom: 0;
             left: 0;
             width: 100%;
-            background: linear-gradient(to top, rgba(4, 15, 30, 0.98) 0%, rgba(4, 15, 30, 0.85) 75%, transparent 100%);
+            background: linear-gradient(to top, rgba(0, 12, 24, 0.98) 0%, rgba(0, 12, 24, 0.85) 75%, transparent 100%);
             border-top: 1px solid rgba(0, 173, 229, 0.2);
             display: flex;
             flex-direction: column;
@@ -859,7 +858,7 @@
             gap: 12px;
             font-family: 'Orbitron', sans-serif;
             font-size: 0.65rem;
-            color: #e2e8f0; /* Contraste */
+            color: #e2e8f0;
         }
 
         .ghz-hud-item {
@@ -887,7 +886,7 @@
             bottom: 75px;
             right: 25px;
             width: 280px;
-            background: rgba(4, 15, 30, 0.98);
+            background: rgba(0, 12, 24, 0.98);
             border: 1px solid var(--neon-cyan);
             border-radius: 10px;
             padding: 15px;
@@ -918,7 +917,7 @@
             justify-content: space-between;
             align-items: center;
             font-size: 0.75rem;
-            color: #e2e8f0; /* Contraste */
+            color: #e2e8f0;
         }
 
         .settings-option select {
@@ -951,7 +950,7 @@
             border-radius: 12px;
             padding: 20px;
             display: grid;
-            grid-template-columns: repeat(4, 1fr) 2.2fr; /* 4 stats + 1 canvas de espectro largo */
+            grid-template-columns: repeat(4, 1fr) 2.2fr;
             gap: 20px;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
             position: relative;
@@ -994,14 +993,14 @@
         .stat-value {
             font-size: 1.3rem;
             font-weight: 700;
-            color: #ffffff; /* Máximo contraste */
+            color: #ffffff;
             font-family: 'Orbitron', sans-serif;
             text-shadow: 0 0 5px rgba(0, 173, 229, 0.3);
         }
 
         .stat-label {
             font-size: 0.65rem;
-            color: #cbd5e1; /* Máximo contraste label */
+            color: #cbd5e1;
             text-transform: uppercase;
             margin-top: 4px;
             letter-spacing: 0.5px;
@@ -1039,7 +1038,7 @@
             flex: 1;
             width: 100%;
             height: 70px;
-            background: rgba(2, 12, 24, 0.8);
+            background: rgba(0, 12, 24, 0.7);
             border: 1px solid rgba(0, 173, 229, 0.2);
             border-radius: 6px;
         }
@@ -1049,7 +1048,7 @@
             display: flex;
             align-items: center;
             gap: 12px;
-            background: rgba(2, 12, 24, 0.85);
+            background: rgba(0, 12, 24, 0.85);
             border: 1px solid rgba(0, 173, 229, 0.3);
             border-radius: 8px;
             padding: 8px 16px;
@@ -1058,7 +1057,7 @@
         .toggle-label {
             font-size: 0.75rem;
             font-weight: 700;
-            color: #cbd5e1; /* Contraste */
+            color: #cbd5e1;
             user-select: none;
             font-family: 'Orbitron', sans-serif;
             text-transform: uppercase;
@@ -1126,7 +1125,7 @@
             position: fixed;
             bottom: 30px;
             right: 30px;
-            background: rgba(4, 15, 30, 0.98);
+            background: rgba(0, 12, 24, 0.98);
             border: 1px solid var(--neon-cyan);
             border-radius: 8px;
             padding: 15px 25px;
@@ -1250,6 +1249,38 @@
             .active-channel-details h2 {
                 font-size: 1.25rem;
             }
+        }
+
+        /* Animações Keyframes para Efeitos Visuais Sci-Fi */
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        @keyframes spin-reverse {
+            0% { transform: rotate(360deg); }
+            100% { transform: rotate(0deg); }
+        }
+
+        @keyframes scan-vertical {
+            0% { top: 0%; }
+            50% { top: 100%; }
+            100% { top: 0%; }
+        }
+
+        @keyframes pulse-ring {
+            0%, 100% { transform: scale(1); opacity: 0.8; }
+            50% { transform: scale(1.05); opacity: 1; text-shadow: 0 0 15px var(--neon-cyan); }
+        }
+
+        @keyframes pulse-glow {
+            0%, 100% { opacity: 0.45; box-shadow: 0 0 10px rgba(0, 173, 229, 0.2); }
+            50% { opacity: 1; box-shadow: 0 0 20px rgba(0, 173, 229, 0.6); }
+        }
+
+        @keyframes pulse-glow-green {
+            0%, 100% { opacity: 0.5; box-shadow: 0 0 8px rgba(34, 197, 94, 0.4); }
+            50% { opacity: 1; box-shadow: 0 0 15px rgba(34, 197, 94, 0.8); }
         }
     </style>
 </head>
@@ -1477,23 +1508,31 @@
     <script src="https://cdn.jsdelivr.net/npm/cdnbye@latest/dist/hls.min.js"></script>
 
     <script>
-        // Inicializar Vanta Waves com cores oficiais corrigidas da GhzHost (Fundo cPanel #081729)
-        VANTA.WAVES({
-            el: "#vanta-bg",
-            mouseControls: true,
-            touchControls: true,
-            gyroControls: false,
-            minHeight: 200.00,
-            minWidth: 200.00,
-            scale: 1.00,
-            scaleMobile: 1.00,
-            color: 0x006a94, // Azul médio GhzHost (#006a94)
-            shininess: 35,
-            waveHeight: 15.00,
-            waveSpeed: 0.80,
-            zoom: 1.30,
-            backgroundColor: 0x081729 // Azul escuro cPanel (#081729)
-        });
+        // Inicializar Vanta Waves com cores oficiais corrigidas da GhzHost (Fundo cPanel #00233f)
+        try {
+            if (typeof VANTA !== 'undefined' && VANTA.WAVES) {
+                VANTA.WAVES({
+                    el: "#vanta-bg",
+                    mouseControls: true,
+                    touchControls: true,
+                    gyroControls: false,
+                    minHeight: 200.00,
+                    minWidth: 200.00,
+                    scale: 1.00,
+                    scaleMobile: 2.00, // Escala maior em mobile economiza GPU
+                    color: 0x006a94,   // Azul médio GhzHost (#006a94)
+                    shininess: 35,
+                    waveHeight: 15.00,
+                    waveSpeed: 0.80,
+                    zoom: 1.30,
+                    backgroundColor: 0x00233f // Azul escuro GhzHost (#00233f)
+                });
+            } else {
+                console.warn("Vanta.js não está carregado. Usando background em CSS.");
+            }
+        } catch (vantaError) {
+            console.error("Erro ao inicializar Vanta.js:", vantaError);
+        }
 
         let channelsData = [];
         let activeFilter = 'all';
