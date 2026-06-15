@@ -910,7 +910,7 @@
             position: absolute;
             bottom: 75px;
             right: 25px;
-            width: 260px;
+            width: 280px;
             background: rgba(1, 20, 40, 0.95);
             border: 1px solid var(--neon-cyan);
             border-radius: 10px;
@@ -1247,20 +1247,20 @@
                     <img src="resources/logo.png" alt="TVIP GHZ Logo">
                     <div class="brand-text">
                         <h1>GHZ TVIP</h1>
-                        <span class="tagline">Rede Descentralizada</span>
+                        <span class="tagline">P2P Open Source Mesh</span>
                     </div>
                 </div>
                 <div class="search-box">
                     <i class="fa-solid fa-magnifying-glass"></i>
-                    <input type="text" id="searchBar" placeholder="Buscar sinal/canal...">
+                    <input type="text" id="searchBar" placeholder="Buscar canal público...">
                 </div>
             </div>
 
             <!-- Filtro de Categoria -->
             <div class="filter-container" id="categoryFilters">
-                <div class="filter-btn active" data-category="all">Todos os Nós</div>
-                <div class="filter-btn" data-category="Brasil">BR-Edge</div>
-                <div class="filter-btn" data-category="Portugal">PT-Edge</div>
+                <div class="filter-btn active" data-category="all">Todos os Canais</div>
+                <div class="filter-btn" data-category="Brasil">Brasil (Livre)</div>
+                <div class="filter-btn" data-category="Portugal">Portugal (Livre)</div>
             </div>
 
             <!-- Listagem de Canais -->
@@ -1275,7 +1275,7 @@
             <div class="main-header">
                 <div class="active-channel-details">
                     <h2 id="currentChannelName">Sinal Não Sintonizado</h2>
-                    <p id="currentChannelInfo">Aguardando Conexão de Fluxo</p>
+                    <p id="currentChannelInfo">Aguardando Conexão de Fluxo P2P</p>
                 </div>
                 <div class="header-actions">
                     <div class="cors-toggle-container">
@@ -1305,8 +1305,8 @@
                         <i class="fa-solid fa-satellite-dish"></i>
                     </div>
                     <div class="loader-text-container">
-                        <span class="loader-title">SINTONIZANDO SINAL</span>
-                        <span class="loader-msg" id="loadingMessage">Inicializando decodificador...</span>
+                        <span class="loader-title">CONECTANDO A SWARM GLOBAL</span>
+                        <span class="loader-msg" id="loadingMessage">Inicializando WebRTC...</span>
                         <div class="loader-progress-bar-container">
                             <div class="loader-progress-fill" id="loaderProgressFill"></div>
                         </div>
@@ -1315,12 +1315,12 @@
                 
                 <div class="ghz-watermark">
                     <i class="fa-solid fa-circle" style="font-size: 5px; color: var(--neon-cyan);"></i>
-                    <span>GHZ ISP • SECURE STREAM</span>
+                    <span>P2P WEB SWARM • GHZ PLAYER</span>
                 </div>
 
                 <div class="player-placeholder" id="playerPlaceholder">
                     <i class="fa-solid fa-microchip"></i>
-                    <p>Selecione um canal para sintonizar o sinal</p>
+                    <p>Selecione um sinal público para inicializar compartilhamento P2P</p>
                 </div>
                 
                 <video id="videoPlayer" autoplay></video>
@@ -1365,7 +1365,7 @@
                         </div>
 
                         <div class="ghz-controls-right">
-                            <button class="ghz-ctrl-btn" id="meshBoostBtn" title="Mesh Booster (Auto-Healing)">
+                            <button class="ghz-ctrl-btn" id="meshBoostBtn" title="Mesh Booster (Reconexão WebRTC)">
                                 <i class="fa-solid fa-arrows-rotate"></i>
                             </button>
                             <button class="ghz-ctrl-btn" id="settingsBtn" title="Configurações">
@@ -1380,7 +1380,7 @@
 
                 <!-- Menu de Configurações Holográfico -->
                 <div class="ghz-settings-menu" id="settingsMenu">
-                    <div class="settings-title">PARÂMETROS DE FLUXO</div>
+                    <div class="settings-title">PARÂMETROS DE SWARM</div>
                     <div class="settings-option">
                         <span>Latência Alvo</span>
                         <select id="settingLatency">
@@ -1390,17 +1390,17 @@
                         </select>
                     </div>
                     <div class="settings-option">
-                        <span>Protocolo P2P</span>
-                        <span class="settings-value">WebRTC Mesh</span>
+                        <span>Rede P2P</span>
+                        <span class="settings-value">WebRTC / DHT Mesh</span>
                     </div>
                     <div class="settings-option">
-                        <span>Nó Edge CDN</span>
-                        <span class="settings-value" id="currentEdgeNode">BR1-Master</span>
+                        <span>Tracker Ativo</span>
+                        <span class="settings-value" id="currentEdgeNode">tracker.openwebtorrent.com</span>
                     </div>
                 </div>
             </div>
 
-            <!-- Painel Inferior Duplo (Largura Completa) -->
+            <!-- Painel Inferior (Largura Completa) -->
             <div class="bottom-grid">
                 <!-- Estatísticas P2P -->
                 <div class="p2p-stats-panel">
@@ -1516,15 +1516,15 @@
         const settingLatency = document.getElementById('settingLatency');
         const currentEdgeNode = document.getElementById('currentEdgeNode');
 
-        // Mensagens dinâmicas de carregamento futuristas
+        // Mensagens dinâmicas de carregamento descentralizadas e abertas
         const loadingPhrases = [
-            "[GHZ-SYSTEM] INICIANDO APONTAMENTO DE ANTENA DESCENTRALIZADA...",
-            "[GHZ-BR1] AUTENTICANDO CHAVE DE BORDA NO MASTER NODE...",
-            "[GHZ-MESH] VARRENDO PEERS ATIVOS VIA WEBRTC TRACKER...",
-            "[GHZ-BUFFER] SINCRONIZANDO SEGMENTOS DE FLUXO P2P...",
-            "[GHZ-DECRYPT] DECODIFICANDO FLUXO DE VÍDEO H.264 SECURE...",
-            "[GHZ-TUNER] AJUSTANDO LATÊNCIA E REDUNDÂNCIA DE PACOTES...",
-            "[GHZ-ONLINE] CONEXÃO ESTÁVEL. SINCRONIZANDO ÁUDIO AAC..."
+            "[P2P-MESH] CONSULTANDO TRACKERS WEBTORRENT GLOBAIS...",
+            "[DHT-ROUTING] VARRENDO TABELA HASH DISTRIBUÍDA PARA IDENTIFICAR PEERS...",
+            "[WEBRTC-SWARM] NEGOCIANDO PROTOCOLO SDP COM CÉLULAS LIVRES...",
+            "[IPFS-GATEWAY] CHECANDO REDUNDÂNCIA DE ROTAS NO SWARM COMUNITÁRIO...",
+            "[P2P-BUFFER] INICIANDO BUFFER DE SEGMENTOS DESCENTRALIZADOS...",
+            "[DECRYPT-PIPELINE] DECODIFICANDO FLUXO DE VÍDEO H.264 P2P...",
+            "[SWARM-SYNC] CONEXÃO ESTABILIZADA. SINCRONIZANDO COM A MALHA GLOBAL..."
         ];
         
         let loaderInterval = null;
@@ -1715,9 +1715,17 @@
             startLoadingAnimation();
 
             document.getElementById('currentChannelName').innerText = channel.name;
-            document.getElementById('currentChannelInfo').innerText = `LOCALIZAÇÃO: ${channel.country} | NÓ: ${channel.group}`;
+            document.getElementById('currentChannelInfo').innerText = `DESCENTRALIZADO | TIPO: ${channel.group} | PAÍS: ${channel.country}`;
             
-            currentEdgeNode.innerText = channel.country === 'Brasil' ? 'BR2-Worker' : 'BR3-Worker';
+            // Rodar lista de trackers descentralizados abertos reais do ecossistema do GitHub
+            const trackers = [
+                'tracker.openwebtorrent.com',
+                'tracker.novage.com.ua',
+                'tracker.bj388.top',
+                'tracker.fastcast.nz'
+            ];
+            const randomTracker = trackers[Math.floor(Math.random() * trackers.length)];
+            currentEdgeNode.innerText = randomTracker;
 
             resetP2PStats();
 
@@ -1822,29 +1830,34 @@
             startP2PSimulator();
         }
 
+        // Simulação Dinâmica da Malha WebRTC Global baseada em projetos GitHub
         function startP2PSimulator() {
             clearInterval(simulationInterval);
             
-            let peersCount = Math.floor(Math.random() * 3) + 3;
+            // Simulação de peers aleatórios ao redor do globo conectados no mesmo Swarm WebRTC
+            let peersCount = Math.floor(Math.random() * 8) + 4;
             updatePeersCount(peersCount);
 
             simulationInterval = setInterval(() => {
                 if (videoElement.paused || !hlsInstance) return;
 
-                if (Math.random() > 0.7) {
+                // Oscilação de peers na malha aberta
+                if (Math.random() > 0.6) {
                     peersCount += Math.random() > 0.5 ? 1 : -1;
-                    peersCount = Math.max(peersCount, 3);
-                    peersCount = Math.min(peersCount, 15);
+                    peersCount = Math.max(peersCount, 2);
+                    peersCount = Math.min(peersCount, 35);
                     updatePeersCount(peersCount);
                 }
 
+                // Incremento realista de download de segmentos
                 const chunkDownloaded = 0.35 + (Math.random() * 0.2);
-                const p2pRatio = 0.65 + (peersCount * 0.02) + (Math.random() * 0.05); 
-                const p2pPart = chunkDownloaded * Math.min(p2pRatio, 0.95);
-                const httpPart = chunkDownloaded - p2pPart;
+                
+                // Eficiência do Swarm
+                const p2pRatio = 0.55 + (peersCount * 0.015) + (Math.random() * 0.05); 
+                const p2pPart = chunkDownloaded * Math.min(p2pRatio, 0.96);
 
                 p2pStats.simulatedDownload += p2pPart;
-                p2pStats.simulatedUpload += p2pPart * (0.2 + (Math.random() * 0.15));
+                p2pStats.simulatedUpload += p2pPart * (0.15 + (Math.random() * 0.2));
 
                 updateP2PStatsUI();
             }, 1000);
@@ -1995,11 +2008,11 @@
                 const activeChannelName = document.getElementById('currentChannelName').innerText;
                 const channel = channelsData.find(c => c.name === activeChannelName);
                 if (channel) {
-                    showToast('OTIMIZANDO MALHA MESH... RECONECTANDO FLUXO!');
+                    showToast('RESETANDO SWARM WEBRTC... RECONECTANDO PEERS GLOBAIS!');
                     playChannel(channel, activeItem);
                 }
             } else {
-                showToast('SELECIONE UM CANAL ATIVO PARA OTIMIZAR');
+                showToast('SELECIONE UM CANAL ATIVO PARA RECONECTAR');
             }
         });
 
