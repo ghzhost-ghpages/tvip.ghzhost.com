@@ -1172,10 +1172,100 @@
                 grid-template-rows: auto 1fr;
             }
             .sidebar {
-                height: 340px;
+                height: auto;
+                max-height: 235px;
                 border-right: none;
                 border-bottom: 1px solid var(--panel-border);
+                display: flex;
+                flex-direction: column;
             }
+            .sidebar-header {
+                flex-direction: row;
+                align-items: center;
+                justify-content: space-between;
+                padding: 12px 20px;
+                gap: 15px;
+                border-bottom: 1px solid rgba(0, 173, 229, 0.1);
+            }
+            .brand {
+                flex-shrink: 0;
+            }
+            .brand img {
+                height: 32px;
+            }
+            .brand h1 {
+                font-size: 1.15rem;
+            }
+            .brand .tagline {
+                display: none;
+            }
+            .search-box {
+                max-width: 200px;
+            }
+            .search-box input {
+                padding: 8px 12px 8px 35px;
+                font-size: 0.8rem;
+            }
+            .search-box i {
+                left: 12px;
+            }
+            .filter-container {
+                padding: 8px 20px;
+                gap: 8px;
+            }
+            .filter-btn {
+                padding: 6px 12px;
+                font-size: 0.7rem;
+            }
+            
+            /* Lista de canais vira Carrossel Horizontal no Mobile */
+            .channel-list {
+                flex-direction: row !important;
+                overflow-x: auto !important;
+                overflow-y: hidden !important;
+                padding: 10px 20px;
+                gap: 10px;
+                scroll-behavior: smooth;
+                -webkit-overflow-scrolling: touch;
+            }
+            .channel-list::-webkit-scrollbar {
+                height: 4px;
+            }
+            .channel-list::-webkit-scrollbar-thumb {
+                background: rgba(0, 173, 229, 0.4);
+                border-radius: 2px;
+            }
+            .channel-item {
+                flex-direction: row;
+                flex-shrink: 0;
+                width: 230px;
+                min-height: 54px !important;
+                height: 54px;
+                padding: 8px 12px;
+                gap: 10px;
+            }
+            .channel-logo {
+                width: 36px;
+                height: 36px;
+                border-radius: 6px;
+            }
+            .channel-logo i {
+                font-size: 1rem;
+            }
+            .channel-name {
+                font-size: 0.82rem;
+                line-height: 1.25;
+                margin-bottom: 1px;
+                -webkit-line-clamp: 1;
+            }
+            .channel-group {
+                font-size: 0.6rem;
+            }
+            .channel-flag {
+                font-size: 0.58rem;
+                padding: 2px 6px;
+            }
+            
             .main-content {
                 padding: 15px;
                 overflow-y: auto;
@@ -1185,7 +1275,7 @@
                 width: 100%;
                 height: auto;
                 aspect-ratio: 16 / 9;
-                max-height: 50vh;
+                max-height: 45vh;
             }
             .bottom-grid {
                 height: auto;
@@ -1211,7 +1301,8 @@
 
         @media (max-width: 768px) {
             .sidebar {
-                height: 280px;
+                height: auto;
+                max-height: 235px;
             }
             .main-header {
                 flex-direction: column;
