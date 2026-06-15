@@ -854,11 +854,18 @@
 
         /* HUD Stats */
         .ghz-hud-stats {
+            position: absolute;
+            top: 25px;
+            left: 25px;
             display: flex;
-            gap: 12px;
+            gap: 10px;
             font-family: 'Orbitron', sans-serif;
             font-size: 0.65rem;
             color: #e2e8f0;
+            z-index: 12;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.4s ease;
         }
 
         .ghz-hud-item {
@@ -878,6 +885,11 @@
         .ghz-hud-item span {
             color: #fff;
             font-weight: bold;
+        }
+
+        .player-wrapper:hover .ghz-hud-stats,
+        .player-wrapper.user-active .ghz-hud-stats {
+            opacity: 1;
         }
 
         /* Menu de Configurações Holográfico */
@@ -1121,31 +1133,36 @@
         }
 
         /* Notificação Toast */
+        /* Notificação Toast Flutuante no Topo */
         .toast {
             position: fixed;
-            bottom: 30px;
-            right: 30px;
-            background: rgba(0, 12, 24, 0.98);
+            top: 25px;
+            left: 50%;
+            transform: translate(-50%, -150%);
+            background: rgba(0, 12, 24, 0.96);
             border: 1px solid var(--neon-cyan);
             border-radius: 8px;
-            padding: 15px 25px;
+            padding: 12px 20px;
             color: #fff;
-            font-size: 0.85rem;
+            font-size: 0.8rem;
             font-weight: 700;
             display: flex;
             align-items: center;
-            gap: 12px;
+            gap: 10px;
             box-shadow: var(--neon-glow);
-            transform: translateY(150%);
-            transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-            z-index: 1000;
+            transition: transform 0.35s cubic-bezier(0.175, 0.885, 0.32, 1.275), opacity 0.3s ease;
+            z-index: 9999; /* Garante que fique por cima de tudo */
             font-family: 'Orbitron', sans-serif;
             text-transform: uppercase;
             letter-spacing: 1px;
+            opacity: 0;
+            pointer-events: none;
+            white-space: nowrap;
         }
 
         .toast.show {
-            transform: translateY(0);
+            transform: translate(-50%, 0);
+            opacity: 1;
         }
 
         /* Responsividade e Otimização para Celular / Mobile */
@@ -1163,6 +1180,12 @@
                 padding: 15px;
                 overflow-y: auto;
                 gap: 15px;
+            }
+            .player-wrapper {
+                width: 100%;
+                height: auto;
+                aspect-ratio: 16 / 9;
+                max-height: 50vh;
             }
             .bottom-grid {
                 height: auto;
@@ -1216,38 +1239,39 @@
         }
 
         @media (max-width: 600px) {
-            .ghz-controls-row {
-                flex-direction: column;
-                gap: 12px;
-                align-items: stretch;
-            }
-            .ghz-controls-center {
-                justify-content: center;
-                order: 1;
-            }
-            .ghz-controls-left {
-                justify-content: space-between;
-                order: 2;
-            }
-            .ghz-controls-right {
-                justify-content: space-between;
-                order: 3;
-            }
-            .ghz-volume-container:hover .ghz-volume-slider-wrapper {
-                width: 60px;
-            }
-            .ghz-volume-slider {
-                width: 60px;
+            .ghz-watermark {
+                display: none !important;
             }
             .ghz-hud-stats {
-                gap: 8px;
+                top: 15px;
+                left: 15px;
+                gap: 6px;
             }
             .ghz-hud-item {
                 padding: 3px 6px;
-                font-size: 0.6rem;
+                font-size: 0.58rem;
+                gap: 4px;
+            }
+            .ghz-controls-row {
+                flex-direction: row;
+                justify-content: space-between;
+                align-items: center;
+                gap: 8px;
+            }
+            .ghz-controls-left {
+                gap: 8px;
+            }
+            .ghz-controls-right {
+                gap: 8px;
+            }
+            .ghz-live-text {
+                display: none !important;
+            }
+            .ghz-volume-slider-wrapper {
+                display: none !important;
             }
             .active-channel-details h2 {
-                font-size: 1.25rem;
+                font-size: 1.2rem;
             }
         }
 
@@ -1368,6 +1392,13 @@
                     <span>P2P WEB SWARM • GHZ PLAYER</span>
                 </div>
 
+                <!-- Info do Sinal HUD Holográfico -->
+                <div class="ghz-hud-stats" id="ghzHudStats">
+                    <span class="ghz-hud-item"><i class="fa-solid fa-clock"></i> <span id="hudLatency">0.8s</span></span>
+                    <span class="ghz-hud-item"><i class="fa-solid fa-expand"></i> <span id="hudResolution">N/A</span></span>
+                    <span class="ghz-hud-item"><i class="fa-solid fa-gauge"></i> <span id="hudBitrate">0.0 Mbps</span></span>
+                </div>
+
                 <div class="player-placeholder" id="playerPlaceholder">
                     <i class="fa-solid fa-microchip"></i>
                     <p>Selecione um sinal público para inicializar compartilhamento P2P</p>
@@ -1405,14 +1436,7 @@
                             </div>
                         </div>
                         
-                        <div class="ghz-controls-center">
-                            <!-- Info do Sinal em Tempo Real -->
-                            <div class="ghz-hud-stats">
-                                <span class="ghz-hud-item"><i class="fa-solid fa-clock"></i> <span id="hudLatency">0.8s</span></span>
-                                <span class="ghz-hud-item"><i class="fa-solid fa-expand"></i> <span id="hudResolution">N/A</span></span>
-                                <span class="ghz-hud-item"><i class="fa-solid fa-gauge"></i> <span id="hudBitrate">0.0 Mbps</span></span>
-                            </div>
-                        </div>
+                        <!-- O HUD Stats foi reposicionado como um overlay absoluto no topo do player -->
 
                         <div class="ghz-controls-right">
                             <button class="ghz-ctrl-btn" id="meshBoostBtn" title="Mesh Booster (Reconexão WebRTC)">
@@ -2037,15 +2061,19 @@
             }
         });
 
-        // Ocultar controles por inatividade do mouse
+        // Ocultar controles por inatividade do mouse ou toque no mobile
         let mouseTimer;
-        playerWrapper.addEventListener('mousemove', () => {
+        function showPlayerControlsTemporarily() {
             playerWrapper.classList.add('user-active');
             clearTimeout(mouseTimer);
             mouseTimer = setTimeout(() => {
                 playerWrapper.classList.remove('user-active');
-            }, 3000);
-        });
+            }, 3500);
+        }
+
+        playerWrapper.addEventListener('mousemove', showPlayerControlsTemporarily);
+        playerWrapper.addEventListener('click', showPlayerControlsTemporarily);
+        playerWrapper.addEventListener('touchstart', showPlayerControlsTemporarily, {passive: true});
 
         playerWrapper.addEventListener('mouseleave', () => {
             playerWrapper.classList.remove('user-active');
@@ -2114,13 +2142,21 @@
             });
         });
 
-        // Botão para copiar link M3U
+        // Botão para copiar link M3U (Feedback visual no próprio botão)
         document.getElementById('copyM3uBtn').addEventListener('click', function() {
             const m3uUrl = `${window.location.origin}${window.location.pathname.replace('index.html', '')}tvip.m3u`;
+            const btn = this;
+            const originalHtml = btn.innerHTML;
+            
             navigator.clipboard.writeText(m3uUrl).then(() => {
+                btn.innerHTML = `<i class="fa-solid fa-check" style="color: #10b981;"></i><span style="color: #10b981;">Copiado!</span>`;
                 showToast('Link do sinal M3U copiado!');
+                setTimeout(() => {
+                    btn.innerHTML = originalHtml;
+                }, 2000);
             }).catch(err => {
                 console.error("Falha ao copiar link:", err);
+                alert("Link do sinal M3U: " + m3uUrl);
             });
         });
 
