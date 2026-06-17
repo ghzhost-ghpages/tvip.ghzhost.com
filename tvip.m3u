@@ -17,8 +17,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Babyfirst" group-title="Geral",Babyfirst (Brasil)
 https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BET Pluto TV" group-title="Geral",BET Pluto TV (Brasil)
-https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Blitstv" group-title="Geral",Blitstv (Brasil)
 https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BM&C News (720p)" group-title="Geral",BM&C News (720p) (Brasil)
@@ -47,8 +45,6 @@ https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COM Brasil (1080p) [Not 24/7]" group-title="Geral",COM Brasil (1080p) [Not 24/7] (Brasil)
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Pluto TV" group-title="Geral",Comedy Central Pluto TV (Brasil)
-https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central South Park" group-title="Geral",Comedy Central South Park (Brasil)
 https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ConecTV Brasil (720p)" group-title="Geral",ConecTV Brasil (720p) (Brasil)
@@ -81,10 +77,14 @@ https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gospel Movie TV (360p)" group-title="Geral",Gospel Movie TV (360p) (Brasil)
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ISTV (720p) [Not 24/7]" group-title="Geral",ISTV (720p) [Not 24/7] (Brasil)
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News (JP News) (1080p) [Not 24/7]" group-title="Geral",Jovem Pan News (JP News) (1080p) [Not 24/7] (Brasil)
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kenan & Kel" group-title="Geral",Kenan & Kel (Brasil)
 https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KpopTV Play (576p)" group-title="Geral",KpopTV Play (576p) (Brasil)
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kuriakos Kids (1080p)" group-title="Geral",Kuriakos Kids (1080p) (Brasil)
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Loading (720p)" group-title="Geral",Loading (720p) (Brasil)
@@ -97,8 +97,6 @@ https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
 https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Com o Ex" group-title="Geral",MTV Com o Ex (Brasil)
 https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV Pluto TV" group-title="Geral",MTV Pluto TV (Brasil)
-https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MyTime Movie Network Brazil (720p)" group-title="Geral",MyTime Movie Network Brazil (720p) (Brasil)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Naruto" group-title="Geral",Naruto (Brasil)
@@ -107,6 +105,8 @@ https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
 https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Clássico (720p)" group-title="Geral",Nickelodeon Clássico (720p) (Brasil)
 https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NickOnline (360p)" group-title="Geral",NickOnline (360p) (Brasil)
+https://x1co.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NickToons Brasil (480p)" group-title="Geral",NickToons Brasil (480p) (Brasil)
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nova Era TV (1080p) [Not 24/7]" group-title="Geral",Nova Era TV (1080p) [Not 24/7] (Brasil)
@@ -123,52 +123,6 @@ https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
 https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Plena TV (720p)" group-title="Geral",Plena TV (720p) (Brasil)
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime" group-title="Geral",Pluto TV Anime (Brasil)
-https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Anime Ação" group-title="Geral",Pluto TV Anime Ação (Brasil)
-https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Clássicos" group-title="Geral",Pluto TV Cine Clássicos (Brasil)
-https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Drama" group-title="Geral",Pluto TV Cine Drama (Brasil)
-https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Família" group-title="Geral",Pluto TV Cine Família (Brasil)
-https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Romance" group-title="Geral",Pluto TV Cine Romance (Brasil)
-https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Sucessos" group-title="Geral",Pluto TV Cine Sucessos (Brasil)
-https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Cine Terror" group-title="Geral",Pluto TV Cine Terror (Brasil)
-https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Estilo de Vida" group-title="Geral",Pluto TV Estilo de Vida (Brasil)
-https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Ficção Científica" group-title="Geral",Pluto TV Ficção Científica (Brasil)
-https://jmp2.uk/plu-5fa15ad6367e170007cdd098.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Filmes Ação" group-title="Geral",Pluto TV Filmes Ação (Brasil)
-https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Filmes Nacionais" group-title="Geral",Pluto TV Filmes Nacionais (Brasil)
-https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Investigação" group-title="Geral",Pluto TV Investigação (Brasil)
-https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Junior" group-title="Geral",Pluto TV Junior (Brasil)
-https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Karaokê por Stingray (720p)" group-title="Geral",Pluto TV Karaokê por Stingray (720p) (Brasil)
-https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Kids" group-title="Geral",Pluto TV Kids (Brasil)
-https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Minha Obsessão Favorita" group-title="Geral",Pluto TV Minha Obsessão Favorita (Brasil)
-https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Mistérios" group-title="Geral",Pluto TV Mistérios (Brasil)
-https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Natureza" group-title="Geral",Pluto TV Natureza (Brasil)
-https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Paisagens por Stingray (720p)" group-title="Geral",Pluto TV Paisagens por Stingray (720p) (Brasil)
-https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Retrô" group-title="Geral",Pluto TV Retrô (Brasil)
-https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Shows por Stingray (720p)" group-title="Geral",Pluto TV Shows por Stingray (720p) (Brasil)
-https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Vida Real" group-title="Geral",Pluto TV Vida Real (Brasil)
-https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Primer TV (1080p)" group-title="Geral",Primer TV (1080p) (Brasil)
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pronto-socorro: Histórias De Emergência" group-title="Geral",Pronto-socorro: Histórias De Emergência (Brasil)
@@ -185,8 +139,6 @@ http://200.77.176.130:8000/udp/224.0.0.4:49152
 https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede CNT Salvador (576i)" group-title="Geral",Rede CNT Salvador (576i) (Brasil)
 http://168.205.87.198:8555/live/1368/123456/150.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rede Globo (1080p)" group-title="Geral",Rede Globo (1080p) (Brasil)
-https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Gospel (1080p)" group-title="Geral",Rede Gospel (1080p) (Brasil)
 https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede SPTV (360p)" group-title="Geral",Rede SPTV (360p) (Brasil)
@@ -199,24 +151,14 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RIT TV (1080p)" group-title="Geral",RIT TV (1080p) (Brasil)
 https://acesso.ecast.site:3648/live/ritlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT Cuiaba" group-title="Geral",SBT Cuiaba (Brasil)
-https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT Interior (720p)" group-title="Geral",SBT Interior (720p) (Brasil)
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT Nova Mutum" group-title="Geral",SBT Nova Mutum (Brasil)
-https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT Rondonopolis" group-title="Geral",SBT Rondonopolis (Brasil)
-https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT Sinop" group-title="Geral",SBT Sinop (Brasil)
-https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SIC TV (720p)" group-title="Geral",SIC TV (720p) (Brasil)
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Slime (576p) [Not 24/7]" group-title="Geral",Slime (576p) [Not 24/7] (Brasil)
+https://slime.x1co.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STZ TV (1080p)" group-title="Geral",STZ TV (1080p) (Brasil)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tastemade (720p)" group-title="Geral",Tastemade (720p) (Brasil)
 https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TCM 10 HD (1080p)" group-title="Geral",TCM 10 HD (1080p) (Brasil)
-https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Pet Collective (720p)" group-title="Geral",The Pet Collective (720p) (Brasil)
 https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TikTok Radio Brasil (1080p)" group-title="Geral",TikTok Radio Brasil (1080p) (Brasil)
@@ -271,6 +213,8 @@ https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Grande Natal (1080p)" group-title="Geral",TV Grande Natal (1080p) (Brasil)
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Guará (720p) [Not 24/7]" group-title="Geral",TV Guará (720p) [Not 24/7] (Brasil)
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Life America (720p)" group-title="Geral",TV Life America (720p) (Brasil)
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Mais Maricá (1080p)" group-title="Geral",TV Mais Maricá (1080p) (Brasil)
@@ -283,6 +227,8 @@ https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Metropole (720p) [Not 24/7]" group-title="Geral",TV Metropole (720p) [Not 24/7] (Brasil)
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Modelo (720p)" group-title="Geral",TV Modelo (720p) (Brasil)
+https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TV Natal (1080p)" group-title="Geral",TV Natal (1080p) (Brasil)
 http://185.228.163.146:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Padre Cicero (720p)" group-title="Geral",TV Padre Cicero (720p) (Brasil)
@@ -303,6 +249,8 @@ https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Sim Cachoeiro (720p)" group-title="Geral",TV Sim Cachoeiro (720p) (Brasil)
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Sim São Mateus (720p)" group-title="Geral",TV Sim São Mateus (720p) (Brasil)
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Sul Bahia (320p)" group-title="Geral",TV Sul Bahia (320p) (Brasil)
 https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Sul de Minas (720p)" group-title="Geral",TV Sul de Minas (720p) (Brasil)
