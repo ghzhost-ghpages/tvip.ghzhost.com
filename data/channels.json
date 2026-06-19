@@ -77,6 +77,13 @@
     "url": "https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8"
   },
   {
+    "name": "BM&C News (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
+  },
+  {
     "name": "Boas Novas (1080p)",
     "logo": "",
     "group": "Geral",
@@ -166,6 +173,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8"
+  },
+  {
+    "name": "Comedy Central Pluto TV",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8"
   },
   {
     "name": "Comedy Central South Park",
@@ -299,13 +313,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
-  },
-  {
-    "name": "KpopTV Play (576p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
   },
   {
     "name": "Kuriakos Kids (1080p)",
@@ -567,6 +574,13 @@
     "url": "https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8"
   },
   {
+    "name": "Pluto TV Curiosidade",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://jmp2.uk/plu-6474aadc8e3c0a0008b98493.m3u8"
+  },
+  {
     "name": "Pluto TV Desenhos Clássicos",
     "logo": "",
     "group": "Geral",
@@ -672,6 +686,13 @@
     "url": "https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8"
   },
   {
+    "name": "Pluto TV Minha Obsessão Favorita",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8"
+  },
+  {
     "name": "Pluto TV Mistérios",
     "logo": "",
     "group": "Geral",
@@ -686,6 +707,20 @@
     "url": "https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8"
   },
   {
+    "name": "Pluto TV Negócio Fechado",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8"
+  },
+  {
+    "name": "Pluto TV Netmovies",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8"
+  },
+  {
     "name": "Pluto TV Novelas",
     "logo": "",
     "group": "Geral",
@@ -698,6 +733,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8"
+  },
+  {
+    "name": "Pluto TV Policial",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8"
   },
   {
     "name": "Pluto TV Record News (720p)",
@@ -847,18 +889,18 @@
     "url": "https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8"
   },
   {
+    "name": "Rede Brasil (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://redebrasil.nuvemplay.live/hls/stream.m3u8"
+  },
+  {
     "name": "Rede CNT Salvador (576i)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
     "url": "http://168.205.87.198:8555/live/1368/123456/150.m3u8"
-  },
-  {
-    "name": "Rede Globo (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8"
   },
   {
     "name": "Rede Gospel (1080p)",
@@ -903,18 +945,18 @@
     "url": "https://acesso.ecast.site:3648/live/ritlive.m3u8"
   },
   {
+    "name": "SBT Interior (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
+  },
+  {
     "name": "SIC TV (720p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
     "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
-  },
-  {
-    "name": "Slime (576p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://slime.x1co.com.br/hls/stream.m3u8"
   },
   {
     "name": "Smithsonian Channel Pluto TV",
@@ -936,13 +978,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8"
-  },
-  {
-    "name": "TCM 10 HD (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
   },
   {
     "name": "The Pet Collective (720p)",
@@ -1041,13 +1076,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://tvbrasil-stream.ebc.com.br/index.m3u8"
-  },
-  {
-    "name": "TV Brasil Oeste (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
   },
   {
     "name": "TV BRICS Portuguese (1080p)",
@@ -1204,6 +1232,13 @@
     "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8"
   },
   {
+    "name": "TV Pampa",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8"
+  },
+  {
     "name": "TV Pantanal MS (360p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
@@ -1258,13 +1293,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
-  },
-  {
-    "name": "TV Sul Bahia (320p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
   },
   {
     "name": "TV Sul de Minas (720p)",
