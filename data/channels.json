@@ -84,13 +84,6 @@
     "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
   },
   {
-    "name": "Boas Novas (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
-  },
-  {
     "name": "BR8 TV",
     "logo": "",
     "group": "Geral",
@@ -138,6 +131,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8"
+  },
+  {
+    "name": "Canal Off (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://170.82.202.31/OFF/index.m3u8"
   },
   {
     "name": "Canal Sete",
@@ -280,6 +280,20 @@
     "url": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8"
   },
   {
+    "name": "Globoplay Novelas (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://170.82.202.31/Viva/index.m3u8"
+  },
+  {
+    "name": "GNT (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://170.82.202.31/GNT/index.m3u8"
+  },
+  {
     "name": "Gospel Cartoon (360p)",
     "logo": "",
     "group": "Geral",
@@ -334,6 +348,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8"
+  },
+  {
+    "name": "MCM (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://rezofoot.tv/MCM/index.m3u8"
   },
   {
     "name": "MTV Are you the One?",
@@ -903,6 +924,13 @@
     "url": "http://168.205.87.198:8555/live/1368/123456/150.m3u8"
   },
   {
+    "name": "Rede Globo (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8"
+  },
+  {
     "name": "Rede Gospel (1080p)",
     "logo": "",
     "group": "Geral",
@@ -943,13 +971,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://acesso.ecast.site:3648/live/ritlive.m3u8"
-  },
-  {
-    "name": "SBT Interior (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
   },
   {
     "name": "SIC TV (720p)",
@@ -1293,6 +1314,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
+  },
+  {
+    "name": "TV Sul Bahia (320p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
   },
   {
     "name": "TV Sul de Minas (720p)",
