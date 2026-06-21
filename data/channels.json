@@ -63,6 +63,13 @@
     "url": "https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8"
   },
   {
+    "name": "Band Sports (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8"
+  },
+  {
     "name": "BET Pluto TV",
     "logo": "",
     "group": "Geral",
@@ -82,6 +89,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
+  },
+  {
+    "name": "Boas Novas (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
   },
   {
     "name": "BR8 TV",
@@ -131,13 +145,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8"
-  },
-  {
-    "name": "Canal Off (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://170.82.202.31/OFF/index.m3u8"
   },
   {
     "name": "Canal Sete",
@@ -280,18 +287,11 @@
     "url": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8"
   },
   {
-    "name": "Globoplay Novelas (1080p)",
+    "name": "GloboNews (720p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
-    "url": "http://170.82.202.31/Viva/index.m3u8"
-  },
-  {
-    "name": "GNT (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://170.82.202.31/GNT/index.m3u8"
+    "url": "http://41.205.70.146/GLOBONEWS/index.m3u8"
   },
   {
     "name": "Gospel Cartoon (360p)",
@@ -327,6 +327,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
+  },
+  {
+    "name": "KpopTV Play (576p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
   },
   {
     "name": "Kuriakos Kids (1080p)",
@@ -658,13 +665,6 @@
     "url": "https://jmp2.uk/plu-64c815e8a1c6130008fef928.m3u8"
   },
   {
-    "name": "Pluto TV História",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8"
-  },
-  {
     "name": "Pluto TV Investigação",
     "logo": "",
     "group": "Geral",
@@ -971,6 +971,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://acesso.ecast.site:3648/live/ritlive.m3u8"
+  },
+  {
+    "name": "SBT Interior (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
   },
   {
     "name": "SIC TV (720p)",
@@ -1351,13 +1358,6 @@
     "url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8"
   },
   {
-    "name": "TV Viçosa (480p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8"
-  },
-  {
     "name": "TV Vila Real (720p)",
     "logo": "",
     "group": "Geral",
@@ -1412,6 +1412,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8"
+  },
+  {
+    "name": "TVLatinaSat (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://www.latinasat.com.br/hls/live/stream/index.m3u8"
   },
   {
     "name": "TVNBN (720p)",
@@ -1573,13 +1580,6 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8"
-  },
-  {
-    "name": "RTP 2 (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8"
   },
   {
     "name": "RTP Açores (720p) [Not 24/7]",
