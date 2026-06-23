@@ -98,25 +98,11 @@
     "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
   },
   {
-    "name": "Boas Novas (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
-  },
-  {
     "name": "BR8 TV",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
-  },
-  {
-    "name": "Canal 25 Jundiaí (404p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8"
   },
   {
     "name": "Canal 38 (720p)",
@@ -336,13 +322,6 @@
     "url": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
   },
   {
-    "name": "KpopTV Play (576p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
-  },
-  {
     "name": "Kuriakos Kids (1080p)",
     "logo": "",
     "group": "Geral",
@@ -481,6 +460,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8"
+  },
+  {
+    "name": "Plena TV (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
   },
   {
     "name": "Pluto TV Aliens",
@@ -931,13 +917,6 @@
     "url": "http://168.205.87.198:8555/live/1368/123456/150.m3u8"
   },
   {
-    "name": "Rede Globo (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8"
-  },
-  {
     "name": "Rede Gospel (1080p)",
     "logo": "",
     "group": "Geral",
@@ -964,13 +943,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
-  },
-  {
-    "name": "Rede Vida (576p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-5.nxplay.com.br/REDE_VIDA/index.m3u8"
   },
   {
     "name": "RedeTV! Parana",
@@ -1041,13 +1013,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529"
-  },
-  {
-    "name": "Tokusato",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8"
   },
   {
     "name": "Trace Brasil (1080p)",
@@ -1267,6 +1232,13 @@
     "url": "https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u"
   },
   {
+    "name": "TV Natal (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://185.228.163.146:8000/play/a01y/index.m3u8"
+  },
+  {
     "name": "TV Padre Cicero (720p)",
     "logo": "",
     "group": "Geral",
@@ -1363,6 +1335,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8"
+  },
+  {
+    "name": "TV Viçosa (480p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8"
   },
   {
     "name": "TV Vila Real (720p)",
