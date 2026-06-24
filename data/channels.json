@@ -1,12 +1,5 @@
 [
   {
-    "name": "1001 Noites (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
-  },
-  {
     "name": "Adesso TV (720p)",
     "logo": "",
     "group": "Geral",
@@ -49,6 +42,13 @@
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8"
   },
   {
+    "name": "Arte 1 (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://143.14.178.40:7777/Arte_1_HD/index.m3u8"
+  },
+  {
     "name": "AWTV (1080p) [Geo-blocked]",
     "logo": "",
     "group": "Geral",
@@ -84,6 +84,13 @@
     "url": "https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8"
   },
   {
+    "name": "Bis (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://143.14.178.40:7777/BIS_HD/index.m3u8"
+  },
+  {
     "name": "Blitstv",
     "logo": "",
     "group": "Geral",
@@ -98,11 +105,25 @@
     "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
   },
   {
+    "name": "Boas Novas (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+  },
+  {
     "name": "BR8 TV",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
+  },
+  {
+    "name": "Canal 25 Jundiaí (404p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8"
   },
   {
     "name": "Canal 38 (720p)",
@@ -280,11 +301,25 @@
     "url": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8"
   },
   {
-    "name": "GloboNews (720p)",
+    "name": "GloboNews (1080p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
-    "url": "http://41.205.70.146/GLOBONEWS/index.m3u8"
+    "url": "http://143.14.178.40:7777/GloboNews_HD/index.m3u8"
+  },
+  {
+    "name": "Gloob (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://143.14.178.40:7777/Gloob_HD/index.m3u8"
+  },
+  {
+    "name": "Gloobinho (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://143.14.178.40:7777/Gloobinho_HD/index.m3u8"
   },
   {
     "name": "Gospel Cartoon (360p)",
@@ -322,6 +357,13 @@
     "url": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
   },
   {
+    "name": "KpopTV Play (576p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+  },
+  {
     "name": "Kuriakos Kids (1080p)",
     "logo": "",
     "group": "Geral",
@@ -350,6 +392,13 @@
     "url": "http://rezofoot.tv/MCM/index.m3u8"
   },
   {
+    "name": "Megapix (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://143.14.178.40:7777/Megapix_HD/index.m3u8"
+  },
+  {
     "name": "MTV Are you the One?",
     "logo": "",
     "group": "Geral",
@@ -376,6 +425,20 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8"
+  },
+  {
+    "name": "Multishow (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://143.14.178.40:7777/Multishow_HD/index.m3u8"
+  },
+  {
+    "name": "Music Box Brazil (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://143.14.178.40:7777/Music_Box_HD/index.m3u8"
   },
   {
     "name": "MyTime Movie Network Brazil (720p)",
@@ -868,13 +931,6 @@
     "url": "https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8"
   },
   {
-    "name": "RBATV (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
-  },
-  {
     "name": "Record News (720p)",
     "logo": "",
     "group": "Geral",
@@ -945,6 +1001,13 @@
     "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
   },
   {
+    "name": "Rede Vida (576p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn-5.nxplay.com.br/REDE_VIDA/index.m3u8"
+  },
+  {
     "name": "RedeTV! Parana",
     "logo": "",
     "group": "Geral",
@@ -971,6 +1034,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
+  },
+  {
+    "name": "Slime (576p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://slime.x1co.com.br/hls/stream.m3u8"
   },
   {
     "name": "Smithsonian Channel Pluto TV",
@@ -1013,6 +1083,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529"
+  },
+  {
+    "name": "Tokusato",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8"
   },
   {
     "name": "Trace Brasil (1080p)",
@@ -1162,11 +1239,18 @@
     "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
   },
   {
-    "name": "TV Globo Sao Paulo (720p)",
+    "name": "TV Futuro (1080p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
-    "url": "https://cdn-5.nxplay.com.br/GLOBO_SP_TK/index.m3u8"
+    "url": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
+  },
+  {
+    "name": "TV Globo Sao Paulo (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://187.62.68.32:8080/GLOBO/index.m3u8"
   },
   {
     "name": "TV Grande Natal (1080p)",
@@ -1223,13 +1307,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8"
-  },
-  {
-    "name": "TV Modelo (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u"
   },
   {
     "name": "TV Natal (1080p)",
@@ -1421,18 +1498,11 @@
     "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
   },
   {
-    "name": "ADB TV (1080p)",
+    "name": "WooHoo (1080p)",
     "logo": "",
     "group": "Geral",
-    "country": "Portugal",
-    "url": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8"
-  },
-  {
-    "name": "ARTV Canal Parlamento (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
+    "country": "Brasil",
+    "url": "http://143.14.178.40:7777/Woohoo_HD/index.m3u8"
   },
   {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Movies",
