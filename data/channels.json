@@ -105,13 +105,6 @@
     "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
   },
   {
-    "name": "Boas Novas (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
-  },
-  {
     "name": "BR8 TV",
     "logo": "",
     "group": "Geral",
@@ -931,6 +924,13 @@
     "url": "https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8"
   },
   {
+    "name": "RBATV (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
+  },
+  {
     "name": "Record News (720p)",
     "logo": "",
     "group": "Geral",
@@ -1071,6 +1071,13 @@
     "url": "https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8"
   },
   {
+    "name": "TCM 10 HD (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
+  },
+  {
     "name": "The Pet Collective (720p)",
     "logo": "",
     "group": "Geral",
@@ -1167,6 +1174,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://tvbrasil-stream.ebc.com.br/index.m3u8"
+  },
+  {
+    "name": "TV Brasil Oeste (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
   },
   {
     "name": "TV BRICS Portuguese (1080p)",
@@ -1337,6 +1351,13 @@
     "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
   },
   {
+    "name": "TV Paraense (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
+  },
+  {
     "name": "TV Paraná Turismo (720p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
@@ -1503,6 +1524,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://143.14.178.40:7777/Woohoo_HD/index.m3u8"
+  },
+  {
+    "name": "ARTV Canal Parlamento (720p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
   },
   {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Movies",
@@ -1708,27 +1736,6 @@
     "url": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8"
   },
   {
-    "name": "Sport TV1",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://test.946985.filegear-sg.me/proxy/b57707d48ea3395e"
-  },
-  {
-    "name": "Sport TV5",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://test.946985.filegear-sg.me/proxy/2e5a3cb38f72a6dd"
-  },
-  {
-    "name": "Sport TV7",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://test.946985.filegear-sg.me/proxy/a8c7608240dec023"
-  },
-  {
     "name": "Trailers (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1776,6 +1783,27 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8"
+  },
+  {
+    "name": "TVI Ficção (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8"
+  },
+  {
+    "name": "TVI Reality (720p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8"
+  },
+  {
+    "name": "V+ TVI (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8"
   },
   {
     "name": "Way TV",
