@@ -119,13 +119,6 @@
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
   },
   {
-    "name": "Canal 25 Jundiaí (404p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8"
-  },
-  {
     "name": "Canal 38 (720p)",
     "logo": "",
     "group": "Geral",
@@ -138,13 +131,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://canaleducacao-stream.ebc.com.br/index.m3u8"
-  },
-  {
-    "name": "Canal FDR",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
   },
   {
     "name": "Canal Gov (720p)",
@@ -187,13 +173,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8"
-  },
-  {
-    "name": "COM Brasil (1080p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8"
   },
   {
     "name": "Comedy Central Pluto TV",
@@ -973,13 +952,6 @@
     "url": "http://168.205.87.198:8555/live/1368/123456/150.m3u8"
   },
   {
-    "name": "Rede Globo (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8"
-  },
-  {
     "name": "Rede Gospel (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1043,6 +1015,13 @@
     "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
   },
   {
+    "name": "Slime (576p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://slime.x1co.com.br/hls/stream.m3u8"
+  },
+  {
     "name": "Smithsonian Channel Pluto TV",
     "logo": "",
     "group": "Geral",
@@ -1085,6 +1064,13 @@
     "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
   },
   {
+    "name": "TELE 6 (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
+  },
+  {
     "name": "The Pet Collective (720p)",
     "logo": "",
     "group": "Geral",
@@ -1097,6 +1083,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529"
+  },
+  {
+    "name": "Times Brasil (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
   },
   {
     "name": "Tokusato",
@@ -1229,7 +1222,7 @@
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
-    "url": "https://jmp2.uk/plu-62e010e6cd663f0007e57dc8.m3u8"
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/tvlafaietehd/playlist.m3u8"
   },
   {
     "name": "TV Curuça (360p)",
@@ -1314,6 +1307,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8"
+  },
+  {
+    "name": "TV Metropole (720p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8"
   },
   {
     "name": "TV Padre Cicero (720p)",
@@ -1470,6 +1470,13 @@
     "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8"
   },
   {
+    "name": "TVídeoNews (720p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8"
+  },
+  {
     "name": "TVitapé (720p)",
     "logo": "",
     "group": "Geral",
@@ -1524,6 +1531,13 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
+  },
+  {
+    "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "http://xplatinmedia.com:8080/Tagtech2873/RwCXuUgkg8g5/9782"
   },
   {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Movies",
@@ -1664,13 +1678,6 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8"
-  },
-  {
-    "name": "RTP 2 (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8"
   },
   {
     "name": "RTP Açores (720p) [Not 24/7]",
