@@ -1,5 +1,12 @@
 [
   {
+    "name": "1001 Noites (720p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
+  },
+  {
     "name": "Adesso TV (720p)",
     "logo": "",
     "group": "Geral",
@@ -399,6 +406,13 @@
     "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
   },
   {
+    "name": "L!ke (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8"
+  },
+  {
     "name": "Loading (720p)",
     "logo": "",
     "group": "Geral",
@@ -427,7 +441,7 @@
     "url": "https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8"
   },
   {
-    "name": "MCM (720p)",
+    "name": "MCM Top (720p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
@@ -628,6 +642,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8"
+  },
+  {
+    "name": "O Dia TV",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8"
   },
   {
     "name": "O Encantador de Cães",
@@ -1323,13 +1344,6 @@
     "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8"
   },
   {
-    "name": "TV Arapuan (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
-  },
-  {
     "name": "like Gecko) Chrome/129.0.0.0 Safari/537.36\" group-title=\"Undefined\",TV Bahia (1080i)",
     "logo": "",
     "group": "Geral",
@@ -1342,13 +1356,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://tvbrasil-stream.ebc.com.br/index.m3u8"
-  },
-  {
-    "name": "TV Brasil Oeste (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
   },
   {
     "name": "TV BRICS Portuguese (1080p)",
@@ -1491,6 +1498,13 @@
     "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8"
   },
   {
+    "name": "TV Natal (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://185.228.163.146:8000/play/a01y/index.m3u8"
+  },
+  {
     "name": "TV Padre Cicero (720p)",
     "logo": "",
     "group": "Geral",
@@ -1510,6 +1524,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
+  },
+  {
+    "name": "TV Paraense (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
   },
   {
     "name": "TV Paraná Turismo (720p) [Not 24/7]",
@@ -1547,6 +1568,20 @@
     "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
   },
   {
+    "name": "TV Sim São Mateus (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
+  },
+  {
+    "name": "TV Sul Bahia (320p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
+  },
+  {
     "name": "TV Sul de Minas (720p)",
     "logo": "",
     "group": "Geral",
@@ -1575,6 +1610,13 @@
     "url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8"
   },
   {
+    "name": "TV Viçosa (480p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8"
+  },
+  {
     "name": "TV Vila Real (720p)",
     "logo": "",
     "group": "Geral",
@@ -1594,13 +1636,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8"
-  },
-  {
-    "name": "TVCOM DF (360p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR="
   },
   {
     "name": "TVCOM Maceió (480p)",
