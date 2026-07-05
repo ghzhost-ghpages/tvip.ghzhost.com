@@ -357,13 +357,6 @@
     "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
   },
   {
-    "name": "J3NEWS TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8"
-  },
-  {
     "name": "Jornada nas Estrelas A Nova Geração",
     "logo": "",
     "group": "Geral",
@@ -439,6 +432,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8"
+  },
+  {
+    "name": "MCM Top (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://rezofoot.tv/MCM/index.m3u8"
   },
   {
     "name": "MTV Are you the One?",
@@ -1344,6 +1344,13 @@
     "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8"
   },
   {
+    "name": "TV Arapuan (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+  },
+  {
     "name": "like Gecko) Chrome/129.0.0.0 Safari/537.36\" group-title=\"Undefined\",TV Bahia (1080i)",
     "logo": "",
     "group": "Geral",
@@ -1582,13 +1589,6 @@
     "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
   },
   {
-    "name": "TV Sul Bahia (320p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
-  },
-  {
     "name": "TV Sul de Minas (720p)",
     "logo": "",
     "group": "Geral",
@@ -1643,6 +1643,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8"
+  },
+  {
+    "name": "TVCOM DF (360p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR="
   },
   {
     "name": "TVCOM Maceió (480p)",
@@ -1867,13 +1874,6 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8"
-  },
-  {
-    "name": "RTP 2 (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8"
   },
   {
     "name": "RTP Açores (720p) [Not 24/7]",
