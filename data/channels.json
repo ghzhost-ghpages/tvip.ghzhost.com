@@ -350,13 +350,6 @@
     "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8"
   },
   {
-    "name": "ISTV (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
-  },
-  {
     "name": "Jornada nas Estrelas A Nova Geração",
     "logo": "",
     "group": "Geral",
@@ -504,13 +497,6 @@
     "url": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8"
   },
   {
-    "name": "MTV Rocks",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8"
-  },
-  {
     "name": "MTV Rupaul's Drag Race",
     "logo": "",
     "group": "Geral",
@@ -595,13 +581,6 @@
     "url": "https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8"
   },
   {
-    "name": "NickOnline (360p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://x1co.com.br/hls/stream.m3u8"
-  },
-  {
     "name": "NickToons Brasil (480p)",
     "logo": "",
     "group": "Geral",
@@ -670,6 +649,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8"
+  },
+  {
+    "name": "Play TV (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://isaocorp.cloudecast.com/playtv/index.m3u8"
   },
   {
     "name": "Plena TV (720p)",
@@ -1134,6 +1120,13 @@
     "url": "https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8"
   },
   {
+    "name": "Rede NGT (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8"
+  },
+  {
     "name": "Rede SPTV (360p)",
     "logo": "",
     "group": "Geral",
@@ -1365,6 +1358,13 @@
     "url": "https://tvbrasil-stream.ebc.com.br/index.m3u8"
   },
   {
+    "name": "TV Brasil Oeste (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+  },
+  {
     "name": "TV BRICS Portuguese (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1575,13 +1575,6 @@
     "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
   },
   {
-    "name": "TV Sim Cachoeiro (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
-  },
-  {
     "name": "TV Sim São Mateus (720p)",
     "logo": "",
     "group": "Geral",
@@ -1601,13 +1594,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8"
-  },
-  {
-    "name": "TV UFOP (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://app.tvufop.com.br/hls/tvufop.m3u8"
   },
   {
     "name": "TV Universal (480p)",
@@ -1874,6 +1860,13 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8"
+  },
+  {
+    "name": "RTP 2 (720p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8"
   },
   {
     "name": "RTP Açores (720p) [Not 24/7]",
