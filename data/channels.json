@@ -1,12 +1,5 @@
 [
   {
-    "name": "1001 Noites (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
-  },
-  {
     "name": "Adesso TV (720p)",
     "logo": "",
     "group": "Geral",
@@ -103,6 +96,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
+  },
+  {
+    "name": "Boas Novas (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
   },
   {
     "name": "Bob Esponja Calça Quadrada (720p)",
@@ -266,6 +266,27 @@
     "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
   },
   {
+    "name": "ESPN (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
+  },
+  {
+    "name": "ESPN 3 (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://181.78.197.59:8000/play/a081/index.m3u8"
+  },
+  {
+    "name": "ESPN 4 (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
+  },
+  {
     "name": "EUTV (720p)",
     "logo": "",
     "group": "Geral",
@@ -348,6 +369,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8"
+  },
+  {
+    "name": "ISTV (720p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
   },
   {
     "name": "Jornada nas Estrelas A Nova Geração",
@@ -497,6 +525,13 @@
     "url": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8"
   },
   {
+    "name": "MTV Rocks",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8"
+  },
+  {
     "name": "MTV Rupaul's Drag Race",
     "logo": "",
     "group": "Geral",
@@ -581,6 +616,13 @@
     "url": "https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8"
   },
   {
+    "name": "NickOnline (360p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://x1colegal.com/hls/stream.m3u8"
+  },
+  {
     "name": "NickToons Brasil (480p)",
     "logo": "",
     "group": "Geral",
@@ -593,13 +635,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8"
-  },
-  {
-    "name": "Novo Tempo (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8"
   },
   {
     "name": "NTV",
@@ -649,13 +684,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8"
-  },
-  {
-    "name": "Play TV (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://isaocorp.cloudecast.com/playtv/index.m3u8"
   },
   {
     "name": "Plena TV (720p)",
@@ -1120,13 +1148,6 @@
     "url": "https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8"
   },
   {
-    "name": "Rede NGT (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8"
-  },
-  {
     "name": "Rede SPTV (360p)",
     "logo": "",
     "group": "Geral",
@@ -1335,13 +1356,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8"
-  },
-  {
-    "name": "TV Arapuan (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
   },
   {
     "name": "like Gecko) Chrome/129.0.0.0 Safari/537.36\" group-title=\"Undefined\",TV Bahia (1080i)",
@@ -1575,11 +1589,25 @@
     "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
   },
   {
+    "name": "TV Sim Cachoeiro (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
+  },
+  {
     "name": "TV Sim São Mateus (720p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
+  },
+  {
+    "name": "TV Sul Bahia (320p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
   },
   {
     "name": "TV Sul de Minas (720p)",
@@ -1594,6 +1622,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8"
+  },
+  {
+    "name": "TV UFOP (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://app.tvufop.com.br/hls/tvufop.m3u8"
   },
   {
     "name": "TV Universal (480p)",
