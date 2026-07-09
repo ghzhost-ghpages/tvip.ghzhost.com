@@ -140,13 +140,6 @@
     "url": "http://45.162.231.38:7779/Boa_Vontade_TV/index.m3u8"
   },
   {
-    "name": "Boas Novas (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
-  },
-  {
     "name": "Bob Esponja Calça Quadrada (720p)",
     "logo": "",
     "group": "Geral",
@@ -525,6 +518,13 @@
     "url": "https://video24.mais.uol.com.br/live/6146.m3u8"
   },
   {
+    "name": "J3NEWS TV",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8"
+  },
+  {
     "name": "Jornada nas Estrelas A Nova Geração",
     "logo": "",
     "group": "Geral",
@@ -791,13 +791,6 @@
     "url": "https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8"
   },
   {
-    "name": "NickOnline (360p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://x1colegal.com/hls/stream.m3u8"
-  },
-  {
     "name": "NickToons Brasil (480p)",
     "logo": "",
     "group": "Geral",
@@ -866,13 +859,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
-  },
-  {
-    "name": "Plenitude TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
   },
   {
     "name": "Pluto TV Aliens",
@@ -1750,13 +1736,6 @@
     "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
   },
   {
-    "name": "TV Futuro (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
-  },
-  {
     "name": "TV Gazeta (720p)",
     "logo": "",
     "group": "Geral",
@@ -1769,6 +1748,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://187.62.68.32:8080/GLOBO/index.m3u8"
+  },
+  {
+    "name": "TV Grande Natal (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8"
   },
   {
     "name": "TV Guará (720p) [Not 24/7]",
@@ -1979,6 +1965,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8"
+  },
+  {
+    "name": "TVCOM DF (360p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR="
   },
   {
     "name": "TVCOM Maceió (480p)",
