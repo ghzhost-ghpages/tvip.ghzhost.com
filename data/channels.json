@@ -70,13 +70,6 @@
     "url": "http://143.14.178.40:7777/Arte_1_HD/index.m3u8"
   },
   {
-    "name": "As Tartarugas Ninja (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-63dd5c904e83e700088fb68a.m3u8"
-  },
-  {
     "name": "Avatar: A lenda de Aang",
     "logo": "",
     "group": "Geral",
@@ -140,6 +133,13 @@
     "url": "http://45.162.231.38:7779/Boa_Vontade_TV/index.m3u8"
   },
   {
+    "name": "Boas Novas (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+  },
+  {
     "name": "Bob Esponja Calça Quadrada (720p)",
     "logo": "",
     "group": "Geral",
@@ -161,11 +161,11 @@
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
   },
   {
-    "name": "Canal 25 Jundiaí (404p) [Not 24/7]",
+    "name": "Canal 25 Jundiai (720p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8"
+    "url": "https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8"
   },
   {
     "name": "Canal 38 (720p)",
@@ -658,13 +658,6 @@
     "url": "https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8"
   },
   {
-    "name": "MTV Dating",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8"
-  },
-  {
     "name": "MTV Jovens e Mães (720p)",
     "logo": "",
     "group": "Geral",
@@ -859,6 +852,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
+  },
+  {
+    "name": "Plenitude TV",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
   },
   {
     "name": "Pluto TV Aliens",
@@ -1113,13 +1113,6 @@
     "url": "https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8"
   },
   {
-    "name": "Pluto TV Netmovies",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8"
-  },
-  {
     "name": "Pluto TV Novelas",
     "logo": "",
     "group": "Geral",
@@ -1335,6 +1328,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8"
+  },
+  {
+    "name": "Rede Premium TV (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8"
   },
   {
     "name": "Rede Seculo 21 (720p)",
@@ -1561,6 +1561,13 @@
     "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
   },
   {
+    "name": "TNT Novelas Brazil (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://167.250.126.140:7777/TBS-HD/index.m3u8"
+  },
+  {
     "name": "Tokusato",
     "logo": "",
     "group": "Geral",
@@ -1629,6 +1636,20 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8"
+  },
+  {
+    "name": "TV Arapuan (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+  },
+  {
+    "name": "TV Assembleia Piaui",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8"
   },
   {
     "name": "like Gecko) Chrome/129.0.0.0 Safari/537.36\" group-title=\"Undefined\",TV Bahia (1080i)",
@@ -1813,6 +1834,13 @@
     "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8"
   },
   {
+    "name": "TV Mon (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvmon/tvmon/playlist.m3u8"
+  },
+  {
     "name": "TV Natal (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1883,6 +1911,13 @@
     "url": "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8"
   },
   {
+    "name": "TV Senado (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://45.162.64.114/TV_SENADO/index.m3u8"
+  },
+  {
     "name": "TV Series 1 As Panteras (480p)",
     "logo": "",
     "group": "Geral",
@@ -1902,13 +1937,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
-  },
-  {
-    "name": "TV Sul Bahia (320p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
   },
   {
     "name": "TV Sul de Minas (720p)",
@@ -1937,13 +1965,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8"
-  },
-  {
-    "name": "TV Viçosa (480p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8"
   },
   {
     "name": "TV Vila Real (720p)",
@@ -2044,11 +2065,32 @@
     "url": "http://45.162.231.38:7779/Universal_TV/index.m3u8"
   },
   {
+    "name": "USA Network Latin America Brazil (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://167.250.126.140:7777/SYFY-HD/index.m3u8"
+  },
+  {
+    "name": "Vivax TV (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8"
+  },
+  {
     "name": "WooHoo (1080p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
     "url": "http://143.14.178.40:7777/Woohoo_HD/index.m3u8"
+  },
+  {
+    "name": "ADB TV (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8"
   },
   {
     "name": "ARTV Canal Parlamento (720p) [Not 24/7]",
