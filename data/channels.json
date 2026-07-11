@@ -63,13 +63,6 @@
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8"
   },
   {
-    "name": "Arte 1 (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://143.14.178.40:7777/Arte_1_HD/index.m3u8"
-  },
-  {
     "name": "Avatar: A lenda de Aang",
     "logo": "",
     "group": "Geral",
@@ -462,20 +455,6 @@
     "url": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8"
   },
   {
-    "name": "Gloob (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://143.14.178.40:7777/Gloob_HD/index.m3u8"
-  },
-  {
-    "name": "Gloobinho (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://143.14.178.40:7777/Gloobinho_HD/index.m3u8"
-  },
-  {
     "name": "Gospel Cartoon (360p)",
     "logo": "",
     "group": "Geral",
@@ -705,20 +684,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8"
-  },
-  {
-    "name": "Multishow (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://143.14.178.40:7777/Multishow_HD/index.m3u8"
-  },
-  {
-    "name": "Music Box Brazil (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://143.14.178.40:7777/Music_Box_HD/index.m3u8"
   },
   {
     "name": "MyTime Movie Network Brazil (720p)",
@@ -1036,13 +1001,6 @@
     "url": "https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8"
   },
   {
-    "name": "Pluto TV Investigação",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8"
-  },
-  {
     "name": "Pluto TV Junior",
     "logo": "",
     "group": "Geral",
@@ -1111,6 +1069,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8"
+  },
+  {
+    "name": "Pluto TV Netmovies",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8"
   },
   {
     "name": "Pluto TV Novelas",
@@ -1638,13 +1603,6 @@
     "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8"
   },
   {
-    "name": "TV Arapuan (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
-  },
-  {
     "name": "TV Assembleia Piaui",
     "logo": "",
     "group": "Geral",
@@ -1664,13 +1622,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://tvbrasil-stream.ebc.com.br/index.m3u8"
-  },
-  {
-    "name": "TV Brasil Oeste (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
   },
   {
     "name": "TV BRICS Portuguese (1080p)",
@@ -1755,6 +1706,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
+  },
+  {
+    "name": "TV Futuro (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
   },
   {
     "name": "TV Gazeta (720p)",
@@ -1939,6 +1897,13 @@
     "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
   },
   {
+    "name": "TV Sul Bahia (320p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
+  },
+  {
     "name": "TV Sul de Minas (720p)",
     "logo": "",
     "group": "Geral",
@@ -1965,6 +1930,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8"
+  },
+  {
+    "name": "TV Viçosa (480p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8"
   },
   {
     "name": "TV Vila Real (720p)",
@@ -2077,13 +2049,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8"
-  },
-  {
-    "name": "WooHoo (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://143.14.178.40:7777/Woohoo_HD/index.m3u8"
   },
   {
     "name": "ADB TV (1080p)",
