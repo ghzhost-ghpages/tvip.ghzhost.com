@@ -147,6 +147,13 @@
     "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
   },
   {
+    "name": "Boas Novas (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+  },
+  {
     "name": "Bob Esponja Calça Quadrada (720p)",
     "logo": "",
     "group": "Geral",
@@ -320,6 +327,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8"
+  },
+  {
+    "name": "Cultura Pará (480p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8"
   },
   {
     "name": "Curta! (720p)",
@@ -826,6 +840,13 @@
     "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
   },
   {
+    "name": "Plenitude TV",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
+  },
+  {
     "name": "Pluto TV Aliens",
     "logo": "",
     "group": "Geral",
@@ -1295,6 +1316,13 @@
     "url": "https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8"
   },
   {
+    "name": "Rede Seculo 21 (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://45.162.64.114/REDE_SECULO_21/index.m3u8"
+  },
+  {
     "name": "Rede SPTV (360p)",
     "logo": "",
     "group": "Geral",
@@ -1706,13 +1734,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/GAZETA/index.m3u8"
-  },
-  {
-    "name": "TV Gazin (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.m3u8"
   },
   {
     "name": "TV Globo Rio de Janeiro (720p)",
