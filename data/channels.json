@@ -7,6 +7,13 @@
     "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
   },
   {
+    "name": "A&E Latin America Brazil (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://45.190.28.50/AE_HD/index.m3u8"
+  },
+  {
     "name": "Adesso TV (720p)",
     "logo": "",
     "group": "Geral",
@@ -75,13 +82,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8"
-  },
-  {
-    "name": "Auge TV (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8"
   },
   {
     "name": "Avatar: A lenda de Aang",
@@ -343,13 +343,6 @@
     "url": "http://45.190.156.152/CURTA!/index.m3u8"
   },
   {
-    "name": "Demais TV (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-stmv1-samcast-com-br.smartbit.co/demaistv6503/demaistv6503/playlist.m3u8"
-  },
-  {
     "name": "Despertar TV (720p)",
     "logo": "",
     "group": "Geral",
@@ -376,6 +369,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.190.156.152/ZOOMOO/index.m3u8"
+  },
+  {
+    "name": "E! Latin America Brazil (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://45.190.156.152/E/index.m3u8"
   },
   {
     "name": "ElyTV (360p)",
@@ -497,6 +497,13 @@
     "url": "http://45.190.28.50/HISTORY_HD/index.m3u8"
   },
   {
+    "name": "History 2 Latin America Brazil (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://45.190.28.50/H2_HD/index.m3u8"
+  },
+  {
     "name": "ISTV (720p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
@@ -572,13 +579,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8"
-  },
-  {
-    "name": "Loupe (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8"
   },
   {
     "name": "MacGyver",
@@ -1316,13 +1316,6 @@
     "url": "https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8"
   },
   {
-    "name": "Rede Seculo 21 (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://45.162.64.114/REDE_SECULO_21/index.m3u8"
-  },
-  {
     "name": "Rede SPTV (360p)",
     "logo": "",
     "group": "Geral",
@@ -1463,6 +1456,13 @@
     "url": "https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8"
   },
   {
+    "name": "Studio Universal Latin America Brazil (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://45.190.156.152/STUDIO_UNIVERSAL/index.m3u8"
+  },
+  {
     "name": "STZ TV (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1568,13 +1568,6 @@
     "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
   },
   {
-    "name": "TV Aldeia (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8"
-  },
-  {
     "name": "TV Aliança Catarinense (720p)",
     "logo": "",
     "group": "Geral",
@@ -1622,13 +1615,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/TV_BRASIL/index.m3u8"
-  },
-  {
-    "name": "TV Brasil Oeste (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
   },
   {
     "name": "TV BRICS Portuguese (1080p)",
@@ -1734,6 +1720,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/GAZETA/index.m3u8"
+  },
+  {
+    "name": "TV Gazin (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.m3u8"
   },
   {
     "name": "TV Globo Rio de Janeiro (720p)",
@@ -1869,13 +1862,6 @@
     "url": "http://200.189.113.201/hls/tve.m3u8"
   },
   {
-    "name": "TV Passo Fundo (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
-  },
-  {
     "name": "TV Petropolis (720p)",
     "logo": "",
     "group": "Geral",
@@ -1909,13 +1895,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
-  },
-  {
-    "name": "TV Sim Cachoeiro (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
   },
   {
     "name": "TV Sim São Mateus (720p)",
@@ -2065,6 +2044,13 @@
     "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
   },
   {
+    "name": "Universal TV Latin America Brazil (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://45.190.156.152/UNIVERSAL_TV/index.m3u8"
+  },
+  {
     "name": "USA Network Latin America Brazil (1080p)",
     "logo": "",
     "group": "Geral",
@@ -2072,18 +2058,18 @@
     "url": "http://45.190.156.152/USA/index.m3u8"
   },
   {
+    "name": "VEJA+ TV (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8"
+  },
+  {
     "name": "Vivax TV (720p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
     "url": "https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8"
-  },
-  {
-    "name": "ADB TV (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8"
   },
   {
     "name": "ARTV Canal Parlamento (720p) [Not 24/7]",
