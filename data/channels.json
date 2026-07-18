@@ -546,13 +546,6 @@
     "url": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
   },
   {
-    "name": "KpopTV Play (576p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
-  },
-  {
     "name": "Kuriakos Kids (1080p)",
     "logo": "",
     "group": "Geral",
@@ -602,13 +595,6 @@
     "url": "http://rjcf.ofztvxv.top:8080/kang/71267133/99554"
   },
   {
-    "name": "MCM Top (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://rezofoot.tv/MCM/index.m3u8"
-  },
-  {
     "name": "MTV Are you the One?",
     "logo": "",
     "group": "Geral",
@@ -637,18 +623,18 @@
     "url": "https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8"
   },
   {
+    "name": "MTV Dating",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8"
+  },
+  {
     "name": "MTV Jovens e Mães (720p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8"
-  },
-  {
-    "name": "MTV Just Tattoo of Us",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-63988b61c8d285000798a22a.m3u8"
   },
   {
     "name": "MTV Pluto TV",
@@ -747,6 +733,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8"
+  },
+  {
+    "name": "NickOnline (360p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://x1colegal.com/hls/stream.m3u8"
   },
   {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Animation;Kids\",NickToons Brasil (480p)",
@@ -1316,6 +1309,13 @@
     "url": "https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8"
   },
   {
+    "name": "Rede Seculo 21 (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://45.162.64.114/REDE_SECULO_21/index.m3u8"
+  },
+  {
     "name": "Rede SPTV (360p)",
     "logo": "",
     "group": "Geral",
@@ -1484,13 +1484,6 @@
     "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
   },
   {
-    "name": "TELE 6 (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
-  },
-  {
     "name": "Terra Viva (720p)",
     "logo": "",
     "group": "Geral",
@@ -1615,6 +1608,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/TV_BRASIL/index.m3u8"
+  },
+  {
+    "name": "TV Brasil Oeste (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
   },
   {
     "name": "TV BRICS Portuguese (1080p)",
@@ -1862,11 +1862,11 @@
     "url": "http://200.189.113.201/hls/tve.m3u8"
   },
   {
-    "name": "TV Petropolis (720p)",
+    "name": "TV Passo Fundo (720p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
-    "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
+    "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
   },
   {
     "name": "TV Ra Tim Bum (720p)",
@@ -1895,6 +1895,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
+  },
+  {
+    "name": "TV Sim Cachoeiro (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
   },
   {
     "name": "TV Sim São Mateus (720p)",
@@ -2070,6 +2077,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8"
+  },
+  {
+    "name": "ADB TV (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8"
   },
   {
     "name": "ARTV Canal Parlamento (720p) [Not 24/7]",
