@@ -84,6 +84,13 @@
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8"
   },
   {
+    "name": "Auge TV (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8"
+  },
+  {
     "name": "Avatar: A lenda de Aang",
     "logo": "",
     "group": "Geral",
@@ -341,13 +348,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.190.156.152/CURTA!/index.m3u8"
-  },
-  {
-    "name": "Demais TV (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-stmv1-samcast-com-br.smartbit.co/demaistv6503/demaistv6503/playlist.m3u8"
   },
   {
     "name": "Despertar TV (720p)",
@@ -747,6 +747,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8"
+  },
+  {
+    "name": "NickOnline (360p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://x1colegal.com/hls/stream.m3u8"
   },
   {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Animation;Kids\",NickToons Brasil (480p)",
@@ -1561,13 +1568,6 @@
     "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
   },
   {
-    "name": "TV Aldeia (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8"
-  },
-  {
     "name": "TV Aliança Catarinense (720p)",
     "logo": "",
     "group": "Geral",
@@ -1720,13 +1720,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/GAZETA/index.m3u8"
-  },
-  {
-    "name": "TV Gazin (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.m3u8"
   },
   {
     "name": "TV Globo Rio de Janeiro (720p)",
@@ -1911,13 +1904,6 @@
     "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
   },
   {
-    "name": "TV Sul Bahia (320p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
-  },
-  {
     "name": "TV Sul de Minas (720p)",
     "logo": "",
     "group": "Geral",
@@ -2086,13 +2072,6 @@
     "url": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8"
   },
   {
-    "name": "ARTV Canal Parlamento (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN",
     "logo": "",
     "group": "Geral",
@@ -2140,13 +2119,6 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8"
-  },
-  {
-    "name": "KTO (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "http://41.205.77.102/KTO/index.m3u8"
   },
   {
     "name": "Kuriakos Cine (1080p)",
