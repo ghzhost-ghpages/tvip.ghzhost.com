@@ -1,12 +1,5 @@
 [
   {
-    "name": "1001 Noites (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
-  },
-  {
     "name": "A&E Latin America Brazil (720p)",
     "logo": "",
     "group": "Geral",
@@ -1372,6 +1365,13 @@
     "url": "https://acesso.ecast.site:3648/live/ritlive.m3u8"
   },
   {
+    "name": "SBT Cuiaba",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8"
+  },
+  {
     "name": "SBT Interior (720p)",
     "logo": "",
     "group": "Geral",
@@ -1391,6 +1391,27 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.190.156.152/SBT_NEWS/index.m3u8"
+  },
+  {
+    "name": "SBT Nova Mutum",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8"
+  },
+  {
+    "name": "SBT Rondonopolis",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8"
+  },
+  {
+    "name": "SBT Sinop",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8"
   },
   {
     "name": "Series Classic (720p)",
@@ -1489,6 +1510,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
+  },
+  {
+    "name": "TELE 6 (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
   },
   {
     "name": "Terra Viva (720p)",
@@ -1617,6 +1645,13 @@
     "url": "http://45.162.64.114/TV_BRASIL/index.m3u8"
   },
   {
+    "name": "TV Brasil Oeste (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+  },
+  {
     "name": "TV BRICS Portuguese (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1722,6 +1757,13 @@
     "url": "http://45.162.64.114/GAZETA/index.m3u8"
   },
   {
+    "name": "TV Gazin (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.m3u8"
+  },
+  {
     "name": "TV Globo Rio de Janeiro (720p)",
     "logo": "",
     "group": "Geral",
@@ -1799,11 +1841,25 @@
     "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8"
   },
   {
+    "name": "TV Modelo (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u"
+  },
+  {
     "name": "TV Mon (720p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvmon/tvmon/playlist.m3u8"
+  },
+  {
+    "name": "TV Natal (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://185.228.163.146:8000/play/a01y/index.m3u8"
   },
   {
     "name": "TV Padre Cicero (720p)",
@@ -2065,13 +2121,6 @@
     "url": "https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8"
   },
   {
-    "name": "ADB TV (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8"
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN",
     "logo": "",
     "group": "Geral",
@@ -2224,6 +2273,13 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8"
+  },
+  {
+    "name": "RTP 2 (720p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8"
   },
   {
     "name": "RTP Açores (720p) [Not 24/7]",
