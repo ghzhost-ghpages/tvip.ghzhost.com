@@ -231,13 +231,6 @@
     "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8"
   },
   {
-    "name": "Canal Sete",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8"
-  },
-  {
     "name": "Canal START (720p)",
     "logo": "",
     "group": "Geral",
@@ -329,11 +322,11 @@
     "url": "https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8"
   },
   {
-    "name": "Cultura Pará (480p) [Not 24/7]",
+    "name": "Cultura Para (720p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
-    "url": "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8"
+    "url": "http://170.84.165.204:80/CANAL_21_HD/index.m3u8"
   },
   {
     "name": "Curta! (720p)",
@@ -469,6 +462,13 @@
     "url": "https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8"
   },
   {
+    "name": "Futura (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://168.197.104.22:80/FUTURA/index.m3u8"
+  },
+  {
     "name": "ge Fast (1080p)",
     "logo": "",
     "group": "Geral",
@@ -572,6 +572,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn-tiva-video08-logicahost-com-br.smartbit.co/lidertvssp/lidertvssp/playlist.m3u8"
+  },
+  {
+    "name": "Lifetime Latin America Brazil (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://138.255.2.6:8084/LIFETIME/index.m3u8"
   },
   {
     "name": "Loading (720p)",
@@ -1302,6 +1309,13 @@
     "url": "http://168.205.87.198:8555/live/1368/123456/150.m3u8"
   },
   {
+    "name": "Rede Familia (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://168.197.104.22:80/REDE_FAMILIA/index.m3u8"
+  },
+  {
     "name": "Rede Gospel (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1918,6 +1932,13 @@
     "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
   },
   {
+    "name": "TV Profissao",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stmv.webtvninjas.com.br/tvprofissao/tvprofissao/playlist.m3u8"
+  },
+  {
     "name": "TV Ra Tim Bum (720p)",
     "logo": "",
     "group": "Geral",
@@ -1960,6 +1981,13 @@
     "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
   },
   {
+    "name": "TV Sul Bahia (320p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
+  },
+  {
     "name": "TV Sul de Minas (720p)",
     "logo": "",
     "group": "Geral",
@@ -1993,13 +2021,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8"
-  },
-  {
-    "name": "TV Vila Real (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8"
   },
   {
     "name": "TV Zoom (720p)",
@@ -2119,6 +2140,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8"
+  },
+  {
+    "name": "ARTV Canal Parlamento (720p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
   },
   {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN",
