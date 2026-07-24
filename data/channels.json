@@ -1,5 +1,12 @@
 [
   {
+    "name": "+SBT Novelas (1080p) [Geo-blocked]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://novelas.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/Novelas_cmaf/index.m3u8"
+  },
+  {
     "name": "A&E Latin America Brazil (720p)",
     "logo": "",
     "group": "Geral",
@@ -77,13 +84,6 @@
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8"
   },
   {
-    "name": "Auge TV (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8"
-  },
-  {
     "name": "Avatar: A lenda de Aang",
     "logo": "",
     "group": "Geral",
@@ -96,13 +96,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://awtv.nuvemplay.live/hls/stream.m3u8"
-  },
-  {
-    "name": "AXN (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://45.190.28.50/AXN_HD/index.m3u8"
   },
   {
     "name": "Babyfirst",
@@ -131,13 +124,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8"
-  },
-  {
-    "name": "Blitstv",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8"
   },
   {
     "name": "BM&C News (720p)",
@@ -231,6 +217,13 @@
     "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8"
   },
   {
+    "name": "Canal Sete",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8"
+  },
+  {
     "name": "Canal START (720p)",
     "logo": "",
     "group": "Geral",
@@ -264,6 +257,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8"
+  },
+  {
+    "name": "Cinturao Verde",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://play.redecinturaoverde.com.br/playlist.m3u8"
   },
   {
     "name": "Classique TV (360p)",
@@ -334,6 +334,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.190.156.152/CURTA!/index.m3u8"
+  },
+  {
+    "name": "Demais TV (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn-tiva-stmv1-samcast-com-br.smartbit.co/demaistv6503/demaistv6503/playlist.m3u8"
   },
   {
     "name": "Despertar TV (720p)",
@@ -511,13 +518,6 @@
     "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
   },
   {
-    "name": "J3NEWS TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8"
-  },
-  {
     "name": "Jornada nas Estrelas A Nova Geração",
     "logo": "",
     "group": "Geral",
@@ -600,6 +600,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8"
+  },
+  {
+    "name": "MBC Brasil TV",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://play.mbcbrasil.tv.br/playlist.m3u8"
   },
   {
     "name": "MCM Pop",
@@ -1260,6 +1267,13 @@
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
   },
   {
+    "name": "RCTV Brasil",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8"
+  },
+  {
     "name": "Record (720p)",
     "logo": "",
     "group": "Geral",
@@ -1379,18 +1393,18 @@
     "url": "https://acesso.ecast.site:3648/live/ritlive.m3u8"
   },
   {
-    "name": "SBT Cuiaba",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8"
-  },
-  {
     "name": "SBT Interior (720p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8"
+  },
+  {
+    "name": "SBT Kids (1080p) [Geo-blocked]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/index.m3u8"
   },
   {
     "name": "SBT Nacional (720p)",
@@ -1405,27 +1419,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.190.156.152/SBT_NEWS/index.m3u8"
-  },
-  {
-    "name": "SBT Nova Mutum",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8"
-  },
-  {
-    "name": "SBT Rondonopolis",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8"
-  },
-  {
-    "name": "SBT Sinop",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video09.logicahost.com.br/sbtsinop/sbtsinop/playlist.m3u8"
   },
   {
     "name": "Series Classic (720p)",
@@ -1596,11 +1589,11 @@
     "url": "https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8"
   },
   {
-    "name": "TV A Critica",
+    "name": "TV 3 Curitiba",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
-    "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8"
+    "url": "https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8"
   },
   {
     "name": "TV A Folha (720p)",
@@ -1608,6 +1601,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
+  },
+  {
+    "name": "TV Aldeia (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8"
   },
   {
     "name": "TV Aliança Catarinense (720p)",
@@ -1657,6 +1657,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/TV_BRASIL/index.m3u8"
+  },
+  {
+    "name": "TV Brasil Oeste (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
   },
   {
     "name": "TV BRICS Portuguese (1080p)",
@@ -1972,13 +1979,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8"
-  },
-  {
-    "name": "TV Sim São Mateus (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
   },
   {
     "name": "TV Sul de Minas (720p)",
