@@ -1,12 +1,5 @@
 [
   {
-    "name": "1001 Noites (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
-  },
-  {
     "name": "+SBT Novelas (1080p) [Geo-blocked]",
     "logo": "",
     "group": "Geral",
@@ -147,13 +140,6 @@
     "url": "https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8"
   },
   {
-    "name": "Blitstv",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8"
-  },
-  {
     "name": "BM&C News (720p)",
     "logo": "",
     "group": "Geral",
@@ -173,13 +159,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.190.28.50/BOX_KIDS_HD/index.m3u8"
-  },
-  {
-    "name": "BR8 TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
   },
   {
     "name": "Canal 25 Jundiai (720p)",
@@ -343,6 +322,13 @@
     "url": "https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8"
   },
   {
+    "name": "Cultura Fast (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8"
+  },
+  {
     "name": "Cultura Para (720p)",
     "logo": "",
     "group": "Geral",
@@ -460,13 +446,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/FISH_TV/index.m3u8"
-  },
-  {
-    "name": "Fonte TV (1080p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8"
   },
   {
     "name": "Fora Tedio TV (720p)",
@@ -1358,6 +1337,27 @@
     "url": "https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8"
   },
   {
+    "name": "Rede Meio Norte (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://maystreaming.cloudecast.com/redemeio/index.m3u8"
+  },
+  {
+    "name": "Rede Metropole (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8"
+  },
+  {
+    "name": "Rede NGT (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8"
+  },
+  {
     "name": "Rede Premium TV (720p)",
     "logo": "",
     "group": "Geral",
@@ -1624,6 +1624,13 @@
     "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
   },
   {
+    "name": "TV Adorar (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/index.m3u8"
+  },
+  {
     "name": "TV Aldeia (720p)",
     "logo": "",
     "group": "Geral",
@@ -1678,13 +1685,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/TV_BRASIL/index.m3u8"
-  },
-  {
-    "name": "TV Brasil Oeste (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
   },
   {
     "name": "TV BRICS Portuguese (1080p)",
@@ -1778,13 +1778,6 @@
     "url": "http://45.162.64.114/EVANGELIZAR/index.m3u8"
   },
   {
-    "name": "TV Fronteira (480i)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
-  },
-  {
     "name": "TV Futuro (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1874,6 +1867,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8"
+  },
+  {
+    "name": "TV Meio (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8"
   },
   {
     "name": "TV Metropole (720p) [Not 24/7]",
@@ -2016,13 +2016,6 @@
     "url": "https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8"
   },
   {
-    "name": "TV Terceiro Anjo (360p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8"
-  },
-  {
     "name": "TV UFOP (1080p)",
     "logo": "",
     "group": "Geral",
@@ -2091,13 +2084,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.190.28.50/TVE/index.m3u8"
-  },
-  {
-    "name": "TVE RS (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8"
   },
   {
     "name": "TVídeoNews (720p) [Not 24/7]",
@@ -2219,13 +2205,6 @@
     "url": "https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8"
   },
   {
-    "name": "Famatv (1080p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8"
-  },
-  {
     "name": "Kuriakos Cine (1080p)",
     "logo": "",
     "group": "Geral",
@@ -2329,13 +2308,6 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8"
-  },
-  {
-    "name": "RTP 2 (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8"
   },
   {
     "name": "RTP Açores (720p) [Not 24/7]",
