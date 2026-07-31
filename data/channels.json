@@ -1,12 +1,5 @@
 [
   {
-    "name": "1001 Noites (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
-  },
-  {
     "name": "+SBT Novelas (1080p) [Geo-blocked]",
     "logo": "",
     "group": "Geral",
@@ -98,13 +91,6 @@
     "url": "http://45.162.64.114/ARTE1/index.m3u8"
   },
   {
-    "name": "Auge TV (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8"
-  },
-  {
     "name": "Avatar: A lenda de Aang",
     "logo": "",
     "group": "Geral",
@@ -152,6 +138,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8"
+  },
+  {
+    "name": "Blitstv",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8"
   },
   {
     "name": "BM&C News (720p)",
@@ -343,13 +336,6 @@
     "url": "https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8"
   },
   {
-    "name": "Cultura Fast (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8"
-  },
-  {
     "name": "Cultura Para (720p)",
     "logo": "",
     "group": "Geral",
@@ -406,11 +392,11 @@
     "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
   },
   {
-    "name": "ESPN 3 (720p)",
+    "name": "ESPN 3 (1080p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
-    "url": "http://181.78.197.59:8000/play/a081/index.m3u8"
+    "url": "http://190.83.2.182:8090/ESPN3/index.m3u8"
   },
   {
     "name": "ESPN 4 (1080p)",
@@ -889,6 +875,13 @@
     "url": "http://45.162.64.114/PLAY_TV/index.m3u8"
   },
   {
+    "name": "Plena TV (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
+  },
+  {
     "name": "Plenitude TV",
     "logo": "",
     "group": "Geral",
@@ -1365,27 +1358,6 @@
     "url": "https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8"
   },
   {
-    "name": "Rede Meio Norte (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://maystreaming.cloudecast.com/redemeio/index.m3u8"
-  },
-  {
-    "name": "Rede Metropole (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8"
-  },
-  {
-    "name": "Rede NGT (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8"
-  },
-  {
     "name": "Rede Premium TV (720p)",
     "logo": "",
     "group": "Geral",
@@ -1412,13 +1384,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.190.28.50/REDE_TV_HD/index.m3u8"
-  },
-  {
-    "name": "Rede TV! ES (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://streaming.cloudecast.com/hls/redetves/index.m3u8"
   },
   {
     "name": "Rede TV! Mais",
@@ -1666,13 +1631,6 @@
     "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
   },
   {
-    "name": "TV Adorar (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/index.m3u8"
-  },
-  {
     "name": "TV Aldeia (720p)",
     "logo": "",
     "group": "Geral",
@@ -1820,6 +1778,13 @@
     "url": "http://45.162.64.114/EVANGELIZAR/index.m3u8"
   },
   {
+    "name": "TV Fronteira (480i)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
+  },
+  {
     "name": "TV Futuro (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1832,13 +1797,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/GAZETA/index.m3u8"
-  },
-  {
-    "name": "TV Gazin (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.m3u8"
   },
   {
     "name": "TV Globo Rio de Janeiro (720p)",
@@ -1890,25 +1848,11 @@
     "url": "https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8"
   },
   {
-    "name": "TV Maná Brasil (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"
-  },
-  {
     "name": "TV Marajoara (720p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
     "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8"
-  },
-  {
-    "name": "TV Meio (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8"
   },
   {
     "name": "TV Metropole (720p) [Not 24/7]",
@@ -2030,6 +1974,13 @@
     "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
   },
   {
+    "name": "TV Sim Colatina (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8"
+  },
+  {
     "name": "TV Sim São Mateus (720p)",
     "logo": "",
     "group": "Geral",
@@ -2098,6 +2049,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8"
+  },
+  {
+    "name": "TVC-Rio",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8"
   },
   {
     "name": "TVCOM DF (360p)",
@@ -2254,6 +2212,20 @@
     "url": "https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8"
   },
   {
+    "name": "Famatv (1080p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8"
+  },
+  {
+    "name": "KTO (504p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "http://145.239.5.177/354/index.m3u8"
+  },
+  {
     "name": "Kuriakos Cine (1080p)",
     "logo": "",
     "group": "Geral",
@@ -2266,13 +2238,6 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8"
-  },
-  {
-    "name": "Kuriakos TV (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8"
   },
   {
     "name": "Maná Church Online (1080p) [Not 24/7]",
@@ -2301,13 +2266,6 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8"
-  },
-  {
-    "name": "Maná Igreja Online (1080p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8"
   },
   {
     "name": "Maná Tserkov' Onlayn (1080p) [Not 24/7]",
@@ -2357,6 +2315,13 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8"
+  },
+  {
+    "name": "RTP 2 (720p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8"
   },
   {
     "name": "RTP Açores (720p) [Not 24/7]",
@@ -2497,41 +2462,6 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8"
-  },
-  {
-    "name": "TV Maná 1 (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8"
-  },
-  {
-    "name": "TV Maná 2 (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8"
-  },
-  {
-    "name": "TV Maná English (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8"
-  },
-  {
-    "name": "TV Maná Español (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8"
-  },
-  {
-    "name": "TV Maná Russkiy (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8"
   },
   {
     "name": "TVI (720p)",
