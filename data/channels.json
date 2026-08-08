@@ -1,5 +1,12 @@
 [
   {
+    "name": "1001 Noites (720p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
+  },
+  {
     "name": "A&E Latin America Brazil (720p)",
     "logo": "",
     "group": "Geral",
@@ -12,6 +19,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8"
+  },
+  {
+    "name": "Adrenalina Pura TV",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8"
   },
   {
     "name": "Adult Swim Latin America Brazil (720p)",
@@ -77,6 +91,13 @@
     "url": "http://45.162.64.114/ARTE1/index.m3u8"
   },
   {
+    "name": "Avatar: A lenda de Aang",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8"
+  },
+  {
     "name": "AWTV (1080p) [Geo-blocked]",
     "logo": "",
     "group": "Geral",
@@ -112,11 +133,11 @@
     "url": "https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8"
   },
   {
-    "name": "Blitstv",
+    "name": "BET Pluto TV",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
-    "url": "https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8"
+    "url": "https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8"
   },
   {
     "name": "BM&C News (720p)",
@@ -131,6 +152,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+  },
+  {
+    "name": "Bob Esponja Calça Quadrada (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8"
   },
   {
     "name": "Box Kids TV (720p)",
@@ -658,6 +686,13 @@
     "url": "https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8"
   },
   {
+    "name": "MTV Pluto TV",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8"
+  },
+  {
     "name": "MTV Reality (720p)",
     "logo": "",
     "group": "Geral",
@@ -805,6 +840,13 @@
     "url": "https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8"
   },
   {
+    "name": "O Reino Infantil",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8"
+  },
+  {
     "name": "Oggy e as Baratas Tontas",
     "logo": "",
     "group": "Geral",
@@ -845,6 +887,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
+  },
+  {
+    "name": "Pluto TV Aliens",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8"
   },
   {
     "name": "Pluto TV Animais",
@@ -1309,6 +1358,27 @@
     "url": "https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8"
   },
   {
+    "name": "Rede Meio Norte (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://maystreaming.cloudecast.com/redemeio/index.m3u8"
+  },
+  {
+    "name": "Rede Metropole (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8"
+  },
+  {
+    "name": "Rede NGT (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8"
+  },
+  {
     "name": "Rede Premium TV (720p)",
     "logo": "",
     "group": "Geral",
@@ -1526,13 +1596,6 @@
     "url": "https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8"
   },
   {
-    "name": "TikTok Radio Brasil (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529"
-  },
-  {
     "name": "Times Brasil (720p)",
     "logo": "",
     "group": "Geral",
@@ -1594,6 +1657,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
+  },
+  {
+    "name": "TV Adorar (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/index.m3u8"
   },
   {
     "name": "TV Aldeia (720p)",
@@ -1820,6 +1890,13 @@
     "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8"
   },
   {
+    "name": "TV Meio (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8"
+  },
+  {
     "name": "TV Metropole (720p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
@@ -1888,6 +1965,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
+  },
+  {
+    "name": "TV Profissao",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stmv.webtvninjas.com.br/tvprofissao/tvprofissao/playlist.m3u8"
   },
   {
     "name": "TV Ra Tim Bum (720p)",
@@ -2016,13 +2100,6 @@
     "url": "http://45.190.28.50/TVE/index.m3u8"
   },
   {
-    "name": "TVE RS (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8"
-  },
-  {
     "name": "TVídeoNews (720p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
@@ -2147,13 +2224,6 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8"
-  },
-  {
-    "name": "Famatv (1080p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8"
   },
   {
     "name": "KTO (504p)",
