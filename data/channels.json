@@ -77,6 +77,13 @@
     "url": "http://45.162.64.114/ARTE1/index.m3u8"
   },
   {
+    "name": "Auge TV (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8"
+  },
+  {
     "name": "Avatar: A lenda de Aang",
     "logo": "",
     "group": "Geral",
@@ -124,13 +131,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8"
-  },
-  {
-    "name": "Blitstv",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8"
   },
   {
     "name": "BM&C News (720p)",
@@ -607,13 +607,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8"
-  },
-  {
-    "name": "MBC Brasil TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://play.mbcbrasil.tv.br/playlist.m3u8"
   },
   {
     "name": "MCM Pop",
@@ -1274,13 +1267,6 @@
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
   },
   {
-    "name": "RCTV Brasil",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8"
-  },
-  {
     "name": "Record (720p)",
     "logo": "",
     "group": "Geral",
@@ -1342,6 +1328,27 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8"
+  },
+  {
+    "name": "Rede Meio Norte (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://maystreaming.cloudecast.com/redemeio/index.m3u8"
+  },
+  {
+    "name": "Rede Metropole (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8"
+  },
+  {
+    "name": "Rede NGT (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8"
   },
   {
     "name": "Rede Premium TV (720p)",
@@ -1498,13 +1505,6 @@
     "url": "https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8"
   },
   {
-    "name": "South Park: Coleção Kyle",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8"
-  },
-  {
     "name": "South Park: Coleção Stan",
     "logo": "",
     "group": "Geral",
@@ -1610,13 +1610,6 @@
     "url": "https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8"
   },
   {
-    "name": "TV 3 Curitiba",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8"
-  },
-  {
     "name": "TV A Critica",
     "logo": "",
     "group": "Geral",
@@ -1629,6 +1622,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
+  },
+  {
+    "name": "TV Adorar (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/index.m3u8"
   },
   {
     "name": "TV Aldeia (720p)",
@@ -1876,6 +1876,13 @@
     "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8"
   },
   {
+    "name": "TV Meio (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8"
+  },
+  {
     "name": "TV Metropole (720p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
@@ -1916,6 +1923,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
+  },
+  {
+    "name": "TV Paraense (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
   },
   {
     "name": "TV Paraná Turismo (720p) [Not 24/7]",
@@ -2028,6 +2042,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8"
+  },
+  {
+    "name": "TV Vila Real (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8"
   },
   {
     "name": "TV Zoom (720p)",
@@ -2198,13 +2219,6 @@
     "url": "https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8"
   },
   {
-    "name": "Famatv (1080p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8"
-  },
-  {
     "name": "KTO (504p)",
     "logo": "",
     "group": "Geral",
@@ -2310,20 +2324,6 @@
     "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8"
   },
   {
-    "name": "RTP Açores (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8"
-  },
-  {
-    "name": "RTP Açores (504p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8"
-  },
-  {
     "name": "RTP Madeira (504p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
@@ -2336,20 +2336,6 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8"
-  },
-  {
-    "name": "RTP Noticias (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8"
-  },
-  {
-    "name": "RTP Noticias (504p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8"
   },
   {
     "name": "SIC Alta Definição (1080p)",
