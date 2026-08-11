@@ -147,18 +147,18 @@
     "url": "https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8"
   },
   {
-    "name": "Blitstv",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8"
-  },
-  {
     "name": "BM&C News (720p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
+  },
+  {
+    "name": "Boas Novas (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
   },
   {
     "name": "Bob Esponja Calça Quadrada (720p)",
@@ -565,6 +565,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
+  },
+  {
+    "name": "KpopTV Play (576p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
   },
   {
     "name": "Kuriakos Kids (1080p)",
@@ -1351,6 +1358,13 @@
     "url": "https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8"
   },
   {
+    "name": "Rede Meio Norte (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://maystreaming.cloudecast.com/redemeio/index.m3u8"
+  },
+  {
     "name": "Rede Metropole (720p)",
     "logo": "",
     "group": "Geral",
@@ -1708,6 +1722,13 @@
     "url": "http://45.162.64.114/TV_BRASIL/index.m3u8"
   },
   {
+    "name": "TV Brasil Oeste (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+  },
+  {
     "name": "TV BRICS Portuguese (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1883,6 +1904,13 @@
     "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8"
   },
   {
+    "name": "TV Meio (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8"
+  },
+  {
     "name": "TV Metropole (720p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
@@ -1951,6 +1979,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
+  },
+  {
+    "name": "TV Profissao",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stmv.webtvninjas.com.br/tvprofissao/tvprofissao/playlist.m3u8"
   },
   {
     "name": "TV Ra Tim Bum (720p)",
@@ -2210,13 +2245,6 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8"
-  },
-  {
-    "name": "Famatv (1080p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8"
   },
   {
     "name": "KTO (504p)",
