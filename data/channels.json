@@ -63,6 +63,13 @@
     "url": "http://170.83.49.66:8083/AMCHD/index.m3u8"
   },
   {
+    "name": "Angel TV Portuguese (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8"
+  },
+  {
     "name": "Araruna TV",
     "logo": "",
     "group": "Geral",
@@ -82,13 +89,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/ARTE1/index.m3u8"
-  },
-  {
-    "name": "Auge TV (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8"
   },
   {
     "name": "Avatar: A lenda de Aang",
@@ -138,6 +138,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8"
+  },
+  {
+    "name": "Blitstv",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8"
   },
   {
     "name": "BM&C News (720p)",
@@ -586,6 +593,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8"
+  },
+  {
+    "name": "Lamore Rock Show WebTV (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8"
   },
   {
     "name": "Lider TV (720p)",
@@ -1365,13 +1379,6 @@
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
   },
   {
-    "name": "Rede Meio Norte (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://maystreaming.cloudecast.com/redemeio/index.m3u8"
-  },
-  {
     "name": "Rede Metropole (720p)",
     "logo": "",
     "group": "Geral",
@@ -1904,13 +1911,6 @@
     "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8"
   },
   {
-    "name": "TV Meio (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8"
-  },
-  {
     "name": "TV Metropole (720p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
@@ -1967,13 +1967,6 @@
     "url": "http://200.189.113.201/hls/tve.m3u8"
   },
   {
-    "name": "TV Passo Fundo (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
-  },
-  {
     "name": "TV Petropolis (720p)",
     "logo": "",
     "group": "Geral",
@@ -2021,6 +2014,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
+  },
+  {
+    "name": "TV Sim São Mateus (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
   },
   {
     "name": "TV Sul Bahia (320p)",
@@ -2233,6 +2233,13 @@
     "url": "https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8"
   },
   {
+    "name": "Famatv (1080p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8"
+  },
+  {
     "name": "KTO (504p)",
     "logo": "",
     "group": "Geral",
@@ -2345,11 +2352,32 @@
     "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8"
   },
   {
+    "name": "RTP Açores (720p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8"
+  },
+  {
+    "name": "RTP Açores (504p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8"
+  },
+  {
     "name": "RTP Madeira (504p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
     "country": "Portugal",
     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8"
+  },
+  {
+    "name": "RTP Memória (504p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8"
   },
   {
     "name": "RTP Noticias (720p) [Not 24/7]",
