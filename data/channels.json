@@ -91,13 +91,6 @@
     "url": "http://45.162.64.114/ARTE1/index.m3u8"
   },
   {
-    "name": "Auge TV (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/playlist.m3u8"
-  },
-  {
     "name": "Avatar: A lenda de Aang",
     "logo": "",
     "group": "Geral",
@@ -131,13 +124,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.190.28.50/BAND_HD/index.m3u8"
-  },
-  {
-    "name": "Bem Melhor (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8"
   },
   {
     "name": "BET Pluto TV",
@@ -180,13 +166,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
-  },
-  {
-    "name": "Canal 25 Jundiai (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-stream01-msolutionbrasil-com-br.smartbit.co/hls/canal25/live.m3u8"
   },
   {
     "name": "Canal 38 (720p)",
@@ -236,20 +215,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8"
-  },
-  {
-    "name": "Canal Sete",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8"
-  },
-  {
-    "name": "Canal START (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-srv5-zcast-com-br.smartbit.co/canalstart/canalstart/playlist.m3u8"
   },
   {
     "name": "Canal UOL (1080p)",
@@ -348,13 +313,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://170.84.165.204/CANAL_21_HD/index.m3u8"
-  },
-  {
-    "name": "Demais TV (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-stmv1-samcast-com-br.smartbit.co/demaistv6503/demaistv6503/playlist.m3u8"
   },
   {
     "name": "Despertar TV (720p)",
@@ -600,13 +558,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8"
-  },
-  {
-    "name": "Lider TV (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-video08-logicahost-com-br.smartbit.co/lidertvssp/lidertvssp/playlist.m3u8"
   },
   {
     "name": "Lifetime Latin America Brazil (720p)",
@@ -1386,25 +1337,11 @@
     "url": "https://maystreaming.cloudecast.com/redemeio/index.m3u8"
   },
   {
-    "name": "Rede Metropole (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/metropole/index.m3u8"
-  },
-  {
     "name": "Rede NGT (1080p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
     "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8"
-  },
-  {
-    "name": "Rede Premium TV (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-stmv2-samcast-com-br.smartbit.co/leonardo9878/leonardo9878/playlist.m3u8"
   },
   {
     "name": "Rede Seculo 21 (720p)",
@@ -1475,13 +1412,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8"
-  },
-  {
-    "name": "Series Classic (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8"
   },
   {
     "name": "SIC TV (720p)",
@@ -1673,13 +1603,6 @@
     "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
   },
   {
-    "name": "TV Adorar (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/index.m3u8"
-  },
-  {
     "name": "TV Aldeia (720p)",
     "logo": "",
     "group": "Geral",
@@ -1736,13 +1659,6 @@
     "url": "http://45.162.64.114/TV_BRASIL/index.m3u8"
   },
   {
-    "name": "TV Brasil Oeste (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
-  },
-  {
     "name": "TV BRICS Portuguese (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1757,25 +1673,11 @@
     "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
   },
   {
-    "name": "TV Câmara (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8"
-  },
-  {
     "name": "TV Cancao Nova (720p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/CANCAO_NOVA/index.m3u8"
-  },
-  {
-    "name": "TV Carioca (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-video03-logicahost-com-br.smartbit.co/cariocainternacional1/cariocainternacional1/playlist.m3u8"
   },
   {
     "name": "TV Cidade Verde Cuiaba",
@@ -1834,25 +1736,11 @@
     "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
   },
   {
-    "name": "TV Futuro (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
-  },
-  {
     "name": "TV Gazeta (720p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/GAZETA/index.m3u8"
-  },
-  {
-    "name": "TV Gazin (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.m3u8"
   },
   {
     "name": "TV Globo Rio de Janeiro (720p)",
@@ -1925,25 +1813,11 @@
     "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8"
   },
   {
-    "name": "TV Meio (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8"
-  },
-  {
     "name": "TV Metropole (720p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8"
-  },
-  {
-    "name": "TV Mon (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-tiva-video10-logicahost-com-br.smartbit.co/tvmon/tvmon/playlist.m3u8"
   },
   {
     "name": "TV Natal (1080p)",
@@ -1986,6 +1860,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://200.189.113.201/hls/tve.m3u8"
+  },
+  {
+    "name": "TV Passo Fundo (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
   },
   {
     "name": "TV Petropolis (720p)",
@@ -2212,13 +2093,6 @@
     "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "http://znty.dyndns.org:5010/hls/axn.m3u8"
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Movies (720p)",
     "logo": "",
     "group": "Geral",
@@ -2231,13 +2105,6 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "http://50.7.120.34:8080/AXN_WHITE/index.m3u8"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",DAZN 5",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "http://znty.dyndns.org:5010/hls/eleven5.m3u8"
   },
   {
     "name": "Disney Channel (1080p)",
@@ -2359,13 +2226,6 @@
     "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8"
   },
   {
-    "name": "RTP 2 (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8"
-  },
-  {
     "name": "RTP Açores (720p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
@@ -2420,83 +2280,6 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV1",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "http://znty.dyndns.org:5010/hls/stv1.m3u8"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV2",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "http://znty.dyndns.org:5010/hls/stv2.m3u8"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV5",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "http://znty.dyndns.org:5010/hls/stv5.m3u8"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV6",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "http://zntx.dyndns.org:8085/hls/stv6.m3u8"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV7",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "http://zntx.dyndns.org:8085/hls/stv7.m3u8"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport TV+",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "http://znty.dyndns.org:5010/hls/sportv+.m3u8"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Star Channel",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "http://znty.dyndns.org:5010/hls/fox.m3u8"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Comedy\",Star Comedy",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "http://znty.dyndns.org:5010/hls/foxcomedy.m3u8"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",Star Crime",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "http://znty.dyndns.org:5010/hls/foxcrime.m3u8"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",Star Life",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "http://znty.dyndns.org:5010/hls/foxlife.m3u8"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",Star Movies",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "http://znty.dyndns.org:5010/hls/foxm.m3u8"
   },
   {
     "name": "Trailers (1080p)",
