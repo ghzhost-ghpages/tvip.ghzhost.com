@@ -217,6 +217,13 @@
     "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8"
   },
   {
+    "name": "Canal Sete",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8"
+  },
+  {
     "name": "Canal UOL (1080p)",
     "logo": "",
     "group": "Geral",
@@ -530,13 +537,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
-  },
-  {
-    "name": "KpopTV Play (576p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
   },
   {
     "name": "Kuriakos Kids (1080p)",
@@ -1659,6 +1659,13 @@
     "url": "http://45.162.64.114/TV_BRASIL/index.m3u8"
   },
   {
+    "name": "TV Brasil Oeste (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+  },
+  {
     "name": "TV BRICS Portuguese (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1671,6 +1678,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
+  },
+  {
+    "name": "TV Câmara (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8"
   },
   {
     "name": "TV Cancao Nova (720p)",
@@ -1734,6 +1748,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
+  },
+  {
+    "name": "TV Futuro (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
   },
   {
     "name": "TV Gazeta (720p)",
@@ -2014,13 +2035,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.190.28.50/TVE/index.m3u8"
-  },
-  {
-    "name": "TVE RS (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8"
   },
   {
     "name": "TVídeoNews (720p) [Not 24/7]",
