@@ -133,6 +133,13 @@
     "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
   },
   {
+    "name": "Boas Novas (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+  },
+  {
     "name": "Bob Esponja Calça Quadrada (720p)",
     "logo": "",
     "group": "Geral",
@@ -532,6 +539,13 @@
     "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
   },
   {
+    "name": "Kuriakos Kids (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8"
+  },
+  {
     "name": "L!ke (1080p)",
     "logo": "",
     "group": "Geral",
@@ -754,13 +768,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/NOVO_TEMPO/index.m3u8"
-  },
-  {
-    "name": "NTV (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8"
   },
   {
     "name": "Numbers",
@@ -1631,6 +1638,13 @@
     "url": "http://45.162.64.114/TV_BRASIL/index.m3u8"
   },
   {
+    "name": "TV Brasil Oeste (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+  },
+  {
     "name": "TV BRICS Portuguese (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1783,6 +1797,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8"
+  },
+  {
+    "name": "TV Maná Brasil (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"
   },
   {
     "name": "TV Marajoara (720p)",
@@ -1988,18 +2009,18 @@
     "url": "http://45.190.28.50/TVE/index.m3u8"
   },
   {
+    "name": "TVE RS (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8"
+  },
+  {
     "name": "TVídeoNews (720p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
     "url": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8"
-  },
-  {
-    "name": "TVitapé (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8"
   },
   {
     "name": "TVLatinaSat (720p)",
@@ -2093,11 +2114,67 @@
     "url": "http://145.239.5.177/354/index.m3u8"
   },
   {
+    "name": "Kuriakos Cine (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8"
+  },
+  {
     "name": "Kuriakos Music (1080p)",
     "logo": "",
     "group": "Geral",
     "country": "Portugal",
     "url": "http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8"
+  },
+  {
+    "name": "Kuriakos TV (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8"
+  },
+  {
+    "name": "Maná Church Online (1080p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8"
+  },
+  {
+    "name": "Maná Cirkev Online (1080p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8"
+  },
+  {
+    "name": "Maná Église Online (1080p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8"
+  },
+  {
+    "name": "Maná Iglesia Online (1080p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8"
+  },
+  {
+    "name": "Maná Igreja Online (1080p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8"
+  },
+  {
+    "name": "Maná Tserkov' Onlayn (1080p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8"
   },
   {
     "name": "ON FM (720p)",
@@ -2203,6 +2280,41 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8"
+  },
+  {
+    "name": "TV Maná 1 (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8"
+  },
+  {
+    "name": "TV Maná 2 (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8"
+  },
+  {
+    "name": "TV Maná English (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8"
+  },
+  {
+    "name": "TV Maná Español (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8"
+  },
+  {
+    "name": "TV Maná Russkiy (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8"
   },
   {
     "name": "TVI (720p)",
