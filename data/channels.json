@@ -133,6 +133,13 @@
     "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
   },
   {
+    "name": "Boas Novas (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+  },
+  {
     "name": "Bob Esponja Calça Quadrada (720p)",
     "logo": "",
     "group": "Geral",
@@ -413,13 +420,6 @@
     "url": "http://45.162.64.114/FISH_TV/index.m3u8"
   },
   {
-    "name": "Fonte TV (1080p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8"
-  },
-  {
     "name": "Fora Tedio TV (720p)",
     "logo": "",
     "group": "Geral",
@@ -439,20 +439,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8"
-  },
-  {
-    "name": "GloboNews (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://177.52.24.163/GLOBO-NEWS-HD/index.m3u8"
-  },
-  {
-    "name": "Gloobinho (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://177.52.24.163/GLOOBINHO-HD/index.m3u8"
   },
   {
     "name": "Gospel Cartoon (360p)",
@@ -525,6 +511,13 @@
     "url": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
   },
   {
+    "name": "KpopTV Play (576p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+  },
+  {
     "name": "Kuriakos Kids (1080p)",
     "logo": "",
     "group": "Geral",
@@ -579,13 +572,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://play.mbcbrasil.tv.br/playlist.m3u8"
-  },
-  {
-    "name": "Megapix (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://177.52.24.163/MEGAPIX-HD/index.m3u8"
   },
   {
     "name": "MTV Are you the One?",
@@ -1295,6 +1281,13 @@
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
   },
   {
+    "name": "Rede Meio Norte (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://maystreaming.cloudecast.com/redemeio/index.m3u8"
+  },
+  {
     "name": "Rede NGT (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1440,13 +1433,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://170.83.49.66:8083/SPORTV3HD/index.m3u8"
-  },
-  {
-    "name": "Studio Universal Latin America Brazil (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://177.52.24.163/STUDIO-UNIVERSAL-HD/index.m3u8"
   },
   {
     "name": "STZ TV (1080p)",
@@ -1629,13 +1615,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
-  },
-  {
-    "name": "TV Câmara (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8"
   },
   {
     "name": "TV Cancao Nova (720p)",
@@ -1895,13 +1874,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
-  },
-  {
-    "name": "TV Sul Bahia (320p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
   },
   {
     "name": "TV Sul de Minas (720p)",
