@@ -210,6 +210,13 @@
     "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8"
   },
   {
+    "name": "Canal Sete",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8"
+  },
+  {
     "name": "Canal UOL (1080p)",
     "logo": "",
     "group": "Geral",
@@ -292,13 +299,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8"
-  },
-  {
-    "name": "Cultura Para (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://170.84.165.204/CANAL_21_HD/index.m3u8"
   },
   {
     "name": "Despertar TV (720p)",
@@ -915,13 +915,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8"
-  },
-  {
-    "name": "Pluto TV Cozinha",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8"
   },
   {
     "name": "Pluto TV Desenhos Clássicos",
@@ -1701,13 +1694,6 @@
     "url": "http://45.190.28.50/GLOBO_HD/index.m3u8"
   },
   {
-    "name": "TV Globo Sao Paulo (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://170.84.165.204/Globo_HD/index.m3u8"
-  },
-  {
     "name": "TV Grande Natal (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1762,13 +1748,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8"
-  },
-  {
-    "name": "TV Metropole (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8"
   },
   {
     "name": "TV Natal (1080p)",
@@ -1867,6 +1846,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
+  },
+  {
+    "name": "TV Sim São Mateus (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
   },
   {
     "name": "TV Sul Bahia (320p)",
