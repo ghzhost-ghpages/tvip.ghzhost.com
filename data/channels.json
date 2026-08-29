@@ -1,5 +1,12 @@
 [
   {
+    "name": "1001 Noites (720p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
+  },
+  {
     "name": "A&E Latin America Brazil (720p)",
     "logo": "",
     "group": "Geral",
@@ -131,13 +138,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
-  },
-  {
-    "name": "Boas Novas (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
   },
   {
     "name": "Bob Esponja Calça Quadrada (720p)",
@@ -483,13 +483,6 @@
     "url": "https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8"
   },
   {
-    "name": "Jornada nas Estrelas Deep Space Nine",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8"
-  },
-  {
     "name": "Jornada nas Estrelas Voyager",
     "logo": "",
     "group": "Geral",
@@ -798,13 +791,6 @@
     "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
   },
   {
-    "name": "Plenitude TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
-  },
-  {
     "name": "Pluto TV Aliens",
     "logo": "",
     "group": "Geral",
@@ -915,6 +901,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8"
+  },
+  {
+    "name": "Pluto TV Cozinha",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://jmp2.uk/plu-5f1ef23020a5ac0007e5e8ea.m3u8"
   },
   {
     "name": "Pluto TV Desenhos Clássicos",
@@ -1048,20 +1041,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8"
-  },
-  {
-    "name": "Pluto TV Netmovies",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8"
-  },
-  {
-    "name": "Pluto TV Novelas",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-5f512365abe1f50007d3ff56.m3u8"
   },
   {
     "name": "Pluto TV Paisagens por Stingray (720p)",
@@ -1414,13 +1393,6 @@
     "url": "https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8"
   },
   {
-    "name": "SporTV 3 (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://170.83.49.66:8083/SPORTV3HD/index.m3u8"
-  },
-  {
     "name": "STZ TV (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1561,13 +1533,6 @@
     "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8"
   },
   {
-    "name": "TV Arapuan (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
-  },
-  {
     "name": "TV Assembleia Piaui",
     "logo": "",
     "group": "Geral",
@@ -1587,6 +1552,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/TV_BRASIL/index.m3u8"
+  },
+  {
+    "name": "TV Brasil Oeste (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
   },
   {
     "name": "TV BRICS Portuguese (1080p)",
@@ -2030,13 +2002,6 @@
     "url": "http://50.7.120.34:8080/AXN_BLACK/index.m3u8"
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",AXN White Portugal (480p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "http://50.7.120.34:8080/AXN_WHITE/index.m3u8"
-  },
-  {
     "name": "Disney Channel (1080p)",
     "logo": "",
     "group": "Geral",
@@ -2168,6 +2133,13 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8"
+  },
+  {
+    "name": "RTP Memória (504p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8"
   },
   {
     "name": "RTP Noticias (720p) [Not 24/7]",
