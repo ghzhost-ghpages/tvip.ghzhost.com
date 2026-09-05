@@ -154,13 +154,6 @@
     "url": "http://45.190.28.50/BOX_KIDS_HD/index.m3u8"
   },
   {
-    "name": "BR8 TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
-  },
-  {
     "name": "Canal 38 (720p)",
     "logo": "",
     "group": "Geral",
@@ -210,6 +203,13 @@
     "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8"
   },
   {
+    "name": "Canal Saude",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8"
+  },
+  {
     "name": "Canal Sete",
     "logo": "",
     "group": "Geral",
@@ -252,11 +252,11 @@
     "url": "https://stmv1.srvif.com/classique/classique/playlist.m3u8"
   },
   {
-    "name": "COM Brasil (1080p) [Not 24/7]",
+    "name": "COM Brasil (720p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
-    "url": "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8"
+    "url": "https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8"
   },
   {
     "name": "Comedy Central Pluto TV",
@@ -343,13 +343,6 @@
     "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
   },
   {
-    "name": "ESPN 3 (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://190.83.2.182:8090/ESPN3/index.m3u8"
-  },
-  {
     "name": "ESPN 4 (1080p)",
     "logo": "",
     "group": "Geral",
@@ -406,11 +399,11 @@
     "url": "http://45.162.64.114/FISH_TV/index.m3u8"
   },
   {
-    "name": "Fonte TV (1080p) [Not 24/7]",
+    "name": "Fonte TV",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
-    "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8"
+    "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
   },
   {
     "name": "Fora Tedio TV (720p)",
@@ -495,6 +488,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-69162b1ef189e235142b17ab.m3u8"
+  },
+  {
+    "name": "Jovem Pan News (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://45.190.28.50/JP_NEWS/index.m3u8"
   },
   {
     "name": "Kenan & Kel",
@@ -1274,6 +1274,13 @@
     "url": "https://maystreaming.cloudecast.com/redemeio/index.m3u8"
   },
   {
+    "name": "Rede Minas (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8"
+  },
+  {
     "name": "Rede NGT (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1547,11 +1554,11 @@
     "url": "https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8"
   },
   {
-    "name": "TV Aparecida (1080p) [Not 24/7]",
+    "name": "TV Aparecida (720p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
-    "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8"
+    "url": "http://45.162.64.114/TV_APARECIDA/index.m3u8"
   },
   {
     "name": "TV Assembleia Piaui",
@@ -1587,6 +1594,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
+  },
+  {
+    "name": "TV Câmara (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8"
   },
   {
     "name": "TV Cancao Nova (720p)",
@@ -1834,13 +1848,6 @@
     "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
   },
   {
-    "name": "TV Terceiro Anjo (360p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8"
-  },
-  {
     "name": "TV UFOP (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1860,6 +1867,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8"
+  },
+  {
+    "name": "TV Vila Real (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8"
   },
   {
     "name": "TV Zoom (720p)",
@@ -1979,13 +1993,6 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "http://50.7.120.34:8080/AXN_BLACK/index.m3u8"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",AXN White Portugal (480p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "http://50.7.120.34:8080/AXN_WHITE/index.m3u8"
   },
   {
     "name": "Disney Channel (1080p)",
