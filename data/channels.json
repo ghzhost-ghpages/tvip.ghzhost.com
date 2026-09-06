@@ -154,6 +154,13 @@
     "url": "http://45.190.28.50/BOX_KIDS_HD/index.m3u8"
   },
   {
+    "name": "BR8 TV",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
+  },
+  {
     "name": "Canal 38 (720p)",
     "logo": "",
     "group": "Geral",
@@ -476,13 +483,6 @@
     "url": "https://jmp2.uk/plu-69162ad79505d0f3b1ebf07d.m3u8"
   },
   {
-    "name": "Jornada nas Estrelas Deep Space Nine",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-69162af591700f4c4c135c95.m3u8"
-  },
-  {
     "name": "Jornada nas Estrelas Voyager",
     "logo": "",
     "group": "Geral",
@@ -523,13 +523,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8"
-  },
-  {
-    "name": "Lamore Rock Show WebTV (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8"
   },
   {
     "name": "Loading (720p)",
@@ -1449,13 +1442,6 @@
     "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
   },
   {
-    "name": "TELE 6 (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
-  },
-  {
     "name": "Terra Viva (720p)",
     "logo": "",
     "group": "Geral",
@@ -1848,6 +1834,13 @@
     "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
   },
   {
+    "name": "TV Terceiro Anjo (360p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8"
+  },
+  {
     "name": "TV UFOP (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1930,13 +1923,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8"
-  },
-  {
-    "name": "TVitapé (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8"
   },
   {
     "name": "TVLatinaSat (720p)",
