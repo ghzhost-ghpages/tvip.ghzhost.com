@@ -336,13 +336,6 @@
     "url": "http://45.162.64.114/ZOOMOO_KIDS/index.m3u8"
   },
   {
-    "name": "ElyTV (360p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
-  },
-  {
     "name": "ESPN (1080p)",
     "logo": "",
     "group": "Geral",
@@ -404,13 +397,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/FISH_TV/index.m3u8"
-  },
-  {
-    "name": "Fonte TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
   },
   {
     "name": "Fora Tedio TV (720p)",
@@ -686,6 +672,13 @@
     "url": "https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8"
   },
   {
+    "name": "Nickelodeon (480p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8"
+  },
+  {
     "name": "Nickelodeon Clássico (720p)",
     "logo": "",
     "group": "Geral",
@@ -733,13 +726,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/NOVO_TEMPO/index.m3u8"
-  },
-  {
-    "name": "NTV (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8"
   },
   {
     "name": "Numbers",
@@ -1463,6 +1449,13 @@
     "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
   },
   {
+    "name": "TELE 6 (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
+  },
+  {
     "name": "Terra Viva (720p)",
     "logo": "",
     "group": "Geral",
@@ -1596,6 +1589,13 @@
     "url": "http://45.162.64.114/TV_BRASIL/index.m3u8"
   },
   {
+    "name": "TV Brasil Oeste (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+  },
+  {
     "name": "TV BRICS Portuguese (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1608,6 +1608,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
+  },
+  {
+    "name": "TV Câmara (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8"
   },
   {
     "name": "TV Cancao Nova (720p)",
@@ -1699,13 +1706,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8"
-  },
-  {
-    "name": "TV Guará (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
   },
   {
     "name": "TV Justica (720p)",
@@ -1848,6 +1848,13 @@
     "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
   },
   {
+    "name": "TV Sul Bahia (320p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
+  },
+  {
     "name": "TV Terceiro Anjo (360p)",
     "logo": "",
     "group": "Geral",
@@ -1911,6 +1918,13 @@
     "url": "http://45.190.28.50/TVE/index.m3u8"
   },
   {
+    "name": "TVE RS (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8"
+  },
+  {
     "name": "TVídeoNews (720p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
@@ -1967,25 +1981,11 @@
     "url": "http://45.162.64.114/WOOHOO/index.m3u8"
   },
   {
-    "name": "ARTV Canal Parlamento (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
-  },
-  {
     "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Movies (720p)",
     "logo": "",
     "group": "Geral",
     "country": "Portugal",
     "url": "http://50.7.120.34:8080/AXN_BLACK/index.m3u8"
-  },
-  {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",AXN White Portugal (480p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "http://50.7.120.34:8080/AXN_WHITE/index.m3u8"
   },
   {
     "name": "Disney Channel (1080p)",
