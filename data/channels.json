@@ -1,5 +1,12 @@
 [
   {
+    "name": "1001 Noites (720p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
+  },
+  {
     "name": "A&E Latin America Brazil (720p)",
     "logo": "",
     "group": "Geral",
@@ -126,13 +133,6 @@
     "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
   },
   {
-    "name": "Boas Novas (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
-  },
-  {
     "name": "Bob Esponja Calça Quadrada (720p)",
     "logo": "",
     "group": "Geral",
@@ -154,13 +154,6 @@
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
   },
   {
-    "name": "Canal 38 (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8"
-  },
-  {
     "name": "Canal do Boi (720p)",
     "logo": "",
     "group": "Geral",
@@ -173,13 +166,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/CANAL_EDUCACAO/index.m3u8"
-  },
-  {
-    "name": "Canal FDR",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
   },
   {
     "name": "Canal Futura (720p)",
@@ -348,6 +334,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8"
+  },
+  {
+    "name": "Fala Litoral (480p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8"
   },
   {
     "name": "FIFA+ Portuguese (720p)",
@@ -1008,13 +1001,6 @@
     "url": "https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8"
   },
   {
-    "name": "Pluto TV Minha Obsessão Favorita",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8"
-  },
-  {
     "name": "Pluto TV Mistérios",
     "logo": "",
     "group": "Geral",
@@ -1260,6 +1246,13 @@
     "url": "https://maystreaming.cloudecast.com/redemeio/index.m3u8"
   },
   {
+    "name": "Rede Minas (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8"
+  },
+  {
     "name": "Rede NGT (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1456,13 +1449,6 @@
     "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529"
   },
   {
-    "name": "Times Brasil (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
-  },
-  {
     "name": "TNT Novelas Brazil (720p)",
     "logo": "",
     "group": "Geral",
@@ -1505,13 +1491,6 @@
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8"
   },
   {
-    "name": "TV A Folha (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
-  },
-  {
     "name": "TV Aldeia (720p)",
     "logo": "",
     "group": "Geral",
@@ -1531,13 +1510,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/TV_APARECIDA/index.m3u8"
-  },
-  {
-    "name": "TV Arapuan (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
   },
   {
     "name": "TV Assembleia Piaui",
@@ -1645,13 +1617,6 @@
     "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
   },
   {
-    "name": "TV Futuro (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
-  },
-  {
     "name": "TV Gazeta (720p)",
     "logo": "",
     "group": "Geral",
@@ -1680,6 +1645,13 @@
     "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8"
   },
   {
+    "name": "TV Litoral RN (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
+  },
+  {
     "name": "TV Mais Maricá (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1692,13 +1664,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"
-  },
-  {
-    "name": "TV Marajoara (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8"
   },
   {
     "name": "TV Metropole (720p) [Not 24/7]",
@@ -1799,13 +1764,6 @@
     "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
   },
   {
-    "name": "TV Sim São Mateus (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
-  },
-  {
     "name": "TV Sul Bahia (320p)",
     "logo": "",
     "group": "Geral",
@@ -1874,6 +1832,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8"
+  },
+  {
+    "name": "TVE RS (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8"
   },
   {
     "name": "TVídeoNews (720p) [Not 24/7]",
@@ -2077,6 +2042,13 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8"
+  },
+  {
+    "name": "RTP Memória (504p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8"
   },
   {
     "name": "RTP Noticias (720p) [Not 24/7]",
