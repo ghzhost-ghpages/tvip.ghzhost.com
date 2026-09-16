@@ -126,6 +126,13 @@
     "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
   },
   {
+    "name": "Boas Novas (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+  },
+  {
     "name": "Bob Esponja Calça Quadrada (720p)",
     "logo": "",
     "group": "Geral",
@@ -145,6 +152,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
+  },
+  {
+    "name": "Canal 38 (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8"
   },
   {
     "name": "Canal do Boi (720p)",
@@ -189,13 +203,6 @@
     "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8"
   },
   {
-    "name": "Canal Sete",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8"
-  },
-  {
     "name": "Canal UOL (1080p)",
     "logo": "",
     "group": "Geral",
@@ -215,13 +222,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8"
-  },
-  {
-    "name": "Cinturao Verde",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://play.redecinturaoverde.com.br/playlist.m3u8"
   },
   {
     "name": "Classique TV (360p)",
@@ -271,13 +271,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8"
-  },
-  {
-    "name": "Cultura Fast (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8"
   },
   {
     "name": "Despertar TV (720p)",
@@ -362,13 +355,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/FISH_TV/index.m3u8"
-  },
-  {
-    "name": "Fonte TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
   },
   {
     "name": "Fora Tedio TV (720p)",
@@ -469,6 +455,13 @@
     "url": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
   },
   {
+    "name": "KpopTV Play (576p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+  },
+  {
     "name": "Kuriakos Kids (1080p)",
     "logo": "",
     "group": "Geral",
@@ -518,13 +511,6 @@
     "url": "https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8"
   },
   {
-    "name": "MBC Brasil TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://play.mbcbrasil.tv.br/playlist.m3u8"
-  },
-  {
     "name": "MTV Are you the One?",
     "logo": "",
     "group": "Geral",
@@ -544,13 +530,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8"
-  },
-  {
-    "name": "MTV Com o Ex",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8"
   },
   {
     "name": "MTV Dating",
@@ -714,18 +693,18 @@
     "url": "https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8"
   },
   {
+    "name": "O Dia TV",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8"
+  },
+  {
     "name": "O Encantador de Cães",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8"
-  },
-  {
-    "name": "O Reino Infantil",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8"
   },
   {
     "name": "Oggy e as Baratas Tontas",
@@ -761,6 +740,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
+  },
+  {
+    "name": "Plenitude TV",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
   },
   {
     "name": "Pluto TV Aliens",
@@ -1036,13 +1022,6 @@
     "url": "https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8"
   },
   {
-    "name": "Pluto TV Record News (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-6102e04e9ab1db0007a980a1.m3u8"
-  },
-  {
     "name": "Pluto TV Retrô",
     "logo": "",
     "group": "Geral",
@@ -1064,13 +1043,6 @@
     "url": "https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8"
   },
   {
-    "name": "Pluto TV Séries Criminais",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8"
-  },
-  {
     "name": "Pluto TV Séries Drama",
     "logo": "",
     "group": "Geral",
@@ -1085,25 +1057,11 @@
     "url": "https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8"
   },
   {
-    "name": "Pluto TV Séries Sci-Fi",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8"
-  },
-  {
     "name": "Pluto TV Shows por Stingray (720p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8"
-  },
-  {
-    "name": "Pluto TV Star Trek",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8"
   },
   {
     "name": "Pluto TV Terror Trash",
@@ -1246,13 +1204,6 @@
     "url": "http://45.162.64.114/REDE_SECULO_21/index.m3u8"
   },
   {
-    "name": "Rede SPTV (360p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8"
-  },
-  {
     "name": "Rede TV! (720p)",
     "logo": "",
     "group": "Geral",
@@ -1337,13 +1288,6 @@
     "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
   },
   {
-    "name": "South Park: Coleção Cartman",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8"
-  },
-  {
     "name": "South Park: Coleção Kenny",
     "logo": "",
     "group": "Geral",
@@ -1384,13 +1328,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8"
-  },
-  {
-    "name": "Tastemade (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8"
   },
   {
     "name": "TCM 10 HD (1080p)",
@@ -1505,6 +1442,13 @@
     "url": "http://45.162.64.114/TV_APARECIDA/index.m3u8"
   },
   {
+    "name": "TV Arapuan (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+  },
+  {
     "name": "TV Assembleia Piaui",
     "logo": "",
     "group": "Geral",
@@ -1526,6 +1470,13 @@
     "url": "http://45.162.64.114/TV_BRASIL/index.m3u8"
   },
   {
+    "name": "TV Brasil Oeste (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+  },
+  {
     "name": "TV BRICS Portuguese (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1538,13 +1489,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
-  },
-  {
-    "name": "TV Câmara (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8"
   },
   {
     "name": "TV Cancao Nova (720p)",
@@ -1680,13 +1624,6 @@
     "url": "http://185.228.163.146:8000/play/a01y/index.m3u8"
   },
   {
-    "name": "TV Padre Cicero (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8"
-  },
-  {
     "name": "TV Pai Eterno (720p)",
     "logo": "",
     "group": "Geral",
@@ -1715,11 +1652,11 @@
     "url": "http://200.189.113.201/hls/tve.m3u8"
   },
   {
-    "name": "TV Passo Fundo (720p)",
+    "name": "TV Petropolis (720p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
-    "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
+    "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
   },
   {
     "name": "TV Ra Tim Bum (720p)",
@@ -1755,6 +1692,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
+  },
+  {
+    "name": "TV Sim São Mateus (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
   },
   {
     "name": "TV Sul Bahia (320p)",
@@ -1890,6 +1834,13 @@
     "url": "http://45.162.64.114/WOOHOO/index.m3u8"
   },
   {
+    "name": "ADB TV (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8"
+  },
+  {
     "name": "ARTV Canal Parlamento (720p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
@@ -1981,6 +1932,13 @@
     "url": "https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8"
   },
   {
+    "name": "ON FM (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8"
+  },
+  {
     "name": "Porto Canal (720p)",
     "logo": "",
     "group": "Geral",
@@ -1993,6 +1951,13 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8"
+  },
+  {
+    "name": "RFPtv (360p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8"
   },
   {
     "name": "RTP 1 (720p) [Not 24/7]",
