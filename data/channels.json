@@ -147,6 +147,13 @@
     "url": "http://170.83.49.66:8083/BOXKIDSHD/index.m3u8"
   },
   {
+    "name": "BR8 TV",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
+  },
+  {
     "name": "Canal 38 (720p)",
     "logo": "",
     "group": "Geral",
@@ -719,13 +726,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8"
-  },
-  {
-    "name": "O Dia TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8"
   },
   {
     "name": "O Encantador de Cães",
@@ -1554,13 +1554,6 @@
     "url": "http://45.162.64.114/TV_BRASIL/index.m3u8"
   },
   {
-    "name": "TV Brasil Oeste (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
-  },
-  {
     "name": "TV BRICS Portuguese (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1573,13 +1566,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
-  },
-  {
-    "name": "TV Câmara (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8"
   },
   {
     "name": "TV Cancao Nova (720p)",
@@ -1736,13 +1722,6 @@
     "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
   },
   {
-    "name": "TV Paraense (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
-  },
-  {
     "name": "TV Paraná Turismo (720p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
@@ -1834,13 +1813,6 @@
     "url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8"
   },
   {
-    "name": "TV Viçosa (480p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8"
-  },
-  {
     "name": "TV Vila Real (720p)",
     "logo": "",
     "group": "Geral",
@@ -1890,13 +1862,6 @@
     "url": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8"
   },
   {
-    "name": "TVitapé (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8"
-  },
-  {
     "name": "TVLatinaSat (720p)",
     "logo": "",
     "group": "Geral",
@@ -1937,6 +1902,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/WOOHOO/index.m3u8"
+  },
+  {
+    "name": "ADB TV (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8"
   },
   {
     "name": "ARTV Canal Parlamento (720p) [Not 24/7]",
