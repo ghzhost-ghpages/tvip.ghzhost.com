@@ -1,12 +1,5 @@
 [
   {
-    "name": "A&E Latin America Brazil (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://170.83.16.50/AeE/index.m3u8"
-  },
-  {
     "name": "Adesso TV (720p)",
     "logo": "",
     "group": "Geral",
@@ -47,13 +40,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
-  },
-  {
-    "name": "AMC Latin America Brazil (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://170.83.49.66:8083/AMCHD/index.m3u8"
   },
   {
     "name": "Angel TV Portuguese (720p)",
@@ -98,18 +84,18 @@
     "url": "https://awtv.nuvemplay.live/hls/stream.m3u8"
   },
   {
-    "name": "AXN (Brazil) (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://170.83.16.50/AXN/index.m3u8"
-  },
-  {
     "name": "BabyFirst Brazil",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8"
+  },
+  {
+    "name": "Bem Mais TV (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8"
   },
   {
     "name": "BET Pluto TV (United States) BR",
@@ -147,11 +133,11 @@
     "url": "http://170.83.49.66:8083/BOXKIDSHD/index.m3u8"
   },
   {
-    "name": "Canal 38 (720p)",
+    "name": "BR8 TV",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
-    "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8"
+    "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
   },
   {
     "name": "Canal do Boi (720p)",
@@ -285,13 +271,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8"
-  },
-  {
-    "name": "Cultura Fast (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8"
   },
   {
     "name": "Despertar TV (720p)",
@@ -490,6 +469,13 @@
     "url": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
   },
   {
+    "name": "KpopTV Play (576p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+  },
+  {
     "name": "Kuriakos Kids (1080p)",
     "logo": "",
     "group": "Geral",
@@ -509,13 +495,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8"
-  },
-  {
-    "name": "Lifetime Latin America Brazil (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://170.83.16.50/LIFETIME/index.m3u8"
   },
   {
     "name": "Loading (720p)",
@@ -789,13 +768,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
-  },
-  {
-    "name": "Plenitude TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
   },
   {
     "name": "Pluto TV Aliens",
@@ -1246,6 +1218,13 @@
     "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8"
   },
   {
+    "name": "Rede NGT (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8"
+  },
+  {
     "name": "Rede Seculo 21 (720p)",
     "logo": "",
     "group": "Geral",
@@ -1321,13 +1300,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8"
-  },
-  {
-    "name": "Sony Channel (Brazil) (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://170.83.16.50/SONY_CHANNEL/index.m3u8"
   },
   {
     "name": "Sony Movies (720p)",
@@ -1414,6 +1386,13 @@
     "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
   },
   {
+    "name": "TELE 6 (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
+  },
+  {
     "name": "Terra Viva (720p)",
     "logo": "",
     "group": "Geral",
@@ -1491,13 +1470,6 @@
     "url": "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
   },
   {
-    "name": "TV Aldeia (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8"
-  },
-  {
     "name": "TV Alianca Catarinense (720p)",
     "logo": "",
     "group": "Geral",
@@ -1545,6 +1517,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/TV_BRASIL/index.m3u8"
+  },
+  {
+    "name": "TV Brasil Oeste (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
   },
   {
     "name": "TV BRICS Portuguese (1080p)",
@@ -1624,6 +1603,13 @@
     "url": "https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8"
   },
   {
+    "name": "TV Futuro (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8"
+  },
+  {
     "name": "TV Gazeta (720p)",
     "logo": "",
     "group": "Geral",
@@ -1652,6 +1638,13 @@
     "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8"
   },
   {
+    "name": "TV Litoral RN (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
+  },
+  {
     "name": "TV Mais Marica (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1664,6 +1657,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"
+  },
+  {
+    "name": "TV Marajoara (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8"
   },
   {
     "name": "TV Metropole (720p) [Not 24/7]",
@@ -1834,6 +1834,20 @@
     "url": "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8"
   },
   {
+    "name": "TVE Bahia (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8"
+  },
+  {
+    "name": "TVE RS (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
+  },
+  {
     "name": "TVideoNews (720p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
@@ -1869,13 +1883,6 @@
     "url": "https://umatv.nuvemplay.live/hls/stream.m3u8"
   },
   {
-    "name": "Unisul TV (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
-  },
-  {
     "name": "VEJA+ TV (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1909,6 +1916,13 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "http://50.7.120.34:8080/AXN_BLACK/index.m3u8"
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",AXN White Portugal (480p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "http://50.7.120.34:8080/AXN_WHITE/index.m3u8"
   },
   {
     "name": "Disney Channel (Portugal) (1080p)",
@@ -2049,13 +2063,6 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8"
-  },
-  {
-    "name": "RTP Memoria (504p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8"
   },
   {
     "name": "RTP Noticias (720p) [Not 24/7]",
