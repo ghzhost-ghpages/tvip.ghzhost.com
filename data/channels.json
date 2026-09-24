@@ -133,13 +133,6 @@
     "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
   },
   {
-    "name": "Boas Novas (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
-  },
-  {
     "name": "Bob Esponja Calca Quadrada (720p)",
     "logo": "",
     "group": "Geral",
@@ -1316,6 +1309,13 @@
     "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8"
   },
   {
+    "name": "RIT TV (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://acesso.ecast.site:3648/live/ritlive.m3u8"
+  },
+  {
     "name": "SBT Interior (720p)",
     "logo": "",
     "group": "Geral",
@@ -1435,6 +1435,13 @@
     "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
   },
   {
+    "name": "TELE 6 (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
+  },
+  {
     "name": "Terra Viva (720p)",
     "logo": "",
     "group": "Geral",
@@ -1540,6 +1547,13 @@
     "url": "http://45.162.64.114/TV_APARECIDA/index.m3u8"
   },
   {
+    "name": "TV Arapuan (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+  },
+  {
     "name": "TV Assembleia Piaui",
     "logo": "",
     "group": "Geral",
@@ -1559,13 +1573,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/TV_BRASIL/index.m3u8"
-  },
-  {
-    "name": "TV Brasil Oeste (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
   },
   {
     "name": "TV BRICS Portuguese (1080p)",
@@ -1972,6 +1979,13 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "http://50.7.120.34:8080/AXN_BLACK/index.m3u8"
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",AXN White Portugal (480p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "http://50.7.120.34:8080/AXN_WHITE/index.m3u8"
   },
   {
     "name": "Disney Channel (Portugal) (1080p)",
