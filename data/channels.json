@@ -133,6 +133,13 @@
     "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
   },
   {
+    "name": "Boas Novas (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+  },
+  {
     "name": "Bob Esponja Calca Quadrada (720p)",
     "logo": "",
     "group": "Geral",
@@ -329,6 +336,13 @@
     "url": "http://45.162.64.114/ZOOMOO_KIDS/index.m3u8"
   },
   {
+    "name": "ElyTV (360p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
+  },
+  {
     "name": "ESPN 4 (1080p)",
     "logo": "",
     "group": "Geral",
@@ -495,13 +509,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
-  },
-  {
-    "name": "KpopTV Play (576p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
   },
   {
     "name": "Kuriakos Kids (1080p)",
@@ -1358,13 +1365,6 @@
     "url": "http://45.162.64.114/SONY_MOVIES/index.m3u8"
   },
   {
-    "name": "SOU TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
-  },
-  {
     "name": "South Park: Colecao Cartman",
     "logo": "",
     "group": "Geral",
@@ -1433,13 +1433,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
-  },
-  {
-    "name": "TELE 6 (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
   },
   {
     "name": "Terra Viva (720p)",
@@ -1573,6 +1566,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/TV_BRASIL/index.m3u8"
+  },
+  {
+    "name": "TV Brasil Oeste (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
   },
   {
     "name": "TV BRICS Portuguese (1080p)",
@@ -1785,13 +1785,6 @@
     "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
   },
   {
-    "name": "TV Petropolis (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
-  },
-  {
     "name": "TV Ra Tim Bum (720p)",
     "logo": "",
     "group": "Geral",
@@ -1818,13 +1811,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
-  },
-  {
-    "name": "TV Sim Cachoeiro (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
   },
   {
     "name": "TV Sul Bahia (320p)",
@@ -1981,13 +1967,6 @@
     "url": "http://50.7.120.34:8080/AXN_BLACK/index.m3u8"
   },
   {
-    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",AXN White Portugal (480p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "http://50.7.120.34:8080/AXN_WHITE/index.m3u8"
-  },
-  {
     "name": "Disney Channel (Portugal) (1080p)",
     "logo": "",
     "group": "Geral",
@@ -2126,6 +2105,13 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8"
+  },
+  {
+    "name": "RTP Memoria (504p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8"
   },
   {
     "name": "RTP Noticias (720p) [Not 24/7]",
