@@ -154,13 +154,6 @@
     "url": "http://170.83.49.66:8083/BOXKIDSHD/index.m3u8"
   },
   {
-    "name": "BR8 TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
-  },
-  {
     "name": "Canal 38 (720p)",
     "logo": "",
     "group": "Geral",
@@ -334,13 +327,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/ZOOMOO_KIDS/index.m3u8"
-  },
-  {
-    "name": "ElyTV (360p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
   },
   {
     "name": "ESPN 4 (1080p)",
@@ -817,13 +803,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
-  },
-  {
-    "name": "Plenitude TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
   },
   {
     "name": "Pluto TV Aliens",
@@ -1449,6 +1428,13 @@
     "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
   },
   {
+    "name": "TELE 6 (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
+  },
+  {
     "name": "Terra Viva (720p)",
     "logo": "",
     "group": "Geral",
@@ -1601,6 +1587,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
+  },
+  {
+    "name": "TV Camara (Brazil) (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8"
   },
   {
     "name": "TV Cancao Nova (720p)",
@@ -1806,6 +1799,13 @@
     "url": "http://45.177.114.115/TV_RA_TIM_BUM/index.m3u8"
   },
   {
+    "name": "TV Sao Raimundo (268p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8"
+  },
+  {
     "name": "TV Senado (Brazil) (720p)",
     "logo": "",
     "group": "Geral",
@@ -1818,20 +1818,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
-  },
-  {
-    "name": "TV Sim Cachoeiro (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
-  },
-  {
-    "name": "TV Sul Bahia (320p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
   },
   {
     "name": "TV Terceiro Anjo (360p)",
@@ -2091,6 +2077,13 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8"
+  },
+  {
+    "name": "RTP 1 (720p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8"
   },
   {
     "name": "RTP Acores (720p) [Not 24/7]",
