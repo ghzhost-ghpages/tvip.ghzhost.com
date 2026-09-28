@@ -1,5 +1,12 @@
 [
   {
+    "name": "1001 Noites (720p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
+  },
+  {
     "name": "A&E Latin America Brazil (720p)",
     "logo": "",
     "group": "Geral",
@@ -383,13 +390,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/FISH_TV/index.m3u8"
-  },
-  {
-    "name": "Fonte TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
   },
   {
     "name": "Fora Tedio TV (720p)",
@@ -803,6 +803,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
+  },
+  {
+    "name": "Plenitude TV",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
   },
   {
     "name": "Pluto TV Aliens",
@@ -1225,11 +1232,11 @@
     "url": "http://168.197.104.22/REDE_FAMILIA/index.m3u8"
   },
   {
-    "name": "Rede Globo (720p)",
+    "name": "Rede Globo (1080p)",
     "logo": "",
     "group": "Geral",
     "country": "Brasil",
-    "url": "https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8"
+    "url": "https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq"
   },
   {
     "name": "Rede Gospel (1080p)",
@@ -1456,13 +1463,6 @@
     "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529"
   },
   {
-    "name": "Times Brasil (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
-  },
-  {
     "name": "TNT Novelas Brazil (720p)",
     "logo": "",
     "group": "Geral",
@@ -1582,13 +1582,6 @@
     "url": "https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8"
   },
   {
-    "name": "TV Brusque (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
-  },
-  {
     "name": "TV Camara (Brazil) (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1601,13 +1594,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/CANCAO_NOVA/index.m3u8"
-  },
-  {
-    "name": "TV Cidade Verde Cuiaba",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8"
   },
   {
     "name": "TV Clube (720p)",
@@ -1701,13 +1687,6 @@
     "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8"
   },
   {
-    "name": "TV Litoral RN (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
-  },
-  {
     "name": "TV Mais Marica (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1783,13 +1762,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
-  },
-  {
-    "name": "TV Petropolis (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
   },
   {
     "name": "TV Ra Tim Bum (720p)",
@@ -2105,13 +2077,6 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8"
-  },
-  {
-    "name": "RTP Memoria (504p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8"
   },
   {
     "name": "RTP Noticias (720p) [Not 24/7]",
