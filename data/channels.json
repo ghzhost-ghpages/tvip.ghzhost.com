@@ -42,6 +42,13 @@
     "url": "http://45.162.64.114/AGROMAIS/index.m3u8"
   },
   {
+    "name": "Amazon Sat (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+  },
+  {
     "name": "AMC Latin America Brazil (720p)",
     "logo": "",
     "group": "Geral",
@@ -544,13 +551,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://play.mbcbrasil.tv.br/playlist.m3u8"
-  },
-  {
-    "name": "MCM Pop (576p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://193.254.245.162/MCM/index.m3u8"
   },
   {
     "name": "MTV Are you the One?",
@@ -1337,13 +1337,6 @@
     "url": "http://45.162.64.114/SONY_MOVIES/index.m3u8"
   },
   {
-    "name": "SOU TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
-  },
-  {
     "name": "South Park: Colecao Cartman",
     "logo": "",
     "group": "Geral",
@@ -1806,6 +1799,13 @@
     "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
   },
   {
+    "name": "TV Sim Sao Mateus (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
+  },
+  {
     "name": "TV Terceiro Anjo (360p)",
     "logo": "",
     "group": "Geral",
@@ -1825,6 +1825,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8"
+  },
+  {
+    "name": "TV Vicosa (480p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8"
   },
   {
     "name": "TV Vila Real (720p)",
@@ -1862,20 +1869,6 @@
     "url": "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8"
   },
   {
-    "name": "TVE Bahia (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8"
-  },
-  {
-    "name": "TVE RS (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
-  },
-  {
     "name": "TVideoNews (720p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
@@ -1911,6 +1904,13 @@
     "url": "https://umatv.nuvemplay.live/hls/stream.m3u8"
   },
   {
+    "name": "Unisul TV (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
+  },
+  {
     "name": "VEJA+ TV (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1944,6 +1944,13 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "http://50.7.120.34:8080/AXN_BLACK/index.m3u8"
+  },
+  {
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",AXN White Portugal (480p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "http://50.7.120.34:8080/AXN_WHITE/index.m3u8"
   },
   {
     "name": "Disney Channel (Portugal) (1080p)",
@@ -2044,13 +2051,6 @@
     "url": "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8"
   },
   {
-    "name": "RTP 1 (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8"
-  },
-  {
     "name": "RTP Acores (720p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
@@ -2070,13 +2070,6 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8"
-  },
-  {
-    "name": "RTP Memoria (504p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8"
   },
   {
     "name": "RTP Noticias (720p) [Not 24/7]",
