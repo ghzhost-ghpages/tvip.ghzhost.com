@@ -173,8 +173,6 @@ https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
 https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Primer TV (1080p)" group-title="Geral",Primer TV (1080p) (Brasil)
 http://200.194.238.229:8383/live/primer/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RBATV (720p)" group-title="Geral",RBATV (720p) (Brasil)
-https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Record News (720p)" group-title="Geral",Record News (720p) (Brasil)
 http://45.162.64.114/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RecordTV Interior SP" group-title="Geral",RecordTV Interior SP (Brasil)
@@ -219,8 +217,6 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT News (720p)" group-title="Geral",SBT News (720p) (Brasil)
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SIC TV (720p)" group-title="Geral",SIC TV (720p) (Brasil)
-https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel Pluto TV" group-title="Geral",Smithsonian Channel Pluto TV (Brasil)
 https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Channel (Brazil) (720p)" group-title="Geral",Sony Channel (Brazil) (720p) (Brasil)
@@ -281,12 +277,12 @@ http://45.162.64.114/TV_BRASIL/index.m3u8
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV BRICS Portuguese (1080p)" group-title="Geral",TV BRICS Portuguese (1080p) (Brasil)
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Brusque (720p)" group-title="Geral",TV Brusque (720p) (Brasil)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Camara (Brazil) (1080p)" group-title="Geral",TV Camara (Brazil) (1080p) (Brasil)
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Cancao Nova (720p)" group-title="Geral",TV Cancao Nova (720p) (Brasil)
 http://45.162.64.114/CANCAO_NOVA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Cidade Verde Cuiaba" group-title="Geral",TV Cidade Verde Cuiaba (Brasil)
-https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Clube (720p)" group-title="Geral",TV Clube (720p) (Brasil)
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Comunitaria (360p)" group-title="Geral",TV Comunitaria (360p) (Brasil)
@@ -315,8 +311,6 @@ https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
 http://45.162.64.114/TV_JUSTICA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Life America (720p)" group-title="Geral",TV Life America (720p) (Brasil)
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Litoral RN (720p)" group-title="Geral",TV Litoral RN (720p) (Brasil)
-https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Mais Marica (1080p)" group-title="Geral",TV Mais Marica (1080p) (Brasil)
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Mana Brasil (1080p)" group-title="Geral",TV Mana Brasil (1080p) (Brasil)
@@ -339,8 +333,6 @@ https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Passo Fundo (720p)" group-title="Geral",TV Passo Fundo (720p) (Brasil)
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Petropolis (720p)" group-title="Geral",TV Petropolis (720p) (Brasil)
-https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Ra Tim Bum (720p)" group-title="Geral",TV Ra Tim Bum (720p) (Brasil)
 http://45.177.114.115/TV_RA_TIM_BUM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Sao Raimundo (268p)" group-title="Geral",TV Sao Raimundo (268p) (Brasil)
@@ -373,10 +365,6 @@ https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVCOM Maceio (480p)" group-title="Geral",TVCOM Maceio (480p) (Brasil)
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVE Bahia (1080p)" group-title="Geral",TVE Bahia (1080p) (Brasil)
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVE RS (1080p)" group-title="Geral",TVE RS (1080p) (Brasil)
-https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVideoNews (720p) [Not 24/7]" group-title="Geral",TVideoNews (720p) [Not 24/7] (Brasil)
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVLatinaSat (720p)" group-title="Geral",TVLatinaSat (720p) (Brasil)
@@ -385,8 +373,6 @@ https://www.latinasat.com.br/hls/live/stream/index.m3u8
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UMA TV" group-title="Geral",UMA TV (Brasil)
 https://umatv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Unisul TV (720p)" group-title="Geral",Unisul TV (720p) (Brasil)
-https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="VEJA+ TV (1080p)" group-title="Geral",VEJA+ TV (1080p) (Brasil)
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WooHoo (720p)" group-title="Geral",WooHoo (720p) (Brasil)
@@ -431,6 +417,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTP Madeira SD (504p) [Not 24/7]" group-title="Geral",RTP Madeira SD (504p) [Not 24/7] (Portugal)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTP Memoria (504p) [Not 24/7]" group-title="Geral",RTP Memoria (504p) [Not 24/7] (Portugal)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTP Noticias (720p) [Not 24/7]" group-title="Geral",RTP Noticias (720p) [Not 24/7] (Portugal)
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTP Noticias SD (504p) [Not 24/7]" group-title="Geral",RTP Noticias SD (504p) [Not 24/7] (Portugal)

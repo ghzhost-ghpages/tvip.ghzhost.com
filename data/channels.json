@@ -609,13 +609,6 @@
     "url": "http://200.194.238.229:8383/live/primer/playlist.m3u8"
   },
   {
-    "name": "RBATV (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
-  },
-  {
     "name": "Record News (720p)",
     "logo": "",
     "group": "Geral",
@@ -768,13 +761,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8"
-  },
-  {
-    "name": "SIC TV (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
   },
   {
     "name": "Smithsonian Channel Pluto TV",
@@ -987,6 +973,13 @@
     "url": "https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8"
   },
   {
+    "name": "TV Brusque (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
+  },
+  {
     "name": "TV Camara (Brazil) (1080p)",
     "logo": "",
     "group": "Geral",
@@ -999,13 +992,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/CANCAO_NOVA/index.m3u8"
-  },
-  {
-    "name": "TV Cidade Verde Cuiaba",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8"
   },
   {
     "name": "TV Clube (720p)",
@@ -1106,13 +1092,6 @@
     "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8"
   },
   {
-    "name": "TV Litoral RN (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
-  },
-  {
     "name": "TV Mais Marica (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1188,13 +1167,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
-  },
-  {
-    "name": "TV Petropolis (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
   },
   {
     "name": "TV Ra Tim Bum (720p)",
@@ -1309,20 +1281,6 @@
     "url": "https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8"
   },
   {
-    "name": "TVE Bahia (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8"
-  },
-  {
-    "name": "TVE RS (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8"
-  },
-  {
     "name": "TVideoNews (720p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
@@ -1349,13 +1307,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://umatv.nuvemplay.live/hls/stream.m3u8"
-  },
-  {
-    "name": "Unisul TV (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
   },
   {
     "name": "VEJA+ TV (1080p)",
@@ -1510,6 +1461,13 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8"
+  },
+  {
+    "name": "RTP Memoria (504p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8"
   },
   {
     "name": "RTP Noticias (720p) [Not 24/7]",
