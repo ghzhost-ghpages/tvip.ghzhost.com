@@ -1,12 +1,5 @@
 [
   {
-    "name": "1001 Noites (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8"
-  },
-  {
     "name": "+MaisUm (720p)",
     "logo": "",
     "group": "Geral",
@@ -140,6 +133,13 @@
     "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
   },
   {
+    "name": "Boas Novas (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+  },
+  {
     "name": "Bob Esponja Calca Quadrada (720p)",
     "logo": "",
     "group": "Geral",
@@ -152,6 +152,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://170.83.49.66:8083/BOXKIDSHD/index.m3u8"
+  },
+  {
+    "name": "BR8 TV",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8"
   },
   {
     "name": "Canal 38 (720p)",
@@ -404,13 +411,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8"
-  },
-  {
-    "name": "Fish TV (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://190.128.214.97:64333/play/a006/index.m3u8"
   },
   {
     "name": "Fonte TV",
@@ -775,13 +775,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-67f960c5441853fe50e7afc1.m3u8"
-  },
-  {
-    "name": "O Dia TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8"
   },
   {
     "name": "O Encantador de Caes",
@@ -1421,27 +1414,6 @@
     "url": "https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8"
   },
   {
-    "name": "SporTV 2 (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://195.178.110.110/sportv2/index.m3u8"
-  },
-  {
-    "name": "SporTV 3 (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://195.178.110.110/sportv3/index.m3u8"
-  },
-  {
-    "name": "SporTV (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://195.178.110.110/sportv/index.m3u8"
-  },
-  {
     "name": "Star Trek",
     "logo": "",
     "group": "Geral",
@@ -1512,13 +1484,6 @@
     "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
   },
   {
-    "name": "TLC Latin America Brazil (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://79.127.238.228:14433"
-  },
-  {
     "name": "TNT Latin America Brazil (720p) [Geo-blocked]",
     "logo": "",
     "group": "Geral",
@@ -1582,6 +1547,13 @@
     "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8"
   },
   {
+    "name": "TV Alianca Catarinense (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8"
+  },
+  {
     "name": "TV Alternativa (410p)",
     "logo": "",
     "group": "Geral",
@@ -1594,13 +1566,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/TV_APARECIDA/index.m3u8"
-  },
-  {
-    "name": "TV Arapuan (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
   },
   {
     "name": "like Gecko) Chrome/129.0.0.0 Safari/537.36\" group-title=\"Undefined\",TV Bahia (1080i)",
@@ -1743,6 +1708,13 @@
     "url": "https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8"
   },
   {
+    "name": "TV Litoral RN (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
+  },
+  {
     "name": "TV Mais Marica (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1762,6 +1734,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8"
+  },
+  {
+    "name": "TV Metropole (720p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8"
   },
   {
     "name": "TV Natal (1080p)",
@@ -1790,13 +1769,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8"
-  },
-  {
-    "name": "TV Paraense (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
   },
   {
     "name": "TV Parana Turismo (720p) [Not 24/7]",
@@ -1846,6 +1818,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
+  },
+  {
+    "name": "TV Sim Cachoeiro (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
   },
   {
     "name": "TV Sim Sao Mateus (720p)",
@@ -1902,6 +1881,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8"
+  },
+  {
+    "name": "TV+Pet",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8"
   },
   {
     "name": "TVC-Rio",
@@ -1965,6 +1951,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://umatv.nuvemplay.live/hls/stream.m3u8"
+  },
+  {
+    "name": "Unisul TV (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
   },
   {
     "name": "VEJA+ TV (1080p)",
