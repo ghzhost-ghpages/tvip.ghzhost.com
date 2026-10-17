@@ -1,12 +1,5 @@
 [
   {
-    "name": "+MaisUm (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8"
-  },
-  {
     "name": "A&E Latin America Brazil (720p)",
     "logo": "",
     "group": "Geral",
@@ -147,6 +140,13 @@
     "url": "http://170.83.49.66:8083/BOXKIDSHD/index.m3u8"
   },
   {
+    "name": "Canal 38 (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8"
+  },
+  {
     "name": "Canal do Boi (720p)",
     "logo": "",
     "group": "Geral",
@@ -187,6 +187,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8"
+  },
+  {
+    "name": "Canal Sete",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8"
   },
   {
     "name": "Canal UOL (1080p)",
@@ -642,13 +649,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8"
-  },
-  {
-    "name": "N Sports (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8"
   },
   {
     "name": "Naruto Brazil",
@@ -1267,6 +1267,13 @@
     "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8"
   },
   {
+    "name": "Retro Cartoon (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8"
+  },
+  {
     "name": "RIT TV (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1295,6 +1302,13 @@
     "url": "https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8"
   },
   {
+    "name": "SIC TV (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8"
+  },
+  {
     "name": "Smithsonian Channel Pluto TV",
     "logo": "",
     "group": "Geral",
@@ -1314,13 +1328,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/SONY_MOVIES/index.m3u8"
-  },
-  {
-    "name": "SOU TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
   },
   {
     "name": "South Park: Colecao Cartman",
@@ -1419,13 +1426,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529"
-  },
-  {
-    "name": "Times Brasil (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8"
   },
   {
     "name": "TLC Latin America Brazil (720p)",
@@ -1533,6 +1533,13 @@
     "url": "http://45.162.64.114/TV_BRASIL/index.m3u8"
   },
   {
+    "name": "TV Brasil Oeste (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+  },
+  {
     "name": "TV BRICS Portuguese (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1629,13 +1636,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8"
-  },
-  {
-    "name": "TV Guara (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
   },
   {
     "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"General\",TV Guarapari (720p)",
@@ -2023,6 +2023,13 @@
     "url": "https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8"
   },
   {
+    "name": "ON FM (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8"
+  },
+  {
     "name": "Porto Canal (720p)",
     "logo": "",
     "group": "Geral",
@@ -2051,13 +2058,6 @@
     "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8"
   },
   {
-    "name": "RTP 2 (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8"
-  },
-  {
     "name": "RTP Acores (720p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
@@ -2077,13 +2077,6 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8"
-  },
-  {
-    "name": "RTP Memoria (504p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8"
   },
   {
     "name": "RTP Noticias (720p) [Not 24/7]",
