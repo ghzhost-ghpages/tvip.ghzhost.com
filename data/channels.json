@@ -126,6 +126,13 @@
     "url": "https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8"
   },
   {
+    "name": "Boas Novas (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+  },
+  {
     "name": "Bob Esponja Calca Quadrada (720p)",
     "logo": "",
     "group": "Geral",
@@ -159,6 +166,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/CANAL_EDUCACAO/index.m3u8"
+  },
+  {
+    "name": "Canal FDR",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8"
   },
   {
     "name": "Canal Futura (720p)",
@@ -341,20 +355,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/ZOOMOO_KIDS/index.m3u8"
-  },
-  {
-    "name": "ESPN 4 (Brazil) (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
-  },
-  {
-    "name": "ESPN (Brazil) (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
   },
   {
     "name": "EUTV (720p)",
@@ -635,6 +635,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8"
+  },
+  {
+    "name": "MTV Rocks",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8"
   },
   {
     "name": "MTV Shore",
@@ -1407,13 +1414,6 @@
     "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
   },
   {
-    "name": "Telecine Action (1080p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://46.151.196.223:14326/"
-  },
-  {
     "name": "Terra Viva (720p)",
     "logo": "",
     "group": "Geral",
@@ -1517,6 +1517,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/TV_APARECIDA/index.m3u8"
+  },
+  {
+    "name": "TV Arapuan (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
   },
   {
     "name": "like Gecko) Chrome/129.0.0.0 Safari/537.36\" group-title=\"Undefined\",TV Bahia (1080i)",
@@ -1629,6 +1636,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8"
+  },
+  {
+    "name": "TV Guara (720p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
   },
   {
     "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"General\",TV Guarapari (720p)",
@@ -1769,13 +1783,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
-  },
-  {
-    "name": "TV Sim Cachoeiro (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
   },
   {
     "name": "TV Terceiro Anjo (360p)",
