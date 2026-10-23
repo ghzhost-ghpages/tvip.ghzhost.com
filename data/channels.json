@@ -49,13 +49,6 @@
     "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
   },
   {
-    "name": "AMC Latin America Brazil (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://170.83.49.66:8083/AMCHD/index.m3u8"
-  },
-  {
     "name": "Angel TV Portuguese (720p)",
     "logo": "",
     "group": "Geral",
@@ -224,6 +217,13 @@
     "url": "http://45.162.64.114/CARTOON_NETWORK/index.m3u8"
   },
   {
+    "name": "CazeTV",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://138.204.86.4:8080/CAZE_TV/playlist.m3u8"
+  },
+  {
     "name": "Chroma TV (480p)",
     "logo": "",
     "group": "Geral",
@@ -355,6 +355,27 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/ZOOMOO_KIDS/index.m3u8"
+  },
+  {
+    "name": "ElyTV (360p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
+  },
+  {
+    "name": "ESPN 4 (Brazil) (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
+  },
+  {
+    "name": "ESPN (Brazil) (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
   },
   {
     "name": "EUTV (720p)",
@@ -1288,6 +1309,13 @@
     "url": "https://acesso.ecast.site:3648/live/ritlive.m3u8"
   },
   {
+    "name": "SBT Cuiaba",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8"
+  },
+  {
     "name": "SBT Interior (720p)",
     "logo": "",
     "group": "Geral",
@@ -1307,6 +1335,20 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8"
+  },
+  {
+    "name": "SBT Nova Mutum",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8"
+  },
+  {
+    "name": "SBT Rondonopolis",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8"
   },
   {
     "name": "SIC TV (720p)",
@@ -1335,13 +1377,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/SONY_MOVIES/index.m3u8"
-  },
-  {
-    "name": "SOU TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
   },
   {
     "name": "South Park: Colecao Cartman",
@@ -1412,6 +1447,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
+  },
+  {
+    "name": "Telecine Action (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://46.151.196.223:14326/"
   },
   {
     "name": "Terra Viva (720p)",
@@ -1785,6 +1827,13 @@
     "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
   },
   {
+    "name": "TV Sim Cachoeiro (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
+  },
+  {
     "name": "TV Terceiro Anjo (360p)",
     "logo": "",
     "group": "Geral",
@@ -1867,13 +1916,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8"
-  },
-  {
-    "name": "TVitape (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8"
   },
   {
     "name": "TVLatinaSat (720p)",
