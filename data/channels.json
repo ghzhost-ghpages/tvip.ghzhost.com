@@ -1,5 +1,12 @@
 [
   {
+    "name": "+MaisUm (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8"
+  },
+  {
     "name": "A&E Latin America Brazil (720p)",
     "logo": "",
     "group": "Geral",
@@ -40,6 +47,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+  },
+  {
+    "name": "AMC Latin America Brazil (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://170.83.49.66:8083/AMCHD/index.m3u8"
   },
   {
     "name": "Angel TV Portuguese (720p)",
@@ -511,6 +525,13 @@
     "url": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
   },
   {
+    "name": "KpopTV Play (576p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+  },
+  {
     "name": "Kuriakos Kids (1080p)",
     "logo": "",
     "group": "Geral",
@@ -719,13 +740,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/NOVO_TEMPO/index.m3u8"
-  },
-  {
-    "name": "NTV (Brazil) (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8"
   },
   {
     "name": "Numbers (United States)",
@@ -1351,13 +1365,6 @@
     "url": "http://45.162.64.114/SONY_MOVIES/index.m3u8"
   },
   {
-    "name": "SOU TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
-  },
-  {
     "name": "South Park: Colecao Cartman",
     "logo": "",
     "group": "Geral",
@@ -1419,13 +1426,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
-  },
-  {
-    "name": "TELE 6 (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
   },
   {
     "name": "Telecine Action (1080p)",
@@ -1540,6 +1540,13 @@
     "url": "http://45.162.64.114/TV_APARECIDA/index.m3u8"
   },
   {
+    "name": "TV Arapuan (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
+  },
+  {
     "name": "like Gecko) Chrome/129.0.0.0 Safari/537.36\" group-title=\"Undefined\",TV Bahia (1080i)",
     "logo": "",
     "group": "Geral",
@@ -1652,6 +1659,13 @@
     "url": "http://45.162.64.114/TV_GAZETA/index.m3u8"
   },
   {
+    "name": "TV Globo Brasilia (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "http://79.127.238.228:14173/"
+  },
+  {
     "name": "TV GRANDE NATAL HDTV BRASIL (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1762,6 +1776,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
+  },
+  {
+    "name": "TV Petropolis (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
   },
   {
     "name": "TV Ra Tim Bum (720p)",
@@ -1932,6 +1953,13 @@
     "url": "http://45.162.64.114/WOOHOO/index.m3u8"
   },
   {
+    "name": "ADB TV (1080p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Portugal",
+    "url": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8"
+  },
+  {
     "name": "ARTV (720p) [Not 24/7]",
     "logo": "",
     "group": "Geral",
@@ -2077,13 +2105,6 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8"
-  },
-  {
-    "name": "RTP Memoria (504p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8"
   },
   {
     "name": "RTP Noticias (720p) [Not 24/7]",
