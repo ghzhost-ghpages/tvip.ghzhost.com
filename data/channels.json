@@ -1568,6 +1568,13 @@
     "url": "http://45.162.64.114/TV_BRASIL/index.m3u8"
   },
   {
+    "name": "TV Brasil Oeste (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+  },
+  {
     "name": "TV BRICS Portuguese (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1911,6 +1918,13 @@
     "url": "https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8"
   },
   {
+    "name": "TVitape (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8"
+  },
+  {
     "name": "TVLatinaSat (720p)",
     "logo": "",
     "group": "Geral",
@@ -2093,18 +2107,11 @@
     "url": "https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8"
   },
   {
-    "name": "RTP 1 (720p) [Not 24/7]",
+    "name": "RFPtv (360p)",
     "logo": "",
     "group": "Geral",
     "country": "Portugal",
-    "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8"
-  },
-  {
-    "name": "RTP 2 (720p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8"
+    "url": "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8"
   },
   {
     "name": "RTP Acores (720p) [Not 24/7]",
