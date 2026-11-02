@@ -525,6 +525,13 @@
     "url": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8"
   },
   {
+    "name": "KpopTV Play (576p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+  },
+  {
     "name": "Kuriakos Kids (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1274,13 +1281,6 @@
     "url": "https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8"
   },
   {
-    "name": "RedeTV! Parana",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8"
-  },
-  {
     "name": "Retro Cartoon (720p)",
     "logo": "",
     "group": "Geral",
@@ -1330,6 +1330,13 @@
     "url": "https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8"
   },
   {
+    "name": "SBT Rondonopolis",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8"
+  },
+  {
     "name": "SIC TV (720p)",
     "logo": "",
     "group": "Geral",
@@ -1356,13 +1363,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://45.162.64.114/SONY_MOVIES/index.m3u8"
-  },
-  {
-    "name": "SOU TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
   },
   {
     "name": "South Park: Colecao Cartman",
@@ -1426,13 +1426,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
-  },
-  {
-    "name": "TELE 6 (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8"
   },
   {
     "name": "Telecine Action (1080p)",
@@ -1568,13 +1561,6 @@
     "url": "http://45.162.64.114/TV_BRASIL/index.m3u8"
   },
   {
-    "name": "TV Brasil Oeste (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
-  },
-  {
     "name": "TV BRICS Portuguese (1080p)",
     "logo": "",
     "group": "Geral",
@@ -1615,13 +1601,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8"
-  },
-  {
-    "name": "TV Comunitaria (360p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR="
   },
   {
     "name": "TV Cultura (720p)",
@@ -1678,6 +1657,13 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8"
+  },
+  {
+    "name": "TV Guara (720p) [Not 24/7]",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
   },
   {
     "name": "like Gecko) Chrome/154.0.0.0 Safari/537.36\" group-title=\"General\",TV Guarapari (720p)",
@@ -1813,13 +1799,6 @@
     "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
   },
   {
-    "name": "TV Sim Cachoeiro (720p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
-  },
-  {
     "name": "TV Sim Sao Mateus (720p)",
     "logo": "",
     "group": "Geral",
@@ -1846,13 +1825,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8"
-  },
-  {
-    "name": "TV Vicosa (480p)",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8"
   },
   {
     "name": "TV Vila Real (720p)",
@@ -2133,13 +2105,6 @@
     "group": "Geral",
     "country": "Portugal",
     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8"
-  },
-  {
-    "name": "RTP Memoria (504p) [Not 24/7]",
-    "logo": "",
-    "group": "Geral",
-    "country": "Portugal",
-    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8"
   },
   {
     "name": "RTP Noticias (720p) [Not 24/7]",
