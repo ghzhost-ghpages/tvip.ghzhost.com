@@ -123,8 +123,6 @@ https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Filmes Suspense" group-title="Geral",Filmes Suspense (Brasil)
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fonte TV" group-title="Geral",Fonte TV (Brasil)
-https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Futura (720p)" group-title="Geral",Futura (720p) (Brasil)
 http://170.83.49.66:8083/FUTURAHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GloboNews (1080p)" group-title="Geral",GloboNews (1080p) (Brasil)
@@ -389,6 +387,8 @@ https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 http://170.83.16.50/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Movies (Brazil) (720p)" group-title="Geral",Sony Movies (Brazil) (720p) (Brasil)
 http://45.162.64.114/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SOU TV" group-title="Geral",SOU TV (Brasil)
+https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="South Park: Colecao Cartman" group-title="Geral",South Park: Colecao Cartman (Brasil)
 https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="South Park: Colecao Kenny" group-title="Geral",South Park: Colecao Kenny (Brasil)
@@ -513,6 +513,8 @@ https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 http://45.162.64.114/TV_SENADO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Series (480p)" group-title="Geral",TV Series (480p) (Brasil)
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Sim Cachoeiro (720p)" group-title="Geral",TV Sim Cachoeiro (720p) (Brasil)
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Sim Sao Mateus (720p)" group-title="Geral",TV Sim Sao Mateus (720p) (Brasil)
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Terceiro Anjo (360p)" group-title="Geral",TV Terceiro Anjo (360p) (Brasil)
@@ -527,8 +529,6 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV+Pet" group-title="Geral",TV+Pet (Brasil)
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVC-Rio" group-title="Geral",TVC-Rio (Brasil)
-https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVCOM Maceio (480p)" group-title="Geral",TVCOM Maceio (480p) (Brasil)
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVE Bahia (1080p)" group-title="Geral",TVE Bahia (1080p) (Brasil)

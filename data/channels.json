@@ -434,13 +434,6 @@
     "url": "https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8"
   },
   {
-    "name": "Fonte TV",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8"
-  },
-  {
     "name": "Futura (720p)",
     "logo": "",
     "group": "Geral",
@@ -1365,6 +1358,13 @@
     "url": "http://45.162.64.114/SONY_MOVIES/index.m3u8"
   },
   {
+    "name": "SOU TV",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8"
+  },
+  {
     "name": "South Park: Colecao Cartman",
     "logo": "",
     "group": "Geral",
@@ -1799,6 +1799,13 @@
     "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
   },
   {
+    "name": "TV Sim Cachoeiro (720p)",
+    "logo": "",
+    "group": "Geral",
+    "country": "Brasil",
+    "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
+  },
+  {
     "name": "TV Sim Sao Mateus (720p)",
     "logo": "",
     "group": "Geral",
@@ -1846,13 +1853,6 @@
     "group": "Geral",
     "country": "Brasil",
     "url": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8"
-  },
-  {
-    "name": "TVC-Rio",
-    "logo": "",
-    "group": "Geral",
-    "country": "Brasil",
-    "url": "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8"
   },
   {
     "name": "TVCOM Maceio (480p)",
